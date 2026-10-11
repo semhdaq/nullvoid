@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-10-11T11:41:13.606Z",
+  "generated_at": "2026-10-11T16:51:39.535Z",
   "generated_at_tr": "11 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "11 Eki",
+        "source": "TechCrunch",
+        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+        "desc": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+        "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
+      },
       {
         "date": "11 Eki",
         "source": "The Verge",
@@ -44,13 +51,6 @@
         "title": "Here are the top AI agents that can live in your text messages",
         "desc": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
         "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
-      },
-      {
-        "date": "10 Eki",
-        "source": "The Verge",
-        "title": "AI agent makers are promising privacy — will they deliver?",
-        "desc": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veil",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
       }
     ],
     "kod": [
