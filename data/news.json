@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-10-11T02:27:00.622Z",
+  "generated_at": "2026-10-11T11:41:13.606Z",
   "generated_at_tr": "11 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "11 Eki",
+        "source": "The Verge",
+        "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+        "desc": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nI'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+      },
       {
         "date": "10 Eki",
         "source": "The Verge",
@@ -44,13 +51,6 @@
         "title": "AI agent makers are promising privacy — will they deliver?",
         "desc": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veil",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
-      },
-      {
-        "date": "10 Eki",
-        "source": "Simon Willison",
-        "title": "Quoting The New York Times",
-        "desc": "<blockquote cite=\"https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html\"><p>Anthropic detailed the activity of its A.I. agents in <a href=\"https://www.anthropic.com/research/investigating-unintende",
-        "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
       }
     ],
     "kod": [
@@ -106,6 +106,13 @@
     ],
     "arac": [
       {
+        "date": "11 Eki",
+        "source": "Product Hunt",
+        "title": "Gboard Kurukuru Version",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/google"
+      },
+      {
         "date": "10 Eki",
         "source": "TechCrunch",
         "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
@@ -122,37 +129,30 @@
       {
         "date": "10 Eki",
         "source": "Product Hunt",
-        "title": "Lune",
+        "title": "NotchPit",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/lune-research"
+        "url": "https://www.producthunt.com/products/notchpit"
       },
       {
         "date": "10 Eki",
         "source": "Product Hunt",
-        "title": "Maildun for Mac",
+        "title": "Agibot",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/maildun-for-mac"
+        "url": "https://www.producthunt.com/products/agibot"
       },
       {
-        "date": "9 Eki",
+        "date": "10 Eki",
         "source": "Product Hunt",
-        "title": "PixRater",
+        "title": "Farol",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/pixrater"
+        "url": "https://www.producthunt.com/products/farol-3"
       },
       {
-        "date": "9 Eki",
+        "date": "10 Eki",
         "source": "Product Hunt",
-        "title": "put·here",
+        "title": "EdgeVolume",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/put-here"
-      },
-      {
-        "date": "9 Eki",
-        "source": "Product Hunt",
-        "title": "Letra",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/letra-3"
+        "url": "https://www.producthunt.com/products/edgevolume-volume-at-your-fingertips"
       }
     ]
   }
