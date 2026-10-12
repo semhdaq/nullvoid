@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-10-12T13:39:24.066Z",
+  "generated_at": "2026-10-12T23:52:10.467Z",
   "generated_at_tr": "12 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "12 Eki",
+        "source": "TechCrunch",
+        "title": "Meta releases its first frontier model, Muse Wonder",
+        "desc": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+        "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+      },
+      {
+        "date": "12 Eki",
+        "source": "TechCrunch",
+        "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+        "desc": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+        "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+      },
+      {
+        "date": "12 Eki",
         "source": "The Verge",
-        "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-        "desc": "Microsoft’s Maia 300 chip. | Image: Microsoft\t\n\nMicrosoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 n",
-        "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+        "title": "Meta has some Wonder Full new AI models",
+        "desc": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go t",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
       },
       {
         "date": "12 Eki",
         "source": "TechCrunch",
-        "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-        "desc": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
-        "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
+        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+        "desc": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+        "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
       },
       {
         "date": "12 Eki",
-        "source": "MIT Tech Review",
-        "title": "Mars may be a hellhole, but the moon is not far behind",
-        "desc": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface b",
-        "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
+        "source": "TechCrunch",
+        "title": "Microsoft president says UK is best placed to drive AI regulation",
+        "desc": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+        "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
       },
       {
         "date": "12 Eki",
-        "source": "MIT Tech Review",
-        "title": "The ecologist revealing the invisible networks that revive rainforests",
-        "desc": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a sen",
-        "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
-      },
-      {
-        "date": "11 Eki",
         "source": "TechCrunch",
-        "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-        "desc": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-        "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
+        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+        "desc": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+        "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
       },
       {
-        "date": "11 Eki",
-        "source": "The Verge",
-        "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-        "desc": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking w",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
-      },
-      {
-        "date": "11 Eki",
-        "source": "TechCrunch",
-        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-        "desc": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-        "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+        "date": "12 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Beyond the AI noise: How Stack Overflow is rethinking tech hiring",
+        "desc": "It’s gotten exponentially harder to identify talent that we feel is a good fit for our teams at the top of the application funnel.",
+        "url": "https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/"
       }
     ],
     "kod": [
+      {
+        "date": "12 Eki",
+        "source": "Simon Willison",
+        "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+        "desc": "<p>Python 3.15 <a href=\"https://www.python.org/downloads/release/python-3150/\">is here</a>! Here's the essential <a href=\"https://docs.python.org/3.15/whatsnew/3.15.html\">What's new in Python 3.15</a> guide, this year cu",
+        "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
+      },
+      {
+        "date": "12 Eki",
+        "source": "GitHub Blog",
+        "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+        "desc": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.\nThe post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"
+      },
+      {
+        "date": "12 Eki",
+        "source": "TechCrunch",
+        "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+        "desc": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping w",
+        "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/"
+      },
       {
         "date": "12 Eki",
         "source": "MIT Tech Review",
@@ -81,30 +102,16 @@
         "title": "Deno is joining Cloudflare",
         "desc": "<p><strong><a href=\"https://deno.com/blog/cloudflare\">Deno is joining Cloudflare</a></strong></p>\nThe Deno team released the first version of <a href=\"https://github.com/denoland/celld\">celld</a> back in August - their o",
         "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
-      },
-      {
-        "date": "9 Eki",
-        "source": "Simon Willison",
-        "title": "Quoting Matthew Green",
-        "desc": "<blockquote cite=\"https://twitter.com/matthew_d_green/status/2108552414978564418\"><p>Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there ",
-        "url": "https://simonwillison.net/2026/Oct/9/matthew-green/"
-      },
-      {
-        "date": "9 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "A Treatise on Model Oriented Programming Languages",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages/"
-      },
-      {
-        "date": "9 Eki",
-        "source": "MIT Tech Review",
-        "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-        "desc": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological",
-        "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/"
       }
     ],
     "arac": [
+      {
+        "date": "12 Eki",
+        "source": "Simon Willison",
+        "title": "datasette-ports 0.4",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-ports/releases/tag/0.4\">datasette-ports 0.4</a></p>\n        <p>My plugin for detecting and listing all Datasette instances on the current machi",
+        "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/"
+      },
       {
         "date": "12 Eki",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "Dropstone CLI",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/dropstone-cli"
-      },
-      {
-        "date": "11 Eki",
-        "source": "Product Hunt",
-        "title": "Cube Forms",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cube-forms"
       }
     ]
   }
