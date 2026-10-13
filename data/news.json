@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-10-12T23:52:10.467Z",
-  "generated_at_tr": "12 Eki 2026",
+  "generated_at": "2026-10-13T13:01:57.169Z",
+  "generated_at_tr": "13 Eki 2026",
   "categories": {
     "ai": [
       {
-        "date": "12 Eki",
+        "date": "13 Eki",
         "source": "TechCrunch",
-        "title": "Meta releases its first frontier model, Muse Wonder",
-        "desc": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-        "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+        "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+        "desc": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+        "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
       },
       {
-        "date": "12 Eki",
+        "date": "13 Eki",
         "source": "TechCrunch",
-        "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-        "desc": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-        "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+        "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+        "desc": "The startup will sell some of its assets to Disney for $20 million.",
+        "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
       },
       {
-        "date": "12 Eki",
+        "date": "13 Eki",
+        "source": "MIT Tech Review",
+        "title": "The Download: open model trade-offs and geothermal power’s promise",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently rel",
+        "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
+      },
+      {
+        "date": "13 Eki",
         "source": "The Verge",
-        "title": "Meta has some Wonder Full new AI models",
-        "desc": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go t",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+        "title": "Character.AI files for bankruptcy",
+        "desc": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or rolepla",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
       },
       {
-        "date": "12 Eki",
-        "source": "TechCrunch",
-        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-        "desc": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-        "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+        "date": "13 Eki",
+        "source": "MIT Tech Review",
+        "title": "Open models have real benefits. Do they outweigh the risks?",
+        "desc": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
+        "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
       },
       {
-        "date": "12 Eki",
-        "source": "TechCrunch",
-        "title": "Microsoft president says UK is best placed to drive AI regulation",
-        "desc": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-        "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+        "date": "13 Eki",
+        "source": "MIT Tech Review",
+        "title": "AI labs are buying data from dead startups to train their models",
+        "desc": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives ",
+        "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
       },
       {
-        "date": "12 Eki",
-        "source": "TechCrunch",
-        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-        "desc": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-        "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
-      },
-      {
-        "date": "12 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Beyond the AI noise: How Stack Overflow is rethinking tech hiring",
-        "desc": "It’s gotten exponentially harder to identify talent that we feel is a good fit for our teams at the top of the application funnel.",
-        "url": "https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/"
+        "date": "13 Eki",
+        "source": "Product Hunt",
+        "title": "The Drive AI",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/the-drive-ai-2"
       }
     ],
     "kod": [
+      {
+        "date": "13 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Keep calm and call clone with Rust",
+        "desc": "Ryan sits down with Josh Triplett, member of the Rust Leadership Team at the Rust Project, to chat about how the borrow checker delivers compile-time memory safety without garbage collection overhead, why Rust consistent",
+        "url": "https://stackoverflow.blog/2026/10/13/keep-calm-and-call-clone-with-rust/"
+      },
+      {
+        "date": "12 Eki",
+        "source": "Product Hunt",
+        "title": "OpenCode 2.0",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/opencode"
+      },
       {
         "date": "12 Eki",
         "source": "Simon Willison",
@@ -70,6 +84,13 @@
       },
       {
         "date": "12 Eki",
+        "source": "Simon Willison",
+        "title": "web-edit 0.1a0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/web-edit/releases/tag/0.1a0\">web-edit 0.1a0</a></p>\n        <p>I was working on a project from my phone using Codex Remote when I found myself wanting to ed",
+        "url": "https://simonwillison.net/2026/Oct/12/web-edit/"
+      },
+      {
+        "date": "12 Eki",
         "source": "TechCrunch",
         "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
         "desc": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping w",
@@ -81,78 +102,57 @@
         "title": "The Download: moon city problems and drone traffic controllers",
         "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing",
         "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
-      },
-      {
-        "date": "11 Eki",
-        "source": "Simon Willison",
-        "title": "Dwarf Fortress uses version control now",
-        "desc": "<p>I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from ve",
-        "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/"
-      },
-      {
-        "date": "10 Eki",
-        "source": "Simon Willison",
-        "title": "Python 3.15.0 added to actions/python-versions",
-        "desc": "<p><strong><a href=\"https://github.com/actions/python-versions/commit/49858b91c92d27403416ee43117032e91d00ce24\">Python 3.15.0 added to actions/python-versions</a></strong></p>\nBit of a niche link, but I've been waiting f",
-        "url": "https://simonwillison.net/2026/Oct/10/python-actions/"
-      },
-      {
-        "date": "9 Eki",
-        "source": "Simon Willison",
-        "title": "Deno is joining Cloudflare",
-        "desc": "<p><strong><a href=\"https://deno.com/blog/cloudflare\">Deno is joining Cloudflare</a></strong></p>\nThe Deno team released the first version of <a href=\"https://github.com/denoland/celld\">celld</a> back in August - their o",
-        "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
       }
     ],
     "arac": [
       {
+        "date": "13 Eki",
+        "source": "Product Hunt",
+        "title": "GotEmail",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/gotemail"
+      },
+      {
+        "date": "13 Eki",
+        "source": "Product Hunt",
+        "title": "OpenFlowKit 2",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/openflowkit"
+      },
+      {
+        "date": "13 Eki",
+        "source": "Product Hunt",
+        "title": "Toby",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/toby-5"
+      },
+      {
+        "date": "13 Eki",
+        "source": "Product Hunt",
+        "title": "HarnessHive",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/harnesshive"
+      },
+      {
         "date": "12 Eki",
-        "source": "Simon Willison",
-        "title": "datasette-ports 0.4",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-ports/releases/tag/0.4\">datasette-ports 0.4</a></p>\n        <p>My plugin for detecting and listing all Datasette instances on the current machi",
-        "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/"
+        "source": "Product Hunt",
+        "title": "AdHelm CLI",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/adhelm-cli"
       },
       {
         "date": "12 Eki",
         "source": "Product Hunt",
-        "title": "Kudos 3.0",
+        "title": "vibesmonitor.com",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/kudos-smart-wallet"
+        "url": "https://www.producthunt.com/products/vibesmonitor"
       },
       {
-        "date": "11 Eki",
-        "source": "TechCrunch",
-        "title": "Will the HomeView be Apple’s first smart home success?",
-        "desc": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-        "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
-      },
-      {
-        "date": "11 Eki",
+        "date": "12 Eki",
         "source": "Product Hunt",
-        "title": "ExcaliClaw",
+        "title": "Muse Wonder",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/excaliclaw"
-      },
-      {
-        "date": "11 Eki",
-        "source": "Product Hunt",
-        "title": "Manifold MCP",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/manifold-mcp"
-      },
-      {
-        "date": "11 Eki",
-        "source": "Product Hunt",
-        "title": "Scrape Anything by Context.dev",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/context-dev"
-      },
-      {
-        "date": "11 Eki",
-        "source": "Product Hunt",
-        "title": "Dropstone CLI",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/dropstone-cli"
+        "url": "https://www.producthunt.com/products/meta-ai"
       }
     ]
   }
