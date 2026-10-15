@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-10-15T10:26:29.150Z",
+  "generated_at": "2026-10-15T15:50:32.849Z",
   "generated_at_tr": "15 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "15 Eki",
-        "source": "MIT Tech Review",
-        "title": "How much more can nuclear power plants give?",
-        "desc": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do jus",
-        "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "MIT Tech Review",
-        "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-        "desc": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs",
-        "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/"
+        "source": "Stack Overflow Blog",
+        "title": "Why your platform team shouldn't build an AI context layer (even though they probably could)",
+        "desc": "Most engineering teams capable of building an internal AI knowledge system think they should. But six months later, it's a platform team's full-time job. Building an in-house AI context layer costs more money and energy ",
+        "url": "https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/"
       },
       {
         "date": "15 Eki",
         "source": "TechCrunch",
-        "title": "Figma announces new features to define how agents work on its platform",
-        "desc": "Figma is also releasing its code layers feature in open beta.",
-        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+        "title": "AI agents are coming to Rivian’s cars",
+        "desc": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+        "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
       },
       {
         "date": "15 Eki",
         "source": "TechCrunch",
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "desc": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+        "title": "TechCrunch Disrupt 2026: Last day",
+        "desc": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+        "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
       },
       {
         "date": "15 Eki",
-        "source": "TechCrunch",
-        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-        "desc": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball int",
-        "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
+        "source": "Simon Willison",
+        "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+        "desc": "<p><strong><a href=\"https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1\">Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</a></strong></p>\nThe phrase \"told inve",
+        "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/"
       },
       {
-        "date": "14 Eki",
+        "date": "15 Eki",
         "source": "The Verge",
-        "title": "McKinsey is making job applicants spar with a fake AI client",
-        "desc": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal.\nTh",
-        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview"
+        "title": "Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays",
+        "desc": "Save all of the products you’re browsing in one place. | Image: Google\t\n\nGoogle's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Univers",
+        "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch"
       },
       {
-        "date": "14 Eki",
+        "date": "15 Eki",
         "source": "TechCrunch",
-        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-        "desc": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-        "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/"
+        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+        "desc": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create t",
+        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
+      },
+      {
+        "date": "15 Eki",
+        "source": "The Verge",
+        "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+        "desc": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new sub",
+        "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"
       }
     ],
     "kod": [
+      {
+        "date": "15 Eki",
+        "source": "MIT Tech Review",
+        "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidne",
+        "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/"
+      },
       {
         "date": "15 Eki",
         "source": "MIT Tech Review",
@@ -95,16 +102,16 @@
         "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
         "desc": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%.\nThe post GitHub’s model for secret detection: Finding more secrets ",
         "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/"
-      },
-      {
-        "date": "13 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Why Your Sandbox Never Quite Matches Production (And Why That's Fine)",
-        "desc": "Sandbox testing works best when you stop chasing production parity. Learn what environment drift actually costs and which parts are worth fixing.",
-        "url": "https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine/"
       }
     ],
     "arac": [
+      {
+        "date": "15 Eki",
+        "source": "TechCrunch",
+        "title": "Google’s Universal Cart shopping tool launches in the US",
+        "desc": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+      },
       {
         "date": "15 Eki",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "Atticus",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/atticus"
-      },
-      {
-        "date": "14 Eki",
-        "source": "Product Hunt",
-        "title": "Superdraft",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/superdraft"
       }
     ]
   }
