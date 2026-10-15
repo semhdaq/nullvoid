@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-15T02:01:50.378Z",
+  "generated_at": "2026-10-15T10:26:29.150Z",
   "generated_at_tr": "15 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "15 Eki",
+        "source": "MIT Tech Review",
+        "title": "How much more can nuclear power plants give?",
+        "desc": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do jus",
+        "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
+      },
+      {
+        "date": "15 Eki",
+        "source": "MIT Tech Review",
+        "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+        "desc": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs",
+        "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/"
+      },
+      {
+        "date": "15 Eki",
+        "source": "TechCrunch",
+        "title": "Figma announces new features to define how agents work on its platform",
+        "desc": "Figma is also releasing its code layers feature in open beta.",
+        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+      },
       {
         "date": "15 Eki",
         "source": "TechCrunch",
@@ -30,30 +51,16 @@
         "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
         "desc": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
         "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/"
-      },
-      {
-        "date": "14 Eki",
-        "source": "The Verge",
-        "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-        "desc": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separatel",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
-      },
-      {
-        "date": "14 Eki",
-        "source": "The Verge",
-        "title": "The AI race is back on",
-        "desc": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images\t\n\nLast week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
-      },
-      {
-        "date": "14 Eki",
-        "source": "The Verge",
-        "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-        "desc": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding.\nJames is among",
-        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
       }
     ],
     "kod": [
+      {
+        "date": "15 Eki",
+        "source": "MIT Tech Review",
+        "title": "Six wild ideas for perpetuating your mind",
+        "desc": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot t",
+        "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/"
+      },
       {
         "date": "14 Eki",
         "source": "GitHub Blog",
@@ -95,16 +102,30 @@
         "title": "Why Your Sandbox Never Quite Matches Production (And Why That's Fine)",
         "desc": "Sandbox testing works best when you stop chasing production parity. Learn what environment drift actually costs and which parts are worth fixing.",
         "url": "https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine/"
-      },
-      {
-        "date": "13 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Keep calm and call clone with Rust",
-        "desc": "Ryan sits down with Josh Triplett, member of the Rust Leadership Team at the Rust Project, to chat about how the borrow checker delivers compile-time memory safety without garbage collection overhead, why Rust consistent",
-        "url": "https://stackoverflow.blog/2026/10/13/keep-calm-and-call-clone-with-rust/"
       }
     ],
     "arac": [
+      {
+        "date": "15 Eki",
+        "source": "Product Hunt",
+        "title": "Audio Lip Sync Pro for Blender",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/audio-lip-sync-pro-for-blender"
+      },
+      {
+        "date": "15 Eki",
+        "source": "Product Hunt",
+        "title": "Brussle",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/brussle-2"
+      },
+      {
+        "date": "14 Eki",
+        "source": "Product Hunt",
+        "title": "Basedash Connector gallery",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/basedash"
+      },
       {
         "date": "14 Eki",
         "source": "Simon Willison",
@@ -115,44 +136,23 @@
       {
         "date": "14 Eki",
         "source": "Product Hunt",
-        "title": "RoleFit",
+        "title": "CinemaLut",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/rolefit"
+        "url": "https://www.producthunt.com/products/cinemalut"
       },
       {
         "date": "14 Eki",
         "source": "Product Hunt",
-        "title": "PixLate",
+        "title": "Atticus",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/pixlate"
+        "url": "https://www.producthunt.com/products/atticus"
       },
       {
         "date": "14 Eki",
         "source": "Product Hunt",
-        "title": "WriterzRoom",
+        "title": "Superdraft",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/writerzroom"
-      },
-      {
-        "date": "14 Eki",
-        "source": "Product Hunt",
-        "title": "Cloud Releases",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cloud-releases"
-      },
-      {
-        "date": "14 Eki",
-        "source": "Product Hunt",
-        "title": "Diagramly",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/diagramly-2"
-      },
-      {
-        "date": "13 Eki",
-        "source": "Product Hunt",
-        "title": "Specreel",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/specreel"
+        "url": "https://www.producthunt.com/products/superdraft"
       }
     ]
   }
