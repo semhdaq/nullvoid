@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-16T01:51:54.881Z",
+  "generated_at": "2026-10-16T10:13:54.833Z",
   "generated_at_tr": "16 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "16 Eki",
+        "source": "MIT Tech Review",
+        "title": "Love is infrastructure",
+        "desc": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Bot",
+        "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/"
+      },
+      {
+        "date": "16 Eki",
+        "source": "MIT Tech Review",
+        "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+        "desc": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time s",
+        "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/"
+      },
+      {
+        "date": "16 Eki",
+        "source": "MIT Tech Review",
+        "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+        "desc": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court ",
+        "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/"
+      },
       {
         "date": "15 Eki",
         "source": "TechCrunch",
@@ -30,30 +51,16 @@
         "title": "Meta launches an open-weight AI model that runs on Macs",
         "desc": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
         "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "TechCrunch",
-        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-        "desc": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-        "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "GitHub Blog",
-        "title": "The next developer interface is ambient intelligence",
-        "desc": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building.\nThe post The next developer interface is ambient intel",
-        "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "TechCrunch",
-        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-        "desc": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-        "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
       }
     ],
     "kod": [
+      {
+        "date": "16 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "AI says you’re right, formal methods say you’re wrong",
+        "desc": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing code, how Quint brings developer-friendly syntax and exec",
+        "url": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/"
+      },
       {
         "date": "15 Eki",
         "source": "GitHub Blog",
@@ -95,16 +102,23 @@
         "title": "Your next job doesn’t have a title yet: Emerging role skills Q&A with Corey Hymel of Andela",
         "desc": "While the whispers say that everyone is becoming a generalist, that's not where headcount is going.",
         "url": "https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/"
-      },
-      {
-        "date": "14 Eki",
-        "source": "MIT Tech Review",
-        "title": "The Download: faking blood and the future of batteries",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopt",
-        "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/"
       }
     ],
     "arac": [
+      {
+        "date": "16 Eki",
+        "source": "MIT Tech Review",
+        "title": "This implant can restore sight for patients with macular degeneration",
+        "desc": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting F",
+        "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
+      },
+      {
+        "date": "16 Eki",
+        "source": "Product Hunt",
+        "title": "Tesla Roadster",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/tesla-roadster"
+      },
       {
         "date": "15 Eki",
         "source": "The Verge",
@@ -121,6 +135,13 @@
       },
       {
         "date": "15 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "MCP standardized tools. Now we need the infrastructure around them.",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/"
+      },
+      {
+        "date": "15 Eki",
         "source": "The Verge",
         "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
         "desc": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others ",
@@ -132,27 +153,6 @@
         "title": "Chirp Pong",
         "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/chirp-pong\">Chirp Pong</a></p>\n        <p>Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones r",
         "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-        "desc": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
-        "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "TechCrunch",
-        "title": "Google’s Universal Cart shopping tool launches in the US",
-        "desc": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "Product Hunt",
-        "title": "Audio Lip Sync Pro for Blender",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/audio-lip-sync-pro-for-blender"
       }
     ]
   }
