@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-10-16T10:13:54.833Z",
+  "generated_at": "2026-10-16T15:39:00.140Z",
   "generated_at_tr": "16 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "16 Eki",
+        "source": "TechCrunch",
+        "title": "Jev is Vercel’s fastest-adopted AI model ever",
+        "desc": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
+        "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
+      },
+      {
+        "date": "16 Eki",
+        "source": "The Verge",
+        "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+        "desc": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nNvidia's RTX Spark N1X processor is finally",
+        "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
+      },
+      {
+        "date": "16 Eki",
+        "source": "TechCrunch",
+        "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+        "desc": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/"
+      },
+      {
+        "date": "16 Eki",
+        "source": "The Verge",
+        "title": "Meta’s new terms may allow it to train AI on news sites for free",
+        "desc": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, whic",
+        "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+      },
+      {
+        "date": "16 Eki",
+        "source": "TechCrunch",
+        "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+        "desc": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+        "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/"
+      },
       {
         "date": "16 Eki",
         "source": "MIT Tech Review",
@@ -16,44 +51,16 @@
         "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
         "desc": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time s",
         "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/"
-      },
-      {
-        "date": "16 Eki",
-        "source": "MIT Tech Review",
-        "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-        "desc": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court ",
-        "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "TechCrunch",
-        "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-        "desc": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-        "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "The Verge",
-        "title": "ChatGPT can peek at your Chrome tabs now",
-        "desc": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT ca",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
-      },
-      {
-        "date": "15 Eki",
-        "source": "The Verge",
-        "title": "Trump posts AI-edited photo to brag about White House restoration work",
-        "desc": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"re",
-        "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"
-      },
-      {
-        "date": "15 Eki",
-        "source": "TechCrunch",
-        "title": "Meta launches an open-weight AI model that runs on Macs",
-        "desc": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-        "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
       }
     ],
     "kod": [
+      {
+        "date": "16 Eki",
+        "source": "MIT Tech Review",
+        "title": "The Download: failed social media bans, and extending pets’ lives",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —",
+        "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/"
+      },
       {
         "date": "16 Eki",
         "source": "Stack Overflow Blog",
@@ -95,16 +102,16 @@
         "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
         "desc": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made.\nThe post From 2,500 requests to 24: Rebuilding ",
         "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/"
-      },
-      {
-        "date": "14 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Your next job doesn’t have a title yet: Emerging role skills Q&A with Corey Hymel of Andela",
-        "desc": "While the whispers say that everyone is becoming a generalist, that's not where headcount is going.",
-        "url": "https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/"
       }
     ],
     "arac": [
+      {
+        "date": "16 Eki",
+        "source": "TechCrunch",
+        "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+        "desc": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+        "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
+      },
       {
         "date": "16 Eki",
         "source": "MIT Tech Review",
@@ -118,6 +125,13 @@
         "title": "Tesla Roadster",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/tesla-roadster"
+      },
+      {
+        "date": "16 Eki",
+        "source": "Product Hunt",
+        "title": "GBrain Tools",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/gbrain"
       },
       {
         "date": "15 Eki",
@@ -139,20 +153,6 @@
         "title": "MCP standardized tools. Now we need the infrastructure around them.",
         "desc": "",
         "url": "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "The Verge",
-        "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-        "desc": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others ",
-        "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
-      },
-      {
-        "date": "15 Eki",
-        "source": "Simon Willison",
-        "title": "Chirp Pong",
-        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/chirp-pong\">Chirp Pong</a></p>\n        <p>Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones r",
-        "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/"
       }
     ]
   }
