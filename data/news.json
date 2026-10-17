@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-10-17T09:47:31.039Z",
+  "generated_at": "2026-10-17T14:30:48.466Z",
   "generated_at_tr": "17 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "17 Eki",
+        "source": "The Verge",
+        "title": "Websites are closing their doors to AI agents",
+        "desc": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+      },
       {
         "date": "16 Eki",
         "source": "Simon Willison",
@@ -44,13 +51,6 @@
         "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
         "desc": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, an",
         "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
-      },
-      {
-        "date": "16 Eki",
-        "source": "TechCrunch",
-        "title": "Elorian’s first AI model wants to reason with images, not just about them",
-        "desc": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-        "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
       }
     ],
     "kod": [
