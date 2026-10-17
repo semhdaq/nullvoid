@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-10-16T20:09:02.446Z",
-  "generated_at_tr": "16 Eki 2026",
+  "generated_at": "2026-10-17T09:47:31.039Z",
+  "generated_at_tr": "17 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "16 Eki",
+        "source": "Simon Willison",
+        "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+        "desc": "<blockquote cite=\"https://claude.dev/blog/solving-code-review-at-anthropic/\"><p>We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is",
+        "url": "https://simonwillison.net/2026/Oct/16/code-review/"
+      },
+      {
+        "date": "16 Eki",
+        "source": "TechCrunch",
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "desc": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      },
       {
         "date": "16 Eki",
         "source": "MIT Tech Review",
@@ -37,20 +51,6 @@
         "title": "Elorian’s first AI model wants to reason with images, not just about them",
         "desc": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
         "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
-      },
-      {
-        "date": "16 Eki",
-        "source": "TechCrunch",
-        "title": "Jev is Vercel’s fastest-adopted AI model ever",
-        "desc": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-        "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
-      },
-      {
-        "date": "16 Eki",
-        "source": "The Verge",
-        "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-        "desc": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nNvidia's RTX Spark N1X processor is finally",
-        "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
       }
     ],
     "kod": [
@@ -106,6 +106,27 @@
     ],
     "arac": [
       {
+        "date": "17 Eki",
+        "source": "Product Hunt",
+        "title": "Salience",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/salience"
+      },
+      {
+        "date": "17 Eki",
+        "source": "Product Hunt",
+        "title": "GPU Terminal by Context.dev",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/context-dev"
+      },
+      {
+        "date": "16 Eki",
+        "source": "Product Hunt",
+        "title": "Step 5 Preview",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/step-3-5-flash"
+      },
+      {
         "date": "16 Eki",
         "source": "TechCrunch",
         "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
@@ -122,37 +143,16 @@
       {
         "date": "16 Eki",
         "source": "Product Hunt",
-        "title": "Tesla Roadster",
+        "title": "Emochi",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tesla-roadster"
+        "url": "https://www.producthunt.com/products/emochi-2"
       },
       {
         "date": "16 Eki",
         "source": "Product Hunt",
-        "title": "GBrain Tools",
+        "title": "Draper",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/gbrain"
-      },
-      {
-        "date": "15 Eki",
-        "source": "The Verge",
-        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-        "desc": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.\nComplete Edition, a",
-        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled"
-      },
-      {
-        "date": "15 Eki",
-        "source": "The Verge",
-        "title": "The tech backlash is now in theaters",
-        "desc": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Re",
-        "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial"
-      },
-      {
-        "date": "15 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "MCP standardized tools. Now we need the infrastructure around them.",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/"
+        "url": "https://www.producthunt.com/products/draper"
       }
     ]
   }
