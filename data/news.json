@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-10-17T19:45:09.917Z",
-  "generated_at_tr": "17 Eki 2026",
+  "generated_at": "2026-10-18T01:44:28.838Z",
+  "generated_at_tr": "18 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "17 Eki",
         "source": "TechCrunch",
-        "title": "Replit is no longer working with Anthropic, CEO says",
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "desc": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+      },
+      {
+        "date": "17 Eki",
+        "source": "TechCrunch",
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "desc": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+      },
+      {
+        "date": "17 Eki",
+        "source": "TechCrunch",
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
         "desc": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
         "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
       },
@@ -37,20 +51,6 @@
         "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
         "desc": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f",
         "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
-      },
-      {
-        "date": "16 Eki",
-        "source": "TechCrunch",
-        "title": "India becomes the latest country to report rogue AI agent activity",
-        "desc": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
-      },
-      {
-        "date": "16 Eki",
-        "source": "TechCrunch",
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "desc": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, an",
-        "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
       }
     ],
     "kod": [
@@ -135,13 +135,6 @@
       },
       {
         "date": "16 Eki",
-        "source": "MIT Tech Review",
-        "title": "This implant can restore sight for patients with macular degeneration",
-        "desc": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in",
-        "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
-      },
-      {
-        "date": "16 Eki",
         "source": "Product Hunt",
         "title": "Emochi",
         "desc": "Discussion\n            |\n            Link",
@@ -153,6 +146,13 @@
         "title": "Draper",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/draper"
+      },
+      {
+        "date": "16 Eki",
+        "source": "Product Hunt",
+        "title": "Tesla Roadster",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/tesla-roadster"
       }
     ]
   }
