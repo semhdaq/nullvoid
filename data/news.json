@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T01:44:28.838Z",
+  "generated_at": "2026-10-18T09:59:30.641Z",
   "generated_at_tr": "18 Eki 2026",
   "categories": {
     "ai": [
@@ -39,21 +39,35 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
       },
       {
+        "date": "17 Eki",
+        "source": "Product Hunt",
+        "title": "Tomo for ChatGPT",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/tomo-for-chatgpt"
+      },
+      {
         "date": "16 Eki",
         "source": "Simon Willison",
         "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
         "desc": "<blockquote cite=\"https://claude.dev/blog/solving-code-review-at-anthropic/\"><p>We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is",
         "url": "https://simonwillison.net/2026/Oct/16/code-review/"
-      },
-      {
-        "date": "16 Eki",
-        "source": "MIT Tech Review",
-        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-        "desc": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f",
-        "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
       }
     ],
     "kod": [
+      {
+        "date": "17 Eki",
+        "source": "Simon Willison",
+        "title": "Inline rendering with document​.currentScript",
+        "desc": "<p><strong><a href=\"https://leanrada.com/notes/inline-rendering-currentscript/\">Inline rendering with document​.currentScript</a></strong></p>\nLean Rada describes a neat trick that takes advantage of the <a href=\"https:/",
+        "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/"
+      },
+      {
+        "date": "17 Eki",
+        "source": "Simon Willison",
+        "title": "web-edit 0.1a2",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/web-edit/releases/tag/0.1a2\">web-edit 0.1a2</a></p>\n        <p>web-edit (<a href=\"https://simonwillison.net/2026/Oct/12/web-edit/\">previously</a>) is my tin",
+        "url": "https://simonwillison.net/2026/Oct/17/web-edit/"
+      },
       {
         "date": "16 Eki",
         "source": "MIT Tech Review",
@@ -88,23 +102,30 @@
         "title": "Six wild ideas for perpetuating your mind",
         "desc": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot t",
         "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/"
-      },
-      {
-        "date": "14 Eki",
-        "source": "GitHub Blog",
-        "title": "GitHub availability report: September 2026",
-        "desc": "In September, we experienced two incidents that resulted in degraded performance across GitHub services.  \nThe post GitHub availability report: September 2026 appeared first on The GitHub Blog.",
-        "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/"
-      },
-      {
-        "date": "14 Eki",
-        "source": "GitHub Blog",
-        "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-        "desc": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made.\nThe post From 2,500 requests to 24: Rebuilding ",
-        "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/"
       }
     ],
     "arac": [
+      {
+        "date": "18 Eki",
+        "source": "Product Hunt",
+        "title": "Vampire Crawlers™",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/vampire-crawlers"
+      },
+      {
+        "date": "17 Eki",
+        "source": "Product Hunt",
+        "title": "Latch",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/latch-7"
+      },
+      {
+        "date": "17 Eki",
+        "source": "Product Hunt",
+        "title": "XBOX Nano Controller",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/microsoft-xbox-series-s"
+      },
       {
         "date": "17 Eki",
         "source": "Product Hunt",
@@ -122,37 +143,16 @@
       {
         "date": "16 Eki",
         "source": "Product Hunt",
-        "title": "Step 5 Preview",
+        "title": "MyLens",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/step-3-5-flash"
-      },
-      {
-        "date": "16 Eki",
-        "source": "TechCrunch",
-        "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-        "desc": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-        "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
+        "url": "https://www.producthunt.com/products/mylens-ai"
       },
       {
         "date": "16 Eki",
         "source": "Product Hunt",
-        "title": "Emochi",
+        "title": "SpeechFast",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/emochi-2"
-      },
-      {
-        "date": "16 Eki",
-        "source": "Product Hunt",
-        "title": "Draper",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/draper"
-      },
-      {
-        "date": "16 Eki",
-        "source": "Product Hunt",
-        "title": "Tesla Roadster",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tesla-roadster"
+        "url": "https://www.producthunt.com/products/speechfast"
       }
     ]
   }
