@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-10-18T14:57:29.159Z",
+  "generated_at": "2026-10-18T19:45:27.915Z",
   "generated_at_tr": "18 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "18 Eki",
+        "source": "The Verge",
+        "title": "A woman was arrested in Philly for blocking a delivery robot",
+        "desc": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of hu",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
+      },
+      {
+        "date": "18 Eki",
+        "source": "TechCrunch",
+        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+        "desc": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+      },
       {
         "date": "17 Eki",
         "source": "TechCrunch",
@@ -37,20 +51,6 @@
         "title": "Websites are closing their doors to AI agents",
         "desc": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
-      },
-      {
-        "date": "17 Eki",
-        "source": "Product Hunt",
-        "title": "Tomo for ChatGPT",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tomo-for-chatgpt"
-      },
-      {
-        "date": "16 Eki",
-        "source": "Simon Willison",
-        "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-        "desc": "<blockquote cite=\"https://claude.dev/blog/solving-code-review-at-anthropic/\"><p>We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is",
-        "url": "https://simonwillison.net/2026/Oct/16/code-review/"
       }
     ],
     "kod": [
