@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-10-18T19:45:27.915Z",
-  "generated_at_tr": "18 Eki 2026",
+  "generated_at": "2026-10-19T02:01:31.150Z",
+  "generated_at_tr": "19 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "18 Eki",
+        "source": "Simon Willison",
+        "title": "llm-echo 0.5",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-echo/releases/tag/0.5\">llm-echo 0.5</a></p>\n        <p>I'm working towards a new <a href=\"https://llm.datasette.io/\">LLM</a> release, and testing PRs ca",
+        "url": "https://simonwillison.net/2026/Oct/18/llm-echo/"
+      },
+      {
+        "date": "18 Eki",
+        "source": "TechCrunch",
+        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+        "desc": "Anthropic said that it will commit 5% of its shares to the fund.",
+        "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+      },
       {
         "date": "18 Eki",
         "source": "The Verge",
@@ -37,20 +51,6 @@
         "title": "Replit makes OpenAI its default over Anthropic, CEO says",
         "desc": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
         "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
-      },
-      {
-        "date": "17 Eki",
-        "source": "The Verge",
-        "title": "Meta removes language that may have allowed it to scrape news sites",
-        "desc": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the ",
-        "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
-      },
-      {
-        "date": "17 Eki",
-        "source": "The Verge",
-        "title": "Websites are closing their doors to AI agents",
-        "desc": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
       }
     ],
     "kod": [
@@ -107,6 +107,13 @@
     "arac": [
       {
         "date": "18 Eki",
+        "source": "Simon Willison",
+        "title": "llm-tools-datasette 0.1.1",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1\">llm-tools-datasette 0.1.1</a></p>\n        <p>When I switched LLM over to <a href=\"https://github.com/pydantic/httpx2",
+        "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
+      },
+      {
+        "date": "18 Eki",
         "source": "Product Hunt",
         "title": "Vampire Crawlers™",
         "desc": "Discussion\n            |\n            Link",
@@ -146,13 +153,6 @@
         "title": "MyLens",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/mylens-ai"
-      },
-      {
-        "date": "16 Eki",
-        "source": "Product Hunt",
-        "title": "SpeechFast",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/speechfast"
       }
     ]
   }
