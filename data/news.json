@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-10-19T17:50:08.037Z",
+  "generated_at": "2026-10-19T21:46:51.357Z",
   "generated_at_tr": "19 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "19 Eki",
+        "source": "The Verge",
+        "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+        "desc": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+      },
+      {
+        "date": "19 Eki",
+        "source": "TechCrunch",
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "desc": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+        "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+      },
+      {
+        "date": "19 Eki",
+        "source": "TechCrunch",
+        "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+        "desc": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for",
+        "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+      },
+      {
+        "date": "19 Eki",
+        "source": "TechCrunch",
+        "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+        "desc": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+        "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
+      },
+      {
+        "date": "19 Eki",
+        "source": "TechCrunch",
+        "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+        "desc": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+        "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
+      },
+      {
+        "date": "19 Eki",
+        "source": "TechCrunch",
+        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "desc": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+        "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+      },
+      {
+        "date": "19 Eki",
         "source": "MIT Tech Review",
-        "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-        "desc": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI wor",
-        "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "TechCrunch",
-        "title": "People are using AI to make their smart TVs dumb again",
-        "desc": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-        "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "TechCrunch",
-        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-        "desc": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-        "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Production-grade LLMs and agents: a field guide",
-        "desc": "A maturity model for taking agents from an impressive demo to a system people can depend on — with a self-assessment and the map to a deep-dive on each layer.",
-        "url": "https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "The Verge",
-        "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-        "desc": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy.\nIf you’ve been listening to the show, you know that one of my running theories is that those issues are driving a ",
-        "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
-      },
-      {
-        "date": "19 Eki",
-        "source": "The Verge",
-        "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-        "desc": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
-      },
-      {
-        "date": "19 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-        "desc": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
-        "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/"
+        "title": "Making the internet better for AI agents might make it worse for everyone else",
+        "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and",
+        "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
       }
     ],
     "kod": [
+      {
+        "date": "19 Eki",
+        "source": "GitHub Blog",
+        "title": "How to continue a GitHub Copilot app session in VS Code",
+        "desc": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.\nThe post How to continue a GitHub Copilot app session in VS Code appeared fir",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+      },
       {
         "date": "19 Eki",
         "source": "MIT Tech Review",
@@ -95,13 +102,6 @@
         "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
         "desc": "Put native GitHub features to work to review outside collaborator access and archive stale repositories.\nThe post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The G",
         "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/"
-      },
-      {
-        "date": "14 Eki",
-        "source": "GitHub Blog",
-        "title": "GitHub availability report: September 2026",
-        "desc": "In September, we experienced two incidents that resulted in degraded performance across GitHub services.  \nThe post GitHub availability report: September 2026 appeared first on The GitHub Blog.",
-        "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/"
       }
     ],
     "arac": [
