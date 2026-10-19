@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-10-19T02:01:31.150Z",
+  "generated_at": "2026-10-19T17:50:08.037Z",
   "generated_at_tr": "19 Eki 2026",
   "categories": {
     "ai": [
       {
-        "date": "18 Eki",
-        "source": "Simon Willison",
-        "title": "llm-echo 0.5",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-echo/releases/tag/0.5\">llm-echo 0.5</a></p>\n        <p>I'm working towards a new <a href=\"https://llm.datasette.io/\">LLM</a> release, and testing PRs ca",
-        "url": "https://simonwillison.net/2026/Oct/18/llm-echo/"
+        "date": "19 Eki",
+        "source": "MIT Tech Review",
+        "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+        "desc": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI wor",
+        "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
       },
       {
-        "date": "18 Eki",
+        "date": "19 Eki",
         "source": "TechCrunch",
-        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-        "desc": "Anthropic said that it will commit 5% of its shares to the fund.",
-        "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+        "title": "People are using AI to make their smart TVs dumb again",
+        "desc": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+        "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
       },
       {
-        "date": "18 Eki",
+        "date": "19 Eki",
+        "source": "TechCrunch",
+        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "desc": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+        "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+      },
+      {
+        "date": "19 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Production-grade LLMs and agents: a field guide",
+        "desc": "A maturity model for taking agents from an impressive demo to a system people can depend on — with a self-assessment and the map to a deep-dive on each layer.",
+        "url": "https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/"
+      },
+      {
+        "date": "19 Eki",
         "source": "The Verge",
-        "title": "A woman was arrested in Philly for blocking a delivery robot",
-        "desc": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of hu",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
+        "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+        "desc": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy.\nIf you’ve been listening to the show, you know that one of my running theories is that those issues are driving a ",
+        "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
       },
       {
-        "date": "18 Eki",
-        "source": "TechCrunch",
-        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-        "desc": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+        "date": "19 Eki",
+        "source": "The Verge",
+        "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "desc": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
       },
       {
-        "date": "17 Eki",
-        "source": "TechCrunch",
-        "title": "Meta removes language that raised scraping and AI training concerns",
-        "desc": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
-      },
-      {
-        "date": "17 Eki",
-        "source": "TechCrunch",
-        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-        "desc": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
-      },
-      {
-        "date": "17 Eki",
-        "source": "TechCrunch",
-        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-        "desc": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+        "date": "19 Eki",
+        "source": "TechCrunch Apps",
+        "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+        "desc": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+        "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/"
       }
     ],
     "kod": [
+      {
+        "date": "19 Eki",
+        "source": "MIT Tech Review",
+        "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+        "desc": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.  The blaze, possibly spa",
+        "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/"
+      },
       {
         "date": "17 Eki",
         "source": "Simon Willison",
@@ -90,21 +97,42 @@
         "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/"
       },
       {
-        "date": "15 Eki",
-        "source": "MIT Tech Review",
-        "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidne",
-        "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "MIT Tech Review",
-        "title": "Six wild ideas for perpetuating your mind",
-        "desc": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot t",
-        "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/"
+        "date": "14 Eki",
+        "source": "GitHub Blog",
+        "title": "GitHub availability report: September 2026",
+        "desc": "In September, we experienced two incidents that resulted in degraded performance across GitHub services.  \nThe post GitHub availability report: September 2026 appeared first on The GitHub Blog.",
+        "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/"
       }
     ],
     "arac": [
+      {
+        "date": "19 Eki",
+        "source": "Product Hunt",
+        "title": "croft",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/croft-2"
+      },
+      {
+        "date": "19 Eki",
+        "source": "Product Hunt",
+        "title": "Figma Specs",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/figma"
+      },
+      {
+        "date": "19 Eki",
+        "source": "Product Hunt",
+        "title": "Rusteerio by Context.dev",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/context-dev"
+      },
+      {
+        "date": "19 Eki",
+        "source": "Product Hunt",
+        "title": "Point and Yap",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/point-and-yap"
+      },
       {
         "date": "18 Eki",
         "source": "Simon Willison",
@@ -115,44 +143,16 @@
       {
         "date": "18 Eki",
         "source": "Product Hunt",
-        "title": "Vampire Crawlers™",
+        "title": "Umbra Mail",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/vampire-crawlers"
+        "url": "https://www.producthunt.com/products/umbra-mail"
       },
       {
-        "date": "17 Eki",
+        "date": "18 Eki",
         "source": "Product Hunt",
-        "title": "Latch",
+        "title": "Switch Lab",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/latch-7"
-      },
-      {
-        "date": "17 Eki",
-        "source": "Product Hunt",
-        "title": "XBOX Nano Controller",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/microsoft-xbox-series-s"
-      },
-      {
-        "date": "17 Eki",
-        "source": "Product Hunt",
-        "title": "Salience",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/salience"
-      },
-      {
-        "date": "17 Eki",
-        "source": "Product Hunt",
-        "title": "GPU Terminal by Context.dev",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/context-dev"
-      },
-      {
-        "date": "16 Eki",
-        "source": "Product Hunt",
-        "title": "MyLens",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/mylens-ai"
+        "url": "https://www.producthunt.com/products/switch-lab"
       }
     ]
   }
