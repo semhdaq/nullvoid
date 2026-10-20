@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-20T02:18:28.457Z",
+  "generated_at": "2026-10-20T10:30:16.283Z",
   "generated_at_tr": "20 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "20 Eki",
+        "source": "MIT Tech Review",
+        "title": "How to study a swiftly melting climate disaster",
+        "desc": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the",
+        "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "MIT Tech Review",
+        "title": "A visit to Samsung’s massive new semiconductor hub",
+        "desc": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor",
+        "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Don't forget about the UI for AI",
+        "desc": "Recorded at OpenAI Dev Day 2026, Ryan sits down with Andrew Ambrosino, member of the technical staff at OpenAI, for a conversation on OpenAI's strategy for merging ChatGPT and Codex into a unified experience, the advanta",
+        "url": "https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/"
+      },
       {
         "date": "20 Eki",
         "source": "TechCrunch",
@@ -30,27 +51,6 @@
         "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
         "desc": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
         "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "The Verge",
-        "title": "The fossil fuel comeback is here",
-        "desc": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows.\nElectricity demand is also climbing faster than it has in more than a decade with m",
-        "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report"
-      },
-      {
-        "date": "19 Eki",
-        "source": "The Verge",
-        "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-        "desc": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
-      },
-      {
-        "date": "19 Eki",
-        "source": "TechCrunch",
-        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-        "desc": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-        "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
       }
     ],
     "kod": [
@@ -91,68 +91,68 @@
       },
       {
         "date": "16 Eki",
-        "source": "MIT Tech Review",
-        "title": "The Download: failed social media bans, and extending pets’ lives",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —",
-        "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/"
-      },
-      {
-        "date": "16 Eki",
         "source": "Stack Overflow Blog",
         "title": "AI says you’re right, formal methods say you’re wrong",
         "desc": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing code, how Quint brings developer-friendly syntax and exec",
         "url": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/"
+      },
+      {
+        "date": "15 Eki",
+        "source": "GitHub Blog",
+        "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+        "desc": "Put native GitHub features to work to review outside collaborator access and archive stale repositories.\nThe post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The G",
+        "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/"
       }
     ],
     "arac": [
       {
-        "date": "19 Eki",
+        "date": "20 Eki",
+        "source": "MIT Tech Review",
+        "title": "These startups hope “blended” food will cut our appetite for red meat",
+        "desc": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he w",
+        "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/"
+      },
+      {
+        "date": "20 Eki",
         "source": "Product Hunt",
-        "title": "croft",
+        "title": "GotEmail",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/croft-2"
+        "url": "https://www.producthunt.com/products/gotemail"
+      },
+      {
+        "date": "20 Eki",
+        "source": "Product Hunt",
+        "title": "Lugh Xtudio",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/lugh-xtudio"
+      },
+      {
+        "date": "20 Eki",
+        "source": "Product Hunt",
+        "title": "Intel® GPU D-series",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/intel"
       },
       {
         "date": "19 Eki",
         "source": "Product Hunt",
-        "title": "Figma Specs",
+        "title": "RunInfra",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/figma"
+        "url": "https://www.producthunt.com/products/runinfra"
       },
       {
         "date": "19 Eki",
         "source": "Product Hunt",
-        "title": "Rusteerio by Context.dev",
+        "title": "Rovalty",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/context-dev"
+        "url": "https://www.producthunt.com/products/rovalty-creator-program-ugc"
       },
       {
         "date": "19 Eki",
         "source": "Product Hunt",
-        "title": "Point and Yap",
+        "title": "Stage",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/point-and-yap"
-      },
-      {
-        "date": "18 Eki",
-        "source": "Simon Willison",
-        "title": "llm-tools-datasette 0.1.1",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1\">llm-tools-datasette 0.1.1</a></p>\n        <p>When I switched LLM over to <a href=\"https://github.com/pydantic/httpx2",
-        "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
-      },
-      {
-        "date": "18 Eki",
-        "source": "Product Hunt",
-        "title": "Umbra Mail",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/umbra-mail"
-      },
-      {
-        "date": "18 Eki",
-        "source": "Product Hunt",
-        "title": "Switch Lab",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/switch-lab"
+        "url": "https://www.producthunt.com/products/stage-9"
       }
     ]
   }
