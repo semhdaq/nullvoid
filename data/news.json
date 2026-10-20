@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-10-20T15:54:20.376Z",
+  "generated_at": "2026-10-20T20:57:00.911Z",
   "generated_at_tr": "20 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "20 Eki",
-        "source": "MIT Tech Review",
-        "title": "The new economics of enterprise AI",
-        "desc": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, ev",
-        "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "The Verge",
-        "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-        "desc": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made cha",
-        "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
+        "source": "TechCrunch",
+        "title": "SpaceX’s AI business is beating expectations",
+        "desc": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+        "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
       },
       {
         "date": "20 Eki",
         "source": "TechCrunch",
-        "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-        "desc": "Figma said it plans to support as many standards as possible without exposing all of its data",
-        "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "TechCrunch",
-        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-        "desc": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-        "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "The Verge",
-        "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-        "desc": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a g",
-        "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
-      },
-      {
-        "date": "20 Eki",
-        "source": "TechCrunch",
-        "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-        "desc": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-        "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+        "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+        "desc": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments a",
+        "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
       },
       {
         "date": "20 Eki",
         "source": "MIT Tech Review",
-        "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I ",
-        "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/"
+        "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
+        "desc": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November ",
+        "url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "TechCrunch",
+        "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+        "desc": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+        "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "TechCrunch",
+        "title": "ChatGPT now lets you lock your chats",
+        "desc": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or famil",
+        "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "The Verge",
+        "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+        "desc": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, res",
+        "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+      },
+      {
+        "date": "20 Eki",
+        "source": "TechCrunch",
+        "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+        "desc": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+        "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
       }
     ],
     "kod": [
+      {
+        "date": "20 Eki",
+        "source": "Simon Willison",
+        "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+        "desc": "<p>My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called <a href=\"https://github.com/simonw/battledrones#readme\">Battle Drones</a> (<a href=\"https://simonw.github.io/b",
+        "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "GitHub Blog",
+        "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+        "desc": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results.\nThe post How 3 Java Champions are using GitHub Copilot for increased producti",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
+      },
       {
         "date": "19 Eki",
         "source": "Simon Willison",
@@ -67,13 +81,6 @@
         "title": "How to continue a GitHub Copilot app session in VS Code",
         "desc": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.\nThe post How to continue a GitHub Copilot app session in VS Code appeared fir",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "MIT Tech Review",
-        "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-        "desc": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.  The blaze, possibly spa",
-        "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/"
       },
       {
         "date": "17 Eki",
@@ -95,13 +102,6 @@
         "title": "AI says you’re right, formal methods say you’re wrong",
         "desc": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing code, how Quint brings developer-friendly syntax and exec",
         "url": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "GitHub Blog",
-        "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-        "desc": "Put native GitHub features to work to review outside collaborator access and archive stale repositories.\nThe post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The G",
-        "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/"
       }
     ],
     "arac": [
@@ -136,13 +136,6 @@
       {
         "date": "20 Eki",
         "source": "Product Hunt",
-        "title": "GotEmail",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/gotemail"
-      },
-      {
-        "date": "20 Eki",
-        "source": "Product Hunt",
         "title": "Lugh Xtudio",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/lugh-xtudio"
@@ -153,6 +146,13 @@
         "title": "Intel® GPU D-series",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/intel"
+      },
+      {
+        "date": "19 Eki",
+        "source": "Product Hunt",
+        "title": "RunInfra",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/runinfra"
       }
     ]
   }
