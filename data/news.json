@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-10-19T21:46:51.357Z",
-  "generated_at_tr": "19 Eki 2026",
+  "generated_at": "2026-10-20T02:18:28.457Z",
+  "generated_at_tr": "20 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "20 Eki",
+        "source": "TechCrunch",
+        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+        "desc": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
+      },
+      {
+        "date": "19 Eki",
+        "source": "TechCrunch",
+        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+        "desc": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+        "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+      },
+      {
+        "date": "19 Eki",
+        "source": "TechCrunch",
+        "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+        "desc": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incid",
+        "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+      },
+      {
+        "date": "19 Eki",
+        "source": "TechCrunch",
+        "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+        "desc": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+        "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+      },
+      {
+        "date": "19 Eki",
+        "source": "The Verge",
+        "title": "The fossil fuel comeback is here",
+        "desc": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows.\nElectricity demand is also climbing faster than it has in more than a decade with m",
+        "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report"
+      },
       {
         "date": "19 Eki",
         "source": "The Verge",
@@ -16,44 +51,16 @@
         "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
         "desc": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
         "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "TechCrunch",
-        "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-        "desc": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for",
-        "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "TechCrunch",
-        "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-        "desc": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-        "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "TechCrunch",
-        "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-        "desc": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-        "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "TechCrunch",
-        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-        "desc": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-        "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "MIT Tech Review",
-        "title": "Making the internet better for AI agents might make it worse for everyone else",
-        "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and",
-        "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
       }
     ],
     "kod": [
+      {
+        "date": "19 Eki",
+        "source": "Simon Willison",
+        "title": "My obituary for programming",
+        "desc": "<p><strong><a href=\"https://dumbmatter.com/2026/10/programming-obituary/\">My obituary for programming</a></strong></p>\nJeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enj",
+        "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
+      },
       {
         "date": "19 Eki",
         "source": "GitHub Blog",
@@ -95,13 +102,6 @@
         "title": "AI says you’re right, formal methods say you’re wrong",
         "desc": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing code, how Quint brings developer-friendly syntax and exec",
         "url": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/"
-      },
-      {
-        "date": "15 Eki",
-        "source": "GitHub Blog",
-        "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-        "desc": "Put native GitHub features to work to review outside collaborator access and archive stale repositories.\nThe post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The G",
-        "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/"
       }
     ],
     "arac": [
