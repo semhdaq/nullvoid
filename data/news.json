@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-10-20T10:30:16.283Z",
+  "generated_at": "2026-10-20T15:54:20.376Z",
   "generated_at_tr": "20 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "20 Eki",
         "source": "MIT Tech Review",
-        "title": "How to study a swiftly melting climate disaster",
-        "desc": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the",
-        "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/"
+        "title": "The new economics of enterprise AI",
+        "desc": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, ev",
+        "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "The Verge",
+        "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+        "desc": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made cha",
+        "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
+      },
+      {
+        "date": "20 Eki",
+        "source": "TechCrunch",
+        "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+        "desc": "Figma said it plans to support as many standards as possible without exposing all of its data",
+        "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "TechCrunch",
+        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+        "desc": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+        "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "The Verge",
+        "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+        "desc": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a g",
+        "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
+      },
+      {
+        "date": "20 Eki",
+        "source": "TechCrunch",
+        "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+        "desc": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+        "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
       },
       {
         "date": "20 Eki",
         "source": "MIT Tech Review",
-        "title": "A visit to Samsung’s massive new semiconductor hub",
-        "desc": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor",
-        "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Don't forget about the UI for AI",
-        "desc": "Recorded at OpenAI Dev Day 2026, Ryan sits down with Andrew Ambrosino, member of the technical staff at OpenAI, for a conversation on OpenAI's strategy for merging ChatGPT and Codex into a unified experience, the advanta",
-        "url": "https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "TechCrunch",
-        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-        "desc": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "TechCrunch",
-        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-        "desc": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-        "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "TechCrunch",
-        "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-        "desc": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incid",
-        "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "TechCrunch",
-        "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-        "desc": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-        "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+        "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I ",
+        "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/"
       }
     ],
     "kod": [
@@ -107,6 +107,27 @@
     "arac": [
       {
         "date": "20 Eki",
+        "source": "TechCrunch Apps",
+        "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+        "desc": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+        "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "TechCrunch Apps",
+        "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+        "desc": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
+        "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "TechCrunch",
+        "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+        "desc": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the",
+        "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+      },
+      {
+        "date": "20 Eki",
         "source": "MIT Tech Review",
         "title": "These startups hope “blended” food will cut our appetite for red meat",
         "desc": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he w",
@@ -132,27 +153,6 @@
         "title": "Intel® GPU D-series",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/intel"
-      },
-      {
-        "date": "19 Eki",
-        "source": "Product Hunt",
-        "title": "RunInfra",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/runinfra"
-      },
-      {
-        "date": "19 Eki",
-        "source": "Product Hunt",
-        "title": "Rovalty",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/rovalty-creator-program-ugc"
-      },
-      {
-        "date": "19 Eki",
-        "source": "Product Hunt",
-        "title": "Stage",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/stage-9"
       }
     ]
   }
