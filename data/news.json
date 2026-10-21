@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-10-20T20:57:00.911Z",
-  "generated_at_tr": "20 Eki 2026",
+  "generated_at": "2026-10-21T02:11:57.055Z",
+  "generated_at_tr": "21 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "20 Eki",
-        "source": "TechCrunch",
-        "title": "SpaceX’s AI business is beating expectations",
-        "desc": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
-        "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
+        "source": "The Verge",
+        "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+        "desc": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed"
       },
       {
         "date": "20 Eki",
         "source": "TechCrunch",
-        "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-        "desc": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments a",
-        "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "MIT Tech Review",
-        "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
-        "desc": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November ",
-        "url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/"
+        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "desc": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
       },
       {
         "date": "20 Eki",
         "source": "TechCrunch",
-        "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-        "desc": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-        "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "TechCrunch",
-        "title": "ChatGPT now lets you lock your chats",
-        "desc": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or famil",
-        "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
+        "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+        "desc": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+        "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
       },
       {
         "date": "20 Eki",
         "source": "The Verge",
-        "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-        "desc": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, res",
-        "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+        "title": "Google’s more personalized Gemini AI is heading to your car",
+        "desc": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps,",
+        "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
       },
       {
         "date": "20 Eki",
         "source": "TechCrunch",
-        "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-        "desc": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
-        "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
+        "title": "Anthropic’s cloud partnerships are getting messy",
+        "desc": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "MIT Tech Review",
+        "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+        "desc": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and l",
+        "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "MIT Tech Review",
+        "title": "Here’s the tea",
+        "desc": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thoma",
+        "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/"
       }
     ],
     "kod": [
+      {
+        "date": "20 Eki",
+        "source": "Simon Willison",
+        "title": "eMudhra Intermediate CA Compromise",
+        "desc": "<p><strong><a href=\"https://emudhra.we-have-a-problem.com\">eMudhra Intermediate CA Compromise</a></strong></p>\nThis is very, very bad news:</p>\n<blockquote>\n<p>The private keys of eight eMudhra intermediate CA certificat",
+        "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "MIT Tech Review",
+        "title": "Nebraska native explores galaxies far, far away",
+        "desc": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue ",
+        "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/"
+      },
       {
         "date": "20 Eki",
         "source": "Simon Willison",
@@ -88,23 +102,23 @@
         "title": "Inline rendering with document​.currentScript",
         "desc": "<p><strong><a href=\"https://leanrada.com/notes/inline-rendering-currentscript/\">Inline rendering with document​.currentScript</a></strong></p>\nLean Rada describes a neat trick that takes advantage of the <a href=\"https:/",
         "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/"
-      },
-      {
-        "date": "17 Eki",
-        "source": "Simon Willison",
-        "title": "web-edit 0.1a2",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/web-edit/releases/tag/0.1a2\">web-edit 0.1a2</a></p>\n        <p>web-edit (<a href=\"https://simonwillison.net/2026/Oct/12/web-edit/\">previously</a>) is my tin",
-        "url": "https://simonwillison.net/2026/Oct/17/web-edit/"
-      },
-      {
-        "date": "16 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "AI says you’re right, formal methods say you’re wrong",
-        "desc": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing code, how Quint brings developer-friendly syntax and exec",
-        "url": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/"
       }
     ],
     "arac": [
+      {
+        "date": "20 Eki",
+        "source": "MIT Tech Review",
+        "title": "Robotic therapy for stroke patients",
+        "desc": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining",
+        "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/"
+      },
+      {
+        "date": "20 Eki",
+        "source": "MIT Tech Review",
+        "title": "Taking a swing at a pickleball startup",
+        "desc": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances.  He did not. “I spent my early years trying not to get recruited into gangs, getting shot at,",
+        "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/"
+      },
       {
         "date": "20 Eki",
         "source": "TechCrunch Apps",
@@ -118,20 +132,6 @@
         "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
         "desc": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
         "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "TechCrunch",
-        "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-        "desc": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the",
-        "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "MIT Tech Review",
-        "title": "These startups hope “blended” food will cut our appetite for red meat",
-        "desc": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he w",
-        "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/"
       },
       {
         "date": "20 Eki",
