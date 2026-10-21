@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-10-21T02:11:57.055Z",
+  "generated_at": "2026-10-21T10:42:04.089Z",
   "generated_at_tr": "21 Eki 2026",
   "categories": {
     "ai": [
       {
-        "date": "20 Eki",
-        "source": "The Verge",
-        "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-        "desc": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed"
-      },
-      {
-        "date": "20 Eki",
-        "source": "TechCrunch",
-        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-        "desc": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "TechCrunch",
-        "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-        "desc": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-        "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "The Verge",
-        "title": "Google’s more personalized Gemini AI is heading to your car",
-        "desc": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps,",
-        "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
-      },
-      {
-        "date": "20 Eki",
-        "source": "TechCrunch",
-        "title": "Anthropic’s cloud partnerships are getting messy",
-        "desc": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
-      },
-      {
-        "date": "20 Eki",
+        "date": "21 Eki",
         "source": "MIT Tech Review",
-        "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-        "desc": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and l",
-        "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/"
+        "title": "We can do impossible things",
+        "desc": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my ",
+        "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/"
       },
       {
-        "date": "20 Eki",
+        "date": "21 Eki",
         "source": "MIT Tech Review",
-        "title": "Here’s the tea",
-        "desc": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thoma",
-        "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/"
+        "title": "Nuclear-powered spaceships",
+        "desc": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft",
+        "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/"
+      },
+      {
+        "date": "21 Eki",
+        "source": "MIT Tech Review",
+        "title": "Exercise in a pill",
+        "desc": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some o",
+        "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/"
+      },
+      {
+        "date": "21 Eki",
+        "source": "MIT Tech Review",
+        "title": "Cleaning up PFAS",
+        "desc": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS ",
+        "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/"
+      },
+      {
+        "date": "21 Eki",
+        "source": "MIT Tech Review",
+        "title": "Solid-state batteries",
+        "desc": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in th",
+        "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/"
+      },
+      {
+        "date": "21 Eki",
+        "source": "MIT Tech Review",
+        "title": "Eliminating traffic deaths",
+        "desc": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways bu",
+        "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/"
+      },
+      {
+        "date": "21 Eki",
+        "source": "Product Hunt",
+        "title": "Agent Pets",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/agent-pets"
       }
     ],
     "kod": [
+      {
+        "date": "21 Eki",
+        "source": "MIT Tech Review",
+        "title": "Interspecies communication",
+        "desc": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner li",
+        "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/"
+      },
       {
         "date": "20 Eki",
         "source": "Simon Willison",
         "title": "eMudhra Intermediate CA Compromise",
         "desc": "<p><strong><a href=\"https://emudhra.we-have-a-problem.com\">eMudhra Intermediate CA Compromise</a></strong></p>\nThis is very, very bad news:</p>\n<blockquote>\n<p>The private keys of eight eMudhra intermediate CA certificat",
         "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "MIT Tech Review",
-        "title": "Nebraska native explores galaxies far, far away",
-        "desc": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue ",
-        "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/"
       },
       {
         "date": "20 Eki",
@@ -83,6 +83,13 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
       },
       {
+        "date": "20 Eki",
+        "source": "Product Hunt",
+        "title": "Woven Video",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/woven-video"
+      },
+      {
         "date": "19 Eki",
         "source": "Simon Willison",
         "title": "My obituary for programming",
@@ -95,64 +102,57 @@
         "title": "How to continue a GitHub Copilot app session in VS Code",
         "desc": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.\nThe post How to continue a GitHub Copilot app session in VS Code appeared fir",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
-      },
-      {
-        "date": "17 Eki",
-        "source": "Simon Willison",
-        "title": "Inline rendering with document​.currentScript",
-        "desc": "<p><strong><a href=\"https://leanrada.com/notes/inline-rendering-currentscript/\">Inline rendering with document​.currentScript</a></strong></p>\nLean Rada describes a neat trick that takes advantage of the <a href=\"https:/",
-        "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/"
       }
     ],
     "arac": [
       {
-        "date": "20 Eki",
-        "source": "MIT Tech Review",
-        "title": "Robotic therapy for stroke patients",
-        "desc": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining",
-        "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/"
+        "date": "21 Eki",
+        "source": "Product Hunt",
+        "title": "Koi",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/koi-2"
       },
       {
-        "date": "20 Eki",
-        "source": "MIT Tech Review",
-        "title": "Taking a swing at a pickleball startup",
-        "desc": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances.  He did not. “I spent my early years trying not to get recruited into gangs, getting shot at,",
-        "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/"
+        "date": "21 Eki",
+        "source": "Product Hunt",
+        "title": "Mouse-1",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/mouse-1"
       },
       {
-        "date": "20 Eki",
-        "source": "TechCrunch Apps",
-        "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
-        "desc": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
-        "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
-        "desc": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
-        "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/"
+        "date": "21 Eki",
+        "source": "Product Hunt",
+        "title": "hibi",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/hibi"
       },
       {
         "date": "20 Eki",
         "source": "Product Hunt",
-        "title": "Lugh Xtudio",
+        "title": "Triage by Chodeberg",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/lugh-xtudio"
+        "url": "https://www.producthunt.com/products/triage-by-chodeberg"
       },
       {
         "date": "20 Eki",
         "source": "Product Hunt",
-        "title": "Intel® GPU D-series",
+        "title": "Tend",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/intel"
+        "url": "https://www.producthunt.com/products/tend-5"
       },
       {
-        "date": "19 Eki",
+        "date": "20 Eki",
         "source": "Product Hunt",
-        "title": "RunInfra",
+        "title": "Notion Auto",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/runinfra"
+        "url": "https://www.producthunt.com/products/notion-99"
+      },
+      {
+        "date": "20 Eki",
+        "source": "Product Hunt",
+        "title": "Hotly",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/hotly"
       }
     ]
   }
