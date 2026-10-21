@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-10-21T10:42:04.089Z",
+  "generated_at": "2026-10-21T20:56:58.808Z",
   "generated_at_tr": "21 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "21 Eki",
-        "source": "MIT Tech Review",
-        "title": "We can do impossible things",
-        "desc": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my ",
-        "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/"
+        "source": "The Verge",
+        "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+        "desc": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthr",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
       },
       {
         "date": "21 Eki",
-        "source": "MIT Tech Review",
-        "title": "Nuclear-powered spaceships",
-        "desc": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft",
-        "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/"
+        "source": "TechCrunch",
+        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+        "desc": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transacti",
+        "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
       },
       {
         "date": "21 Eki",
-        "source": "MIT Tech Review",
-        "title": "Exercise in a pill",
-        "desc": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some o",
-        "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/"
+        "source": "The Verge",
+        "title": "Walmart is inviting AI agents to shop for you",
+        "desc": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spe",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents"
       },
       {
         "date": "21 Eki",
-        "source": "MIT Tech Review",
-        "title": "Cleaning up PFAS",
-        "desc": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS ",
-        "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/"
+        "source": "GitHub Blog",
+        "title": "The bridge to agent-scale Git infrastructure",
+        "desc": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.\nThe post The bridge to agent-scale Git inf",
+        "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
       },
       {
         "date": "21 Eki",
-        "source": "MIT Tech Review",
-        "title": "Solid-state batteries",
-        "desc": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in th",
-        "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/"
+        "source": "The Verge",
+        "title": "Conversational Gemini navigation comes to Apple CarPlay",
+        "desc": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening gl",
+        "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"
       },
       {
         "date": "21 Eki",
-        "source": "MIT Tech Review",
-        "title": "Eliminating traffic deaths",
-        "desc": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways bu",
-        "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/"
+        "source": "TechCrunch",
+        "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+        "desc": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+        "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
       },
       {
         "date": "21 Eki",
-        "source": "Product Hunt",
-        "title": "Agent Pets",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/agent-pets"
+        "source": "The Verge",
+        "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+        "desc": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor w",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems"
       }
     ],
     "kod": [
+      {
+        "date": "21 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Building Immersive Virtual Economies: An Introduction to KursarScript (KSPL)",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/10/21/building-immersive-virtual-economies-an-introduction-to-kursarscript-kspl/"
+      },
+      {
+        "date": "21 Eki",
+        "source": "Simon Willison",
+        "title": "Panache — RTS Belle Époque pour mobile",
+        "desc": "<p><strong><a href=\"https://github.com/menufactory43/panache/\">Panache — RTS Belle Époque pour mobile</a></strong></p>\nWell this is delightful: I <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">released Bat",
+        "url": "https://simonwillison.net/2026/Oct/21/panache/"
+      },
+      {
+        "date": "21 Eki",
+        "source": "MIT Tech Review",
+        "title": "The Download: introducing the Impossible issue",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to incl",
+        "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/"
+      },
       {
         "date": "21 Eki",
         "source": "MIT Tech Review",
@@ -81,30 +102,37 @@
         "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
         "desc": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results.\nThe post How 3 Java Champions are using GitHub Copilot for increased producti",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "Product Hunt",
-        "title": "Woven Video",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/woven-video"
-      },
-      {
-        "date": "19 Eki",
-        "source": "Simon Willison",
-        "title": "My obituary for programming",
-        "desc": "<p><strong><a href=\"https://dumbmatter.com/2026/10/programming-obituary/\">My obituary for programming</a></strong></p>\nJeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enj",
-        "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
-      },
-      {
-        "date": "19 Eki",
-        "source": "GitHub Blog",
-        "title": "How to continue a GitHub Copilot app session in VS Code",
-        "desc": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.\nThe post How to continue a GitHub Copilot app session in VS Code appeared fir",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
       }
     ],
     "arac": [
+      {
+        "date": "21 Eki",
+        "source": "TechCrunch",
+        "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+        "desc": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+        "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
+      },
+      {
+        "date": "21 Eki",
+        "source": "Simon Willison",
+        "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+        "desc": "<p><strong><a href=\"https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\">Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security</a></st",
+        "url": "https://simonwillison.net/2026/Oct/21/php-security-release/"
+      },
+      {
+        "date": "21 Eki",
+        "source": "TechCrunch Apps",
+        "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+        "desc": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+        "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/"
+      },
+      {
+        "date": "21 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Survey Says: You'll swap the model, but everything you build around it is staying put",
+        "desc": "Earlier this month, my team at Stacklok surveyed 520 technical leaders to understand whether they were concerned about being locked into frontier labs. The data says they’re already swapping models in and out, but the tr",
+        "url": "https://stackoverflow.blog/2026/10/21/survey-says-you-ll-swap-the-model-but-everything-you-build-around-it-is-staying-put/"
+      },
       {
         "date": "21 Eki",
         "source": "Product Hunt",
@@ -125,34 +153,6 @@
         "title": "hibi",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/hibi"
-      },
-      {
-        "date": "20 Eki",
-        "source": "Product Hunt",
-        "title": "Triage by Chodeberg",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/triage-by-chodeberg"
-      },
-      {
-        "date": "20 Eki",
-        "source": "Product Hunt",
-        "title": "Tend",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tend-5"
-      },
-      {
-        "date": "20 Eki",
-        "source": "Product Hunt",
-        "title": "Notion Auto",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/notion-99"
-      },
-      {
-        "date": "20 Eki",
-        "source": "Product Hunt",
-        "title": "Hotly",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/hotly"
       }
     ]
   }
