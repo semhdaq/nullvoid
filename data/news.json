@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-10-21T20:56:58.808Z",
-  "generated_at_tr": "21 Eki 2026",
+  "generated_at": "2026-10-22T10:44:04.476Z",
+  "generated_at_tr": "22 Eki 2026",
   "categories": {
     "ai": [
       {
-        "date": "21 Eki",
-        "source": "The Verge",
-        "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-        "desc": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthr",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+        "date": "22 Eki",
+        "source": "MIT Tech Review",
+        "title": "Making the case for context-aware AI",
+        "desc": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an",
+        "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
+      },
+      {
+        "date": "22 Eki",
+        "source": "MIT Tech Review",
+        "title": "Three things you should know about permafrost",
+        "desc": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.   The gr",
+        "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/"
+      },
+      {
+        "date": "22 Eki",
+        "source": "MIT Tech Review",
+        "title": "AI’s hidden storage bill: What inference leaves behind",
+        "desc": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens ",
+        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
+      },
+      {
+        "date": "22 Eki",
+        "source": "Product Hunt",
+        "title": "Agentic CleanSlop",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/cleanslop"
       },
       {
         "date": "21 Eki",
         "source": "TechCrunch",
-        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-        "desc": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transacti",
-        "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+        "desc": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+        "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
       },
       {
         "date": "21 Eki",
         "source": "The Verge",
-        "title": "Walmart is inviting AI agents to shop for you",
-        "desc": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spe",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents"
+        "title": "Data centers could erase decades of air quality gains",
+        "desc": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI.\nNew and proposed data cent",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
       },
       {
         "date": "21 Eki",
-        "source": "GitHub Blog",
-        "title": "The bridge to agent-scale Git infrastructure",
-        "desc": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.\nThe post The bridge to agent-scale Git inf",
-        "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
-      },
-      {
-        "date": "21 Eki",
-        "source": "The Verge",
-        "title": "Conversational Gemini navigation comes to Apple CarPlay",
-        "desc": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening gl",
-        "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"
-      },
-      {
-        "date": "21 Eki",
-        "source": "TechCrunch",
-        "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-        "desc": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-        "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
-      },
-      {
-        "date": "21 Eki",
-        "source": "The Verge",
-        "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-        "desc": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor w",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems"
+        "source": "TechCrunch Apps",
+        "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+        "desc": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+        "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/"
       }
     ],
     "kod": [
@@ -106,53 +106,53 @@
     ],
     "arac": [
       {
+        "date": "22 Eki",
+        "source": "Product Hunt",
+        "title": "Tetriz Engg Intelligence + Connectors",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors"
+      },
+      {
+        "date": "22 Eki",
+        "source": "Product Hunt",
+        "title": "Resend Inboxes",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/resend"
+      },
+      {
+        "date": "21 Eki",
+        "source": "Product Hunt",
+        "title": "Sponkly",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/sponkly"
+      },
+      {
+        "date": "21 Eki",
+        "source": "Product Hunt",
+        "title": "Bits",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/bits-4"
+      },
+      {
+        "date": "21 Eki",
+        "source": "Product Hunt",
+        "title": "Teclo",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/teclo"
+      },
+      {
+        "date": "21 Eki",
+        "source": "Product Hunt",
+        "title": "Radaric",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/radaric"
+      },
+      {
         "date": "21 Eki",
         "source": "TechCrunch",
         "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
         "desc": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
         "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
-      },
-      {
-        "date": "21 Eki",
-        "source": "Simon Willison",
-        "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-        "desc": "<p><strong><a href=\"https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\">Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security</a></st",
-        "url": "https://simonwillison.net/2026/Oct/21/php-security-release/"
-      },
-      {
-        "date": "21 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
-        "desc": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
-        "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/"
-      },
-      {
-        "date": "21 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Survey Says: You'll swap the model, but everything you build around it is staying put",
-        "desc": "Earlier this month, my team at Stacklok surveyed 520 technical leaders to understand whether they were concerned about being locked into frontier labs. The data says they’re already swapping models in and out, but the tr",
-        "url": "https://stackoverflow.blog/2026/10/21/survey-says-you-ll-swap-the-model-but-everything-you-build-around-it-is-staying-put/"
-      },
-      {
-        "date": "21 Eki",
-        "source": "Product Hunt",
-        "title": "Koi",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/koi-2"
-      },
-      {
-        "date": "21 Eki",
-        "source": "Product Hunt",
-        "title": "Mouse-1",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/mouse-1"
-      },
-      {
-        "date": "21 Eki",
-        "source": "Product Hunt",
-        "title": "hibi",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/hibi"
       }
     ]
   }
