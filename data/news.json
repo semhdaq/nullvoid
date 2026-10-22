@@ -1,64 +1,85 @@
 {
-  "generated_at": "2026-10-22T16:09:11.233Z",
+  "generated_at": "2026-10-22T20:54:21.230Z",
   "generated_at_tr": "22 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "22 Eki",
-        "source": "TechCrunch",
-        "title": "Uber puts all 30,000 employees on ChatGPT Work",
-        "desc": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
-        "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "Simon Willison",
-        "title": "Quoting Armin Ronacher",
-        "desc": "<blockquote cite=\"https://twitter.com/mitsuhiko/status/2113207589978636646\"><p>As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins.</p></blockquote>\n<p",
-        "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "TechCrunch",
-        "title": "Spotify’s current AI bet is about being the music service that agents choose",
-        "desc": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-        "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
+        "source": "The Verge",
+        "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+        "desc": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"Thi",
+        "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
       },
       {
         "date": "22 Eki",
         "source": "The Verge",
-        "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-        "desc": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation.\nYou may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ",
-        "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation"
+        "title": "Meta turns Muse sharing back on",
+        "desc": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's interna",
+        "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"
+      },
+      {
+        "date": "22 Eki",
+        "source": "The Verge",
+        "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+        "desc": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? Spac",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"
       },
       {
         "date": "22 Eki",
         "source": "TechCrunch",
-        "title": "Claude Duet app is Anthropic’s bet on agents",
-        "desc": "Claude Duet is available through waitlist for Pro and Max plan users.",
-        "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "desc": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+        "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
       },
       {
         "date": "22 Eki",
         "source": "TechCrunch",
-        "title": "Nirva raises $33M for a pendant that only listens to you",
-        "desc": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-        "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "desc": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+        "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
       },
       {
         "date": "22 Eki",
-        "source": "TechCrunch",
-        "title": "DeepSeek reportedly raises $15B days after US restrictions",
-        "desc": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-        "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+        "source": "The Verge",
+        "title": "Discord now formats Markdown previews right",
+        "desc": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdo",
+        "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels"
+      },
+      {
+        "date": "22 Eki",
+        "source": "MIT Tech Review",
+        "title": "The Foundations of Scalable AI",
+        "desc": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores ",
+        "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
       }
     ],
     "kod": [
       {
         "date": "22 Eki",
+        "source": "Simon Willison",
+        "title": "DE STAAT - FREEDOM (Official Music Video)",
+        "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow\">DE STAAT - FREEDOM (Official Music Video)</a></strong></p>\nOK well this is a first for me... at <a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow&amp;t=",
+        "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/"
+      },
+      {
+        "date": "22 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "The Regression Tests Nobody Writes: Capturing How Software Actually Behaves",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/"
+      },
+      {
+        "date": "22 Eki",
+        "source": "GitHub Blog",
+        "title": "How bug bounty sharpens one researcher’s security skills",
+        "desc": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers.\nThe post How bug bounty sharpens one re",
+        "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
+      },
+      {
+        "date": "22 Eki",
         "source": "TechCrunch Apps",
         "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
-        "desc": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+        "desc": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
         "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/"
       },
       {
@@ -81,30 +102,23 @@
         "title": "Building Immersive Virtual Economies: An Introduction to KursarScript (KSPL)",
         "desc": "",
         "url": "https://stackoverflow.blog/2026/10/21/building-immersive-virtual-economies-an-introduction-to-kursarscript-kspl/"
-      },
-      {
-        "date": "21 Eki",
-        "source": "Simon Willison",
-        "title": "Panache — RTS Belle Époque pour mobile",
-        "desc": "<p><strong><a href=\"https://github.com/menufactory43/panache/\">Panache — RTS Belle Époque pour mobile</a></strong></p>\nWell this is delightful: I <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">released Bat",
-        "url": "https://simonwillison.net/2026/Oct/21/panache/"
-      },
-      {
-        "date": "21 Eki",
-        "source": "MIT Tech Review",
-        "title": "The Download: introducing the Impossible issue",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to incl",
-        "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/"
-      },
-      {
-        "date": "21 Eki",
-        "source": "MIT Tech Review",
-        "title": "Interspecies communication",
-        "desc": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner li",
-        "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/"
       }
     ],
     "arac": [
+      {
+        "date": "22 Eki",
+        "source": "TechCrunch Apps",
+        "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+        "desc": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+        "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/"
+      },
+      {
+        "date": "22 Eki",
+        "source": "TechCrunch",
+        "title": "Canva releases its first image generation model",
+        "desc": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+        "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+      },
       {
         "date": "22 Eki",
         "source": "Product Hunt",
@@ -139,20 +153,6 @@
         "title": "Teclo",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/teclo"
-      },
-      {
-        "date": "21 Eki",
-        "source": "Product Hunt",
-        "title": "Radaric",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/radaric"
-      },
-      {
-        "date": "21 Eki",
-        "source": "TechCrunch",
-        "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-        "desc": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-        "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
       }
     ]
   }
