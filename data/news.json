@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-10-22T10:44:04.476Z",
+  "generated_at": "2026-10-22T16:09:11.233Z",
   "generated_at_tr": "22 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "22 Eki",
-        "source": "MIT Tech Review",
-        "title": "Making the case for context-aware AI",
-        "desc": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an",
-        "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "MIT Tech Review",
-        "title": "Three things you should know about permafrost",
-        "desc": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.   The gr",
-        "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "MIT Tech Review",
-        "title": "AI’s hidden storage bill: What inference leaves behind",
-        "desc": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens ",
-        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "Product Hunt",
-        "title": "Agentic CleanSlop",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cleanslop"
-      },
-      {
-        "date": "21 Eki",
         "source": "TechCrunch",
-        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-        "desc": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-        "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+        "title": "Uber puts all 30,000 employees on ChatGPT Work",
+        "desc": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+        "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
       },
       {
-        "date": "21 Eki",
+        "date": "22 Eki",
+        "source": "Simon Willison",
+        "title": "Quoting Armin Ronacher",
+        "desc": "<blockquote cite=\"https://twitter.com/mitsuhiko/status/2113207589978636646\"><p>As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins.</p></blockquote>\n<p",
+        "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/"
+      },
+      {
+        "date": "22 Eki",
+        "source": "TechCrunch",
+        "title": "Spotify’s current AI bet is about being the music service that agents choose",
+        "desc": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+        "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
+      },
+      {
+        "date": "22 Eki",
         "source": "The Verge",
-        "title": "Data centers could erase decades of air quality gains",
-        "desc": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI.\nNew and proposed data cent",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
+        "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+        "desc": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation.\nYou may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ",
+        "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation"
       },
       {
-        "date": "21 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-        "desc": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
-        "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/"
+        "date": "22 Eki",
+        "source": "TechCrunch",
+        "title": "Claude Duet app is Anthropic’s bet on agents",
+        "desc": "Claude Duet is available through waitlist for Pro and Max plan users.",
+        "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+      },
+      {
+        "date": "22 Eki",
+        "source": "TechCrunch",
+        "title": "Nirva raises $33M for a pendant that only listens to you",
+        "desc": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+        "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"
+      },
+      {
+        "date": "22 Eki",
+        "source": "TechCrunch",
+        "title": "DeepSeek reportedly raises $15B days after US restrictions",
+        "desc": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+        "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
       }
     ],
     "kod": [
+      {
+        "date": "22 Eki",
+        "source": "TechCrunch Apps",
+        "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
+        "desc": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+        "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/"
+      },
+      {
+        "date": "22 Eki",
+        "source": "The Verge",
+        "title": "PHP: The three little letters wreaking havoc across the web",
+        "desc": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger.\nBy some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, an",
+        "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down"
+      },
+      {
+        "date": "22 Eki",
+        "source": "MIT Tech Review",
+        "title": "The Download: computing’s next leap and permafrost’s climate threat",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richar",
+        "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
+      },
       {
         "date": "21 Eki",
         "source": "Stack Overflow Blog",
@@ -81,27 +102,6 @@
         "title": "Interspecies communication",
         "desc": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner li",
         "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "Simon Willison",
-        "title": "eMudhra Intermediate CA Compromise",
-        "desc": "<p><strong><a href=\"https://emudhra.we-have-a-problem.com\">eMudhra Intermediate CA Compromise</a></strong></p>\nThis is very, very bad news:</p>\n<blockquote>\n<p>The private keys of eight eMudhra intermediate CA certificat",
-        "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "Simon Willison",
-        "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-        "desc": "<p>My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called <a href=\"https://github.com/simonw/battledrones#readme\">Battle Drones</a> (<a href=\"https://simonw.github.io/b",
-        "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
-      },
-      {
-        "date": "20 Eki",
-        "source": "GitHub Blog",
-        "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-        "desc": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results.\nThe post How 3 Java Champions are using GitHub Copilot for increased producti",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
       }
     ],
     "arac": [
