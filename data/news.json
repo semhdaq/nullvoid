@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-23T02:11:04.631Z",
+  "generated_at": "2026-10-23T10:35:53.252Z",
   "generated_at_tr": "23 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "23 Eki",
+        "source": "Product Hunt",
+        "title": "ShogunAI",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/shogunai"
+      },
+      {
+        "date": "23 Eki",
+        "source": "Product Hunt",
+        "title": "Agent Hunt",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/monid"
+      },
+      {
+        "date": "23 Eki",
+        "source": "TechCrunch",
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+        "desc": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+        "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+      },
       {
         "date": "23 Eki",
         "source": "TechCrunch",
@@ -30,30 +51,16 @@
         "title": "Designing an AI serving harness built to last",
         "desc": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has center",
         "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "The Verge",
-        "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-        "desc": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"Thi",
-        "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
-      },
-      {
-        "date": "22 Eki",
-        "source": "The Verge",
-        "title": "Meta turns Muse sharing back on",
-        "desc": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's interna",
-        "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"
-      },
-      {
-        "date": "22 Eki",
-        "source": "The Verge",
-        "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-        "desc": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? Spac",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"
       }
     ],
     "kod": [
+      {
+        "date": "23 Eki",
+        "source": "MIT Tech Review",
+        "title": "In the biotech world, you can’t see everything",
+        "desc": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’d avoided spoilers (",
+        "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
+      },
       {
         "date": "22 Eki",
         "source": "Simon Willison",
@@ -95,16 +102,44 @@
         "title": "Building Immersive Virtual Economies: An Introduction to KursarScript (KSPL)",
         "desc": "",
         "url": "https://stackoverflow.blog/2026/10/21/building-immersive-virtual-economies-an-introduction-to-kursarscript-kspl/"
-      },
-      {
-        "date": "21 Eki",
-        "source": "Simon Willison",
-        "title": "Panache — RTS Belle Époque pour mobile",
-        "desc": "<p><strong><a href=\"https://github.com/menufactory43/panache/\">Panache — RTS Belle Époque pour mobile</a></strong></p>\nWell this is delightful: I <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">released Bat",
-        "url": "https://simonwillison.net/2026/Oct/21/panache/"
       }
     ],
     "arac": [
+      {
+        "date": "23 Eki",
+        "source": "Product Hunt",
+        "title": "Product Hunt Visual Launch Editor",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/producthunt"
+      },
+      {
+        "date": "23 Eki",
+        "source": "Product Hunt",
+        "title": "Instant Search",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/instant-search-2"
+      },
+      {
+        "date": "23 Eki",
+        "source": "Product Hunt",
+        "title": "Termi Protocol",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/termi-protocol"
+      },
+      {
+        "date": "22 Eki",
+        "source": "Product Hunt",
+        "title": "Peras",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/peras"
+      },
+      {
+        "date": "22 Eki",
+        "source": "Product Hunt",
+        "title": "Plango",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/plango"
+      },
       {
         "date": "22 Eki",
         "source": "TechCrunch Apps",
@@ -118,41 +153,6 @@
         "title": "Canva releases its first image generation model",
         "desc": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
         "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "Product Hunt",
-        "title": "Tetriz Engg Intelligence + Connectors",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors"
-      },
-      {
-        "date": "22 Eki",
-        "source": "Product Hunt",
-        "title": "Resend Inboxes",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/resend"
-      },
-      {
-        "date": "21 Eki",
-        "source": "Product Hunt",
-        "title": "Sponkly",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/sponkly"
-      },
-      {
-        "date": "21 Eki",
-        "source": "Product Hunt",
-        "title": "Bits",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/bits-4"
-      },
-      {
-        "date": "21 Eki",
-        "source": "Product Hunt",
-        "title": "Teclo",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/teclo"
       }
     ]
   }
