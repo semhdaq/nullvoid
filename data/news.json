@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-23T15:59:31.355Z",
+  "generated_at": "2026-10-23T20:42:22.467Z",
   "generated_at_tr": "23 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "23 Eki",
+        "source": "The Verge",
+        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+        "desc": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a litt",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+      },
+      {
+        "date": "23 Eki",
+        "source": "TechCrunch",
+        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+        "desc": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder le",
+        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+      },
+      {
+        "date": "23 Eki",
+        "source": "The Verge",
+        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+        "desc": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exce",
+        "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+      },
       {
         "date": "23 Eki",
         "source": "The Verge",
@@ -30,30 +51,23 @@
         "title": "Agent Hunt",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/monid"
-      },
-      {
-        "date": "23 Eki",
-        "source": "TechCrunch",
-        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-        "desc": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-        "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
-      },
-      {
-        "date": "23 Eki",
-        "source": "TechCrunch",
-        "title": "Left alone with nothing to do, AI agents started playing",
-        "desc": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "TechCrunch",
-        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-        "desc": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
       }
     ],
     "kod": [
+      {
+        "date": "23 Eki",
+        "source": "Simon Willison",
+        "title": "Introducing Kimi K3.1 Pro",
+        "desc": "<p><strong><a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\">Introducing Kimi K3.1 Pro</a></strong></p>\nKimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot  promise \"Full model weights wil",
+        "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
+      },
+      {
+        "date": "23 Eki",
+        "source": "The Verge",
+        "title": "The iPhone Duo should have been an iPad",
+        "desc": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smar",
+        "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast"
+      },
       {
         "date": "23 Eki",
         "source": "MIT Tech Review",
@@ -69,6 +83,13 @@
         "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
       },
       {
+        "date": "23 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Rumors of the SaaS demise are greatly exaggerated",
+        "desc": "Recorded on the floor of LDX3, Ryan chats with Nivia Henry, an engineering leader most recently at Netflix, about the reality of the supposed SaaS apocalypse, the complex calculus of the modern build-versus-buy decision ",
+        "url": "https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/"
+      },
+      {
         "date": "22 Eki",
         "source": "Simon Willison",
         "title": "DE STAAT - FREEDOM (Official Music Video)",
@@ -81,27 +102,6 @@
         "title": "The Regression Tests Nobody Writes: Capturing How Software Actually Behaves",
         "desc": "",
         "url": "https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "GitHub Blog",
-        "title": "How bug bounty sharpens one researcher’s security skills",
-        "desc": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers.\nThe post How bug bounty sharpens one re",
-        "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
-        "desc": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
-        "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "MIT Tech Review",
-        "title": "The Download: computing’s next leap and permafrost’s climate threat",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richar",
-        "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
       }
     ],
     "arac": [
