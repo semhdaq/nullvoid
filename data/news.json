@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-10-23T10:35:53.252Z",
+  "generated_at": "2026-10-23T15:59:31.355Z",
   "generated_at_tr": "23 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "23 Eki",
+        "source": "The Verge",
+        "title": "Meta delays new business terms after publisher pushback on AI scraping",
+        "desc": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to T",
+        "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+      },
+      {
+        "date": "23 Eki",
+        "source": "The Verge",
+        "title": "Retro gaming is being overrun with AI",
+        "desc": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality.  Over the past month or so, these kind",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
+      },
       {
         "date": "23 Eki",
         "source": "Product Hunt",
@@ -37,23 +51,16 @@
         "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
         "desc": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
         "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "The Verge",
-        "title": "Canva’s first AI image model plans designs before generating them",
-        "desc": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that all",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
-      },
-      {
-        "date": "22 Eki",
-        "source": "MIT Tech Review",
-        "title": "Designing an AI serving harness built to last",
-        "desc": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has center",
-        "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
       }
     ],
     "kod": [
+      {
+        "date": "23 Eki",
+        "source": "MIT Tech Review",
+        "title": "The Download: testing six tech promises and biotech’s blind spots",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossib",
+        "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
+      },
       {
         "date": "23 Eki",
         "source": "MIT Tech Review",
@@ -95,13 +102,6 @@
         "title": "The Download: computing’s next leap and permafrost’s climate threat",
         "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richar",
         "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
-      },
-      {
-        "date": "21 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Building Immersive Virtual Economies: An Introduction to KursarScript (KSPL)",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/10/21/building-immersive-virtual-economies-an-introduction-to-kursarscript-kspl/"
       }
     ],
     "arac": [
