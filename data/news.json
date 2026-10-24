@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-10-24T14:56:45.785Z",
+  "generated_at": "2026-10-24T19:53:21.876Z",
   "generated_at_tr": "24 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "24 Eki",
+        "source": "TechCrunch",
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "desc": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      },
+      {
+        "date": "24 Eki",
+        "source": "The Verge",
+        "title": "Pennsylvania will require labels on AI-generated ads",
+        "desc": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, vide",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+      },
+      {
+        "date": "24 Eki",
+        "source": "TechCrunch",
+        "title": "Block’s new voice model sounds eerily human",
+        "desc": "Block said that the voice model can run locally on a MacBook M4 Max",
+        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+      },
+      {
+        "date": "24 Eki",
+        "source": "TechCrunch",
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "desc": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+      },
       {
         "date": "24 Eki",
         "source": "TechCrunch",
@@ -23,37 +51,16 @@
         "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
         "desc": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
         "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
-      },
-      {
-        "date": "23 Eki",
-        "source": "Simon Willison",
-        "title": "Quick Study",
-        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/quick-study-painter\">Quick Study</a></p>\n        <p>Prompt <a href=\"https://claude.ai/share/71adda96-193f-4f2a-97c0-454e08066afb\">to Claude Opus 5.5 High",
-        "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
-      },
-      {
-        "date": "23 Eki",
-        "source": "The Verge",
-        "title": "OpenAI now trains its frontier AI models with no internet access",
-        "desc": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
-      },
-      {
-        "date": "23 Eki",
-        "source": "The Verge",
-        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-        "desc": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a litt",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
-      },
-      {
-        "date": "23 Eki",
-        "source": "TechCrunch",
-        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-        "desc": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder le",
-        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
       }
     ],
     "kod": [
+      {
+        "date": "24 Eki",
+        "source": "TechCrunch Apps",
+        "title": "These clever apps show off the iPhone Duo’s potential",
+        "desc": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+        "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/"
+      },
       {
         "date": "24 Eki",
         "source": "Simon Willison",
@@ -95,13 +102,6 @@
         "title": "Rumors of the SaaS demise are greatly exaggerated",
         "desc": "Recorded on the floor of LDX3, Ryan chats with Nivia Henry, an engineering leader most recently at Netflix, about the reality of the supposed SaaS apocalypse, the complex calculus of the modern build-versus-buy decision ",
         "url": "https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "Simon Willison",
-        "title": "DE STAAT - FREEDOM (Official Music Video)",
-        "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow\">DE STAAT - FREEDOM (Official Music Video)</a></strong></p>\nOK well this is a first for me... at <a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow&amp;t=",
-        "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/"
       }
     ],
     "arac": [
