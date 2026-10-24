@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-10-23T20:42:22.467Z",
-  "generated_at_tr": "23 Eki 2026",
+  "generated_at": "2026-10-24T02:09:56.455Z",
+  "generated_at_tr": "24 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "23 Eki",
+        "source": "TechCrunch",
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "desc": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+      },
+      {
+        "date": "23 Eki",
+        "source": "TechCrunch",
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "desc": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+        "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+      },
+      {
+        "date": "23 Eki",
+        "source": "Simon Willison",
+        "title": "Quick Study",
+        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/quick-study-painter\">Quick Study</a></p>\n        <p>Prompt <a href=\"https://claude.ai/share/71adda96-193f-4f2a-97c0-454e08066afb\">to Claude Opus 5.5 High",
+        "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
+      },
+      {
+        "date": "23 Eki",
+        "source": "The Verge",
+        "title": "OpenAI now trains its frontier AI models with no internet access",
+        "desc": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+      },
       {
         "date": "23 Eki",
         "source": "The Verge",
@@ -23,34 +51,6 @@
         "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
         "desc": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exce",
         "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
-      },
-      {
-        "date": "23 Eki",
-        "source": "The Verge",
-        "title": "Meta delays new business terms after publisher pushback on AI scraping",
-        "desc": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to T",
-        "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
-      },
-      {
-        "date": "23 Eki",
-        "source": "The Verge",
-        "title": "Retro gaming is being overrun with AI",
-        "desc": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality.  Over the past month or so, these kind",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
-      },
-      {
-        "date": "23 Eki",
-        "source": "Product Hunt",
-        "title": "ShogunAI",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/shogunai"
-      },
-      {
-        "date": "23 Eki",
-        "source": "Product Hunt",
-        "title": "Agent Hunt",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/monid"
       }
     ],
     "kod": [
