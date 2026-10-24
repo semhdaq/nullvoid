@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-10-24T09:53:47.542Z",
+  "generated_at": "2026-10-24T14:56:45.785Z",
   "generated_at_tr": "24 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "24 Eki",
+        "source": "TechCrunch",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "desc": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      },
       {
         "date": "23 Eki",
         "source": "TechCrunch",
@@ -44,16 +51,16 @@
         "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
         "desc": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder le",
         "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
-      },
-      {
-        "date": "23 Eki",
-        "source": "The Verge",
-        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-        "desc": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exce",
-        "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
       }
     ],
     "kod": [
+      {
+        "date": "24 Eki",
+        "source": "Simon Willison",
+        "title": "battledrones v14: Compass Rose, a four player map",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/battledrones/releases/tag/v14\">battledrones v14: Compass Rose, a four player map</a></p>\n        <p>I added four player online mode to <a href=\"https://simo",
+        "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
+      },
       {
         "date": "23 Eki",
         "source": "Simon Willison",
@@ -95,13 +102,6 @@
         "title": "DE STAAT - FREEDOM (Official Music Video)",
         "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow\">DE STAAT - FREEDOM (Official Music Video)</a></strong></p>\nOK well this is a first for me... at <a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow&amp;t=",
         "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/"
-      },
-      {
-        "date": "22 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "The Regression Tests Nobody Writes: Capturing How Software Actually Behaves",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/"
       }
     ],
     "arac": [
