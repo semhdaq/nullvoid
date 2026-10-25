@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-10-25T15:07:21.885Z",
+  "generated_at": "2026-10-25T20:03:54.787Z",
   "generated_at_tr": "25 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "25 Eki",
+        "source": "TechCrunch",
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "desc": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+      },
       {
         "date": "25 Eki",
         "source": "TechCrunch",
@@ -44,13 +51,6 @@
         "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
         "desc": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
         "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-      },
-      {
-        "date": "24 Eki",
-        "source": "The Verge",
-        "title": "Pennsylvania will require labels on AI-generated ads",
-        "desc": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, vide",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
       }
     ],
     "kod": [
