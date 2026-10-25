@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-10-25T01:56:28.539Z",
+  "generated_at": "2026-10-25T10:15:04.659Z",
   "generated_at_tr": "25 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "25 Eki",
+        "source": "Product Hunt",
+        "title": "AgentGrid.io",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/agentgrid-io"
+      },
       {
         "date": "24 Eki",
         "source": "The Verge",
@@ -44,13 +51,6 @@
         "title": "Here are the top AI agents that can live in your text messages",
         "desc": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
         "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
-      },
-      {
-        "date": "23 Eki",
-        "source": "TechCrunch",
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-        "desc": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
       }
     ],
     "kod": [
@@ -106,6 +106,27 @@
     ],
     "arac": [
       {
+        "date": "24 Eki",
+        "source": "Product Hunt",
+        "title": "Papermark Data Rooms",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/papermark-2"
+      },
+      {
+        "date": "24 Eki",
+        "source": "Product Hunt",
+        "title": "Yourcast 2.0",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/yourcast"
+      },
+      {
+        "date": "24 Eki",
+        "source": "Product Hunt",
+        "title": "Llama Windows",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/llama-windows"
+      },
+      {
         "date": "23 Eki",
         "source": "Product Hunt",
         "title": "Basedash Scheduled CSV Exports",
@@ -132,27 +153,6 @@
         "title": "Instant Search",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/instant-search-2"
-      },
-      {
-        "date": "23 Eki",
-        "source": "Product Hunt",
-        "title": "Termi Protocol",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/termi-protocol"
-      },
-      {
-        "date": "22 Eki",
-        "source": "Product Hunt",
-        "title": "Peras",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/peras"
-      },
-      {
-        "date": "22 Eki",
-        "source": "Product Hunt",
-        "title": "Plango",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/plango"
       }
     ]
   }
