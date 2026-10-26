@@ -1,14 +1,35 @@
 {
-  "generated_at": "2026-10-26T01:57:56.029Z",
+  "generated_at": "2026-10-26T11:39:34.683Z",
   "generated_at_tr": "26 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "26 Eki",
+        "source": "Product Hunt",
+        "title": "AllModels",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/allmodels-io"
+      },
+      {
+        "date": "25 Eki",
+        "source": "Product Hunt",
+        "title": "Jobmate AI",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/jobmate-ai-3"
+      },
       {
         "date": "25 Eki",
         "source": "TechCrunch",
         "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
         "desc": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
         "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+      },
+      {
+        "date": "25 Eki",
+        "source": "Product Hunt",
+        "title": "ManyAgents",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/manyagents"
       },
       {
         "date": "25 Eki",
@@ -30,30 +51,16 @@
         "title": "r/opensource just banned AI, non-English speakers, and more",
         "desc": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, ",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
-      },
-      {
-        "date": "25 Eki",
-        "source": "The Verge",
-        "title": "Google’s AI search changes upended online publishing",
-        "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ",
-        "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
-      },
-      {
-        "date": "25 Eki",
-        "source": "Product Hunt",
-        "title": "AgentGrid.io",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/agentgrid-io"
-      },
-      {
-        "date": "24 Eki",
-        "source": "The Verge",
-        "title": "Blue Planet III is keeping the rough edges in the age of AI",
-        "desc": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost to",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
       }
     ],
     "kod": [
+      {
+        "date": "25 Eki",
+        "source": "Product Hunt",
+        "title": "VibeiDE",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/vibeide"
+      },
       {
         "date": "24 Eki",
         "source": "TechCrunch Apps",
@@ -95,16 +102,16 @@
         "title": "In the biotech world, you can’t see everything",
         "desc": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’d avoided spoilers (",
         "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
-      },
-      {
-        "date": "23 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Rumors of the SaaS demise are greatly exaggerated",
-        "desc": "Recorded on the floor of LDX3, Ryan chats with Nivia Henry, an engineering leader most recently at Netflix, about the reality of the supposed SaaS apocalypse, the complex calculus of the modern build-versus-buy decision ",
-        "url": "https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/"
       }
     ],
     "arac": [
+      {
+        "date": "26 Eki",
+        "source": "Product Hunt",
+        "title": "Standfast",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/standfast"
+      },
       {
         "date": "26 Eki",
         "source": "TechCrunch Apps",
@@ -113,46 +120,39 @@
         "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"
       },
       {
-        "date": "24 Eki",
+        "date": "25 Eki",
         "source": "Product Hunt",
-        "title": "Papermark Data Rooms",
+        "title": "AVP",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/papermark-2"
+        "url": "https://www.producthunt.com/products/avp"
       },
       {
-        "date": "24 Eki",
+        "date": "25 Eki",
         "source": "Product Hunt",
-        "title": "Yourcast 2.0",
+        "title": "WhoIsCooking",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/yourcast"
+        "url": "https://www.producthunt.com/products/whoiscooking"
       },
       {
-        "date": "24 Eki",
+        "date": "25 Eki",
         "source": "Product Hunt",
-        "title": "Llama Windows",
+        "title": "omerta",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/llama-windows"
+        "url": "https://www.producthunt.com/products/omerta"
       },
       {
-        "date": "23 Eki",
+        "date": "25 Eki",
         "source": "Product Hunt",
-        "title": "Basedash Scheduled CSV Exports",
+        "title": "desigma",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/basedash"
+        "url": "https://www.producthunt.com/products/desigma"
       },
       {
-        "date": "23 Eki",
+        "date": "25 Eki",
         "source": "Product Hunt",
-        "title": "Canva Craft",
+        "title": "Mozy",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/canva"
-      },
-      {
-        "date": "23 Eki",
-        "source": "Product Hunt",
-        "title": "Product Hunt Visual Launch Editor",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/producthunt"
+        "url": "https://www.producthunt.com/products/mozy-walk-to-unlock-apps"
       }
     ]
   }
