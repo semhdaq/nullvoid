@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-10-25T20:03:54.787Z",
-  "generated_at_tr": "25 Eki 2026",
+  "generated_at": "2026-10-26T01:57:56.029Z",
+  "generated_at_tr": "26 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "25 Eki",
+        "source": "TechCrunch",
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "desc": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+        "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+      },
       {
         "date": "25 Eki",
         "source": "TechCrunch",
@@ -44,13 +51,6 @@
         "title": "Blue Planet III is keeping the rough edges in the age of AI",
         "desc": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost to",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
-      },
-      {
-        "date": "24 Eki",
-        "source": "TechCrunch",
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "desc": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
       }
     ],
     "kod": [
@@ -106,6 +106,13 @@
     ],
     "arac": [
       {
+        "date": "26 Eki",
+        "source": "TechCrunch Apps",
+        "title": "The best apps for tracking your reading and discovering new books",
+        "desc": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+        "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"
+      },
+      {
         "date": "24 Eki",
         "source": "Product Hunt",
         "title": "Papermark Data Rooms",
@@ -146,13 +153,6 @@
         "title": "Product Hunt Visual Launch Editor",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/producthunt"
-      },
-      {
-        "date": "23 Eki",
-        "source": "Product Hunt",
-        "title": "Instant Search",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/instant-search-2"
       }
     ]
   }
