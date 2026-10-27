@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-10-27T16:55:54.565Z",
+  "generated_at": "2026-10-27T21:31:20.153Z",
   "generated_at_tr": "27 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "27 Eki",
+        "source": "The Verge",
+        "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+        "desc": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+      },
+      {
+        "date": "27 Eki",
+        "source": "TechCrunch",
+        "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+        "desc": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+        "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"
+      },
+      {
+        "date": "27 Eki",
+        "source": "The Verge",
+        "title": "VisionQuest is what happens when AI really goes rogue",
+        "desc": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai"
+      },
+      {
+        "date": "27 Eki",
+        "source": "TechCrunch",
+        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+        "desc": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+        "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+      },
       {
         "date": "27 Eki",
         "source": "The Verge",
@@ -12,48 +40,27 @@
       },
       {
         "date": "27 Eki",
+        "source": "TechCrunch",
+        "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+        "desc": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+        "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+      },
+      {
+        "date": "27 Eki",
         "source": "The Verge",
         "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
         "desc": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull informat",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"
-      },
-      {
-        "date": "27 Eki",
-        "source": "The Verge",
-        "title": "Google’s next Genie AI model generates more realistic experiences",
-        "desc": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in re",
-        "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
-      },
-      {
-        "date": "27 Eki",
-        "source": "TechCrunch",
-        "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-        "desc": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-        "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
-      },
-      {
-        "date": "27 Eki",
-        "source": "The Verge",
-        "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-        "desc": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform",
-        "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
-      },
-      {
-        "date": "27 Eki",
-        "source": "TechCrunch",
-        "title": "Japan internet giant GMO says hackers posted stolen customer data",
-        "desc": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-        "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
-      },
-      {
-        "date": "27 Eki",
-        "source": "TechCrunch",
-        "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-        "desc": "The new standard, WebAI, is designed to work with a variety of AI models.",
-        "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
       }
     ],
     "kod": [
+      {
+        "date": "27 Eki",
+        "source": "Simon Willison",
+        "title": "Game Boy Color on My Conference Badge",
+        "desc": "<p><strong><a href=\"https://spf13.com/p/game-boy-color-on-my-conference-badge/\">Game Boy Color on My Conference Badge</a></strong></p>\nI'm at GitHub Universe this week and, <a href=\"https://simonwillison.net/2025/Oct/28/",
+        "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"
+      },
       {
         "date": "27 Eki",
         "source": "TechCrunch",
@@ -95,22 +102,15 @@
         "title": "These clever apps show off the iPhone Duo’s potential",
         "desc": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
         "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/"
-      },
-      {
-        "date": "24 Eki",
-        "source": "Simon Willison",
-        "title": "battledrones v14: Compass Rose, a four player map",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/battledrones/releases/tag/v14\">battledrones v14: Compass Rose, a four player map</a></p>\n        <p>I added four player online mode to <a href=\"https://simo",
-        "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
       }
     ],
     "arac": [
       {
         "date": "27 Eki",
-        "source": "TechCrunch",
-        "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-        "desc": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
-        "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+        "source": "TechCrunch Apps",
+        "title": "Discord is making its public communities more searchable, and people have concerns",
+        "desc": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+        "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/"
       },
       {
         "date": "27 Eki",
