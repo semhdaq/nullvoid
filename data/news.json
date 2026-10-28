@@ -1,59 +1,87 @@
 {
-  "generated_at": "2026-10-28T02:44:30.107Z",
+  "generated_at": "2026-10-28T17:29:11.189Z",
   "generated_at_tr": "28 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "28 Eki",
         "source": "TechCrunch",
-        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-        "desc": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+        "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+        "desc": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+        "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
       },
       {
-        "date": "27 Eki",
-        "source": "TechCrunch",
-        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-        "desc": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
-      },
-      {
-        "date": "27 Eki",
-        "source": "TechCrunch",
-        "title": "The data center boom has an upside: innovation for the US grid",
-        "desc": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-        "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
-      },
-      {
-        "date": "27 Eki",
-        "source": "TechCrunch",
-        "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-        "desc": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-        "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
-      },
-      {
-        "date": "27 Eki",
-        "source": "TechCrunch",
-        "title": "Who’s really in charge at Anthropic after the IPO?",
-        "desc": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-        "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
-      },
-      {
-        "date": "27 Eki",
+        "date": "28 Eki",
         "source": "The Verge",
-        "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-        "desc": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+        "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+        "desc": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the f",
+        "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence"
       },
       {
-        "date": "27 Eki",
+        "date": "28 Eki",
+        "source": "TechCrunch Apps",
+        "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+        "desc": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+        "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+      },
+      {
+        "date": "28 Eki",
+        "source": "The Verge",
+        "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+        "desc": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the com",
+        "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely"
+      },
+      {
+        "date": "28 Eki",
+        "source": "GitHub Blog",
+        "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+        "desc": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report.\nThe post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents ap",
+        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+      },
+      {
+        "date": "28 Eki",
         "source": "TechCrunch",
-        "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-        "desc": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-        "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"
+        "title": "AI execs may be too out of touch to build for the general public",
+        "desc": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+        "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
+      },
+      {
+        "date": "28 Eki",
+        "source": "TechCrunch",
+        "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+        "desc": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+        "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
       }
     ],
     "kod": [
+      {
+        "date": "28 Eki",
+        "source": "Simon Willison",
+        "title": "GitHub Octoverse 2026",
+        "desc": "<p><strong><a href=\"https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/\">GitHub Octoverse 2026</a></strong></p>\nI'm at GitHub Universe today (GitH",
+        "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
+      },
+      {
+        "date": "28 Eki",
+        "source": "GitHub Blog",
+        "title": "GitHub Universe 2026: Evolving every layer of the stack",
+        "desc": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world.\nThe post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog.",
+        "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/"
+      },
+      {
+        "date": "28 Eki",
+        "source": "TechCrunch Apps",
+        "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+        "desc": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
+        "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/"
+      },
+      {
+        "date": "28 Eki",
+        "source": "The Verge",
+        "title": "Voters in Texas agree: They hate data centers",
+        "desc": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals.\nThere's ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas"
+      },
       {
         "date": "27 Eki",
         "source": "Simon Willison",
@@ -74,85 +102,57 @@
         "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
         "desc": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The m",
         "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/"
-      },
-      {
-        "date": "27 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Elevators, toasters, and the birth of Java",
-        "desc": "Ryan sits down with James Gosling, creator of Java at Sun Microsystems, to talk about the early networking friction that drove the need for interconnectedness, the stringent reliability requirements of consumer electroni",
-        "url": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/"
-      },
-      {
-        "date": "26 Eki",
-        "source": "Simon Willison",
-        "title": "webframe: evaluated as a scraper and a sandbox",
-        "desc": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/webframe-evaluation#readme\">webframe: evaluated as a scraper and a sandbox</a></p>\n        <p><a href=\"https://github.com/tractordev/web",
-        "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/"
-      },
-      {
-        "date": "25 Eki",
-        "source": "Product Hunt",
-        "title": "VibeiDE",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/vibeide"
-      },
-      {
-        "date": "24 Eki",
-        "source": "TechCrunch Apps",
-        "title": "These clever apps show off the iPhone Duo’s potential",
-        "desc": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-        "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/"
       }
     ],
     "arac": [
       {
-        "date": "27 Eki",
+        "date": "28 Eki",
         "source": "TechCrunch Apps",
-        "title": "Discord is making its public communities more searchable, and people have concerns",
-        "desc": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
-        "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/"
+        "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
+        "desc": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+        "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/"
       },
       {
-        "date": "27 Eki",
+        "date": "28 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "Delivering controlled and concentrated context",
+        "desc": "Check out the new features and capabilities now available in Stack Internal and Stack Internal Community. Try Stack Internal for free by visiting stackinternal.com.",
+        "url": "https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/"
+      },
+      {
+        "date": "28 Eki",
         "source": "TechCrunch Apps",
-        "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-        "desc": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
-        "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"
+        "title": "Free Fire returns to India as Garena launches localized version four years after ban",
+        "desc": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
+        "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/"
+      },
+      {
+        "date": "28 Eki",
+        "source": "The Verge",
+        "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+        "desc": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations.\nAccording to its Apple and Play Store listings, the \"16-bit",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world"
+      },
+      {
+        "date": "28 Eki",
+        "source": "Product Hunt",
+        "title": "licenseal",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/licenseal"
+      },
+      {
+        "date": "28 Eki",
+        "source": "Product Hunt",
+        "title": "Dedica",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/dedica"
       },
       {
         "date": "27 Eki",
-        "source": "TechCrunch Apps",
-        "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
-        "desc": "Whose hand is behind this travesty?",
-        "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/"
-      },
-      {
-        "date": "27 Eki",
         "source": "Product Hunt",
-        "title": "ContextGem 1.0",
+        "title": "Basedash View-only members",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/contextgem"
-      },
-      {
-        "date": "27 Eki",
-        "source": "Product Hunt",
-        "title": "Paddock",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/paddock-2"
-      },
-      {
-        "date": "26 Eki",
-        "source": "Product Hunt",
-        "title": "PulseDev",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/pulsedev"
-      },
-      {
-        "date": "26 Eki",
-        "source": "Product Hunt",
-        "title": "fswitcher",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/fswitcher"
+        "url": "https://www.producthunt.com/products/basedash"
       }
     ]
   }
