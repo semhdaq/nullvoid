@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-10-27T21:31:20.153Z",
-  "generated_at_tr": "27 Eki 2026",
+  "generated_at": "2026-10-28T02:44:30.107Z",
+  "generated_at_tr": "28 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "28 Eki",
+        "source": "TechCrunch",
+        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+        "desc": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+      },
+      {
+        "date": "27 Eki",
+        "source": "TechCrunch",
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "desc": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+      },
+      {
+        "date": "27 Eki",
+        "source": "TechCrunch",
+        "title": "The data center boom has an upside: innovation for the US grid",
+        "desc": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+        "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+      },
+      {
+        "date": "27 Eki",
+        "source": "TechCrunch",
+        "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+        "desc": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+        "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+      },
+      {
+        "date": "27 Eki",
+        "source": "TechCrunch",
+        "title": "Who’s really in charge at Anthropic after the IPO?",
+        "desc": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+        "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
+      },
       {
         "date": "27 Eki",
         "source": "The Verge",
@@ -16,41 +51,6 @@
         "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
         "desc": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
         "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"
-      },
-      {
-        "date": "27 Eki",
-        "source": "The Verge",
-        "title": "VisionQuest is what happens when AI really goes rogue",
-        "desc": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai"
-      },
-      {
-        "date": "27 Eki",
-        "source": "TechCrunch",
-        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-        "desc": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-        "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
-      },
-      {
-        "date": "27 Eki",
-        "source": "The Verge",
-        "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-        "desc": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images\t\n\nAnthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety"
-      },
-      {
-        "date": "27 Eki",
-        "source": "TechCrunch",
-        "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-        "desc": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-        "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
-      },
-      {
-        "date": "27 Eki",
-        "source": "The Verge",
-        "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-        "desc": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull informat",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"
       }
     ],
     "kod": [
