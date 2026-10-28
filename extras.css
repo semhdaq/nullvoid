@@ -1,0 +1,17 @@
+#mx{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.22;display:none}
+body.mx #mx{display:block}
+.dock{position:fixed;right:12px;bottom:12px;z-index:50;display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end;max-width:calc(100vw - 24px)}
+.dock button,.xv button{font:600 13px var(--sans);background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:8px 12px;cursor:pointer;transition:.18s}
+.dock button:hover,.xv button:hover{border-color:var(--c-ai);transform:translateY(-2px);color:var(--c-ai)}
+.xv{position:fixed;inset:0;z-index:60;background:rgba(15,24,29,.97);overflow:auto;padding:20px;display:none}
+.xv.on{display:block}.xv .in{max-width:860px;margin:0 auto}
+.xv h2{font:500 28px var(--serif);margin:.2em 0 .6em}.xv .top{display:flex;justify-content:space-between;align-items:center}
+.xv a.p{display:block;padding:12px;border:1px solid var(--line);border-radius:10px;margin:8px 0;color:var(--text);cursor:pointer}
+.xv .md{line-height:1.7;color:var(--soft)}.xv .md code,.xv pre{background:var(--surface);padding:2px 6px;border-radius:6px;font-family:ui-monospace,Consolas,monospace}
+.xv .md blockquote{border-left:3px solid var(--c-kod);margin:1em 0;padding-left:12px;color:var(--muted)}
+.xv canvas{width:100%;height:260px;background:var(--surface);border:1px solid var(--line);border-radius:10px;display:block}
+.xv textarea{width:100%;min-height:150px;background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:10px;font:14px ui-monospace,Consolas,monospace}
+.xv pre{white-space:pre-wrap;min-height:48px;color:var(--c-ai)}
+.term{font-family:ui-monospace,Consolas,monospace}.term .out{white-space:pre-wrap;color:var(--c-ai);min-height:50vh}
+.term input{width:100%;background:transparent;border:0;border-top:1px solid var(--line);color:var(--text);font:inherit;padding:10px 0;outline:0}
+.row{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
