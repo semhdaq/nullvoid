@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-10-28T17:29:11.189Z",
+  "generated_at": "2026-10-28T21:56:11.877Z",
   "generated_at_tr": "28 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "28 Eki",
         "source": "TechCrunch",
-        "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-        "desc": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-        "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
-      },
-      {
-        "date": "28 Eki",
-        "source": "The Verge",
-        "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-        "desc": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the f",
-        "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence"
-      },
-      {
-        "date": "28 Eki",
-        "source": "TechCrunch Apps",
-        "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-        "desc": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-        "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
-      },
-      {
-        "date": "28 Eki",
-        "source": "The Verge",
-        "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
-        "desc": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the com",
-        "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely"
-      },
-      {
-        "date": "28 Eki",
-        "source": "GitHub Blog",
-        "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-        "desc": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report.\nThe post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents ap",
-        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+        "title": "Google expands AI Search ads globally as core ad growth slows",
+        "desc": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+        "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
       },
       {
         "date": "28 Eki",
         "source": "TechCrunch",
-        "title": "AI execs may be too out of touch to build for the general public",
-        "desc": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-        "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
+        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+        "desc": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of th",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
+      },
+      {
+        "date": "28 Eki",
+        "source": "The Verge",
+        "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+        "desc": "The MPC Sample Key looks like the MPC Sample just with keys instead of pads. | Image: Akai\t\n\nThe MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up ",
+        "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key"
       },
       {
         "date": "28 Eki",
         "source": "TechCrunch",
-        "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-        "desc": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-        "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
+        "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+        "desc": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago q",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
+      },
+      {
+        "date": "28 Eki",
+        "source": "MIT Tech Review",
+        "title": "Creating AI value with enterprise context",
+        "desc": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i",
+        "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
+      },
+      {
+        "date": "28 Eki",
+        "source": "The Verge",
+        "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+        "desc": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artifi",
+        "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+      },
+      {
+        "date": "28 Eki",
+        "source": "TechCrunch",
+        "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+        "desc": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+        "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
       }
     ],
     "kod": [
+      {
+        "date": "28 Eki",
+        "source": "TechCrunch",
+        "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+        "desc": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, w",
+        "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/"
+      },
+      {
+        "date": "28 Eki",
+        "source": "TechCrunch",
+        "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+        "desc": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, w",
+        "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/"
+      },
       {
         "date": "28 Eki",
         "source": "Simon Willison",
@@ -88,20 +102,6 @@
         "title": "Game Boy Color on My Conference Badge",
         "desc": "<p><strong><a href=\"https://spf13.com/p/game-boy-color-on-my-conference-badge/\">Game Boy Color on My Conference Badge</a></strong></p>\nI'm at GitHub Universe this week and, <a href=\"https://simonwillison.net/2025/Oct/28/",
         "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"
-      },
-      {
-        "date": "27 Eki",
-        "source": "TechCrunch",
-        "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-        "desc": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-        "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
-      },
-      {
-        "date": "27 Eki",
-        "source": "MIT Tech Review",
-        "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-        "desc": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The m",
-        "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/"
       }
     ],
     "arac": [
