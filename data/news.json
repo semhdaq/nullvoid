@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-28T21:56:11.877Z",
-  "generated_at_tr": "28 Eki 2026",
+  "generated_at": "2026-10-29T03:04:52.023Z",
+  "generated_at_tr": "29 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "28 Eki",
+        "source": "Simon Willison",
+        "title": "Quoting Ted Sanders",
+        "desc": "<blockquote cite=\"https://news.ycombinator.com/item?id=50248124#50249160\"><p>In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is al",
+        "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/"
+      },
+      {
+        "date": "28 Eki",
+        "source": "The Verge",
+        "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+        "desc": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young peop",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+      },
+      {
+        "date": "28 Eki",
+        "source": "TechCrunch",
+        "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+        "desc": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+      },
       {
         "date": "28 Eki",
         "source": "TechCrunch",
@@ -27,30 +48,9 @@
       {
         "date": "28 Eki",
         "source": "TechCrunch",
-        "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
         "desc": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago q",
         "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
-      },
-      {
-        "date": "28 Eki",
-        "source": "MIT Tech Review",
-        "title": "Creating AI value with enterprise context",
-        "desc": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i",
-        "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
-      },
-      {
-        "date": "28 Eki",
-        "source": "The Verge",
-        "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-        "desc": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artifi",
-        "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
-      },
-      {
-        "date": "28 Eki",
-        "source": "TechCrunch",
-        "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-        "desc": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-        "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
       }
     ],
     "kod": [
