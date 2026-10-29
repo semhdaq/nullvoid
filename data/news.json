@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-29T03:04:52.023Z",
+  "generated_at": "2026-10-29T11:51:43.214Z",
   "generated_at_tr": "29 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "29 Eki",
+        "source": "MIT Tech Review",
+        "title": "We urgently need to monitor AI agents’ actions in real time",
+        "desc": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+      },
+      {
+        "date": "29 Eki",
+        "source": "The Verge",
+        "title": "AI has come for Arizona’s water",
+        "desc": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The ",
+        "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+      },
+      {
+        "date": "29 Eki",
+        "source": "MIT Tech Review",
+        "title": "Our climate models have a big, dangerous blind spot",
+        "desc": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our",
+        "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/"
+      },
       {
         "date": "28 Eki",
         "source": "Simon Willison",
@@ -19,38 +40,17 @@
       },
       {
         "date": "28 Eki",
-        "source": "TechCrunch",
-        "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-        "desc": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-        "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+        "source": "Product Hunt",
+        "title": "AssemblyAI",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/assemblyai"
       },
       {
         "date": "28 Eki",
-        "source": "TechCrunch",
-        "title": "Google expands AI Search ads globally as core ad growth slows",
-        "desc": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-        "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
-      },
-      {
-        "date": "28 Eki",
-        "source": "TechCrunch",
-        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-        "desc": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of th",
-        "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
-      },
-      {
-        "date": "28 Eki",
-        "source": "The Verge",
-        "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-        "desc": "The MPC Sample Key looks like the MPC Sample just with keys instead of pads. | Image: Akai\t\n\nThe MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up ",
-        "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key"
-      },
-      {
-        "date": "28 Eki",
-        "source": "TechCrunch",
-        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-        "desc": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago q",
-        "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
+        "source": "Product Hunt",
+        "title": "Polylane for ChatGPT",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/polylane"
       }
     ],
     "kod": [
@@ -106,6 +106,34 @@
     ],
     "arac": [
       {
+        "date": "29 Eki",
+        "source": "Product Hunt",
+        "title": "Arco",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/arco-4"
+      },
+      {
+        "date": "28 Eki",
+        "source": "Product Hunt",
+        "title": "Flatbread",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/flatbread"
+      },
+      {
+        "date": "28 Eki",
+        "source": "Product Hunt",
+        "title": "AutoShelf 2.6",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/autoshelf"
+      },
+      {
+        "date": "28 Eki",
+        "source": "Product Hunt",
+        "title": "Suno MCP",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/suno"
+      },
+      {
         "date": "28 Eki",
         "source": "TechCrunch Apps",
         "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
@@ -125,34 +153,6 @@
         "title": "Free Fire returns to India as Garena launches localized version four years after ban",
         "desc": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
         "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/"
-      },
-      {
-        "date": "28 Eki",
-        "source": "The Verge",
-        "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
-        "desc": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations.\nAccording to its Apple and Play Store listings, the \"16-bit",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world"
-      },
-      {
-        "date": "28 Eki",
-        "source": "Product Hunt",
-        "title": "licenseal",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/licenseal"
-      },
-      {
-        "date": "28 Eki",
-        "source": "Product Hunt",
-        "title": "Dedica",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/dedica"
-      },
-      {
-        "date": "27 Eki",
-        "source": "Product Hunt",
-        "title": "Basedash View-only members",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/basedash"
       }
     ]
   }
