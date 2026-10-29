@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-10-29T11:51:43.214Z",
+  "generated_at": "2026-10-29T22:05:15.970Z",
   "generated_at_tr": "29 Eki 2026",
   "categories": {
     "ai": [
       {
         "date": "29 Eki",
-        "source": "MIT Tech Review",
-        "title": "We urgently need to monitor AI agents’ actions in real time",
-        "desc": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
-        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+        "source": "TechCrunch",
+        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "desc": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
       },
       {
         "date": "29 Eki",
-        "source": "The Verge",
-        "title": "AI has come for Arizona’s water",
-        "desc": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The ",
-        "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+        "source": "TechCrunch",
+        "title": "Rivian expands joint venture with VW to include AI assistant",
+        "desc": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+        "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
       },
       {
         "date": "29 Eki",
-        "source": "MIT Tech Review",
-        "title": "Our climate models have a big, dangerous blind spot",
-        "desc": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our",
-        "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/"
+        "source": "TechCrunch",
+        "title": "OpenAI-backed Thrive Holdings acquires ADT",
+        "desc": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+        "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
       },
       {
-        "date": "28 Eki",
+        "date": "29 Eki",
+        "source": "TechCrunch",
+        "title": "Meta quietly launches an AI fashion app called Style Sketch",
+        "desc": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+        "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+      },
+      {
+        "date": "29 Eki",
+        "source": "TechCrunch",
+        "title": "Granola crunches up a dictation feature to compete with Wispr",
+        "desc": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+        "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
+      },
+      {
+        "date": "29 Eki",
         "source": "Simon Willison",
-        "title": "Quoting Ted Sanders",
-        "desc": "<blockquote cite=\"https://news.ycombinator.com/item?id=50248124#50249160\"><p>In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is al",
-        "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/"
+        "title": "Building a multiplayer game world with autonomous Fable-class models",
+        "desc": "<p><strong><a href=\"https://twitter.com/jsnnsa/status/2115623382721126826\">How I Built the Most AI-Pilled Company in the World</a></strong></p>\nDon't be put off by the clickbait headline, this piece by Jacob Sansbury des",
+        "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/"
       },
       {
-        "date": "28 Eki",
-        "source": "The Verge",
-        "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-        "desc": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young peop",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
-      },
-      {
-        "date": "28 Eki",
-        "source": "Product Hunt",
-        "title": "AssemblyAI",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/assemblyai"
-      },
-      {
-        "date": "28 Eki",
-        "source": "Product Hunt",
-        "title": "Polylane for ChatGPT",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/polylane"
+        "date": "29 Eki",
+        "source": "TechCrunch",
+        "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+        "desc": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+        "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
       }
     ],
     "kod": [
+      {
+        "date": "29 Eki",
+        "source": "The Verge",
+        "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+        "desc": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
+      },
       {
         "date": "28 Eki",
         "source": "TechCrunch",
@@ -90,13 +97,6 @@
         "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/"
       },
       {
-        "date": "28 Eki",
-        "source": "The Verge",
-        "title": "Voters in Texas agree: They hate data centers",
-        "desc": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals.\nThere's ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas"
-      },
-      {
         "date": "27 Eki",
         "source": "Simon Willison",
         "title": "Game Boy Color on My Conference Badge",
@@ -105,6 +105,34 @@
       }
     ],
     "arac": [
+      {
+        "date": "29 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "The reports of Stack Overflow's death are greatly exaggerated",
+        "desc": "I’ve seen the recent predictions about Stack Overflow’s demise. They make for compelling headlines, but they confuse a change in how people access knowledge with the disappearance of the knowledge—and the company—behind ",
+        "url": "https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/"
+      },
+      {
+        "date": "29 Eki",
+        "source": "The Verge",
+        "title": "The NYT Cooking app is testing AI recipe modifications",
+        "desc": "The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times\t\n\nThe New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has spa",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool"
+      },
+      {
+        "date": "29 Eki",
+        "source": "TechCrunch Apps",
+        "title": "DoorDash to acquire Instacart for $17B",
+        "desc": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
+        "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
+      },
+      {
+        "date": "29 Eki",
+        "source": "TechCrunch",
+        "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+        "desc": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+        "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/"
+      },
       {
         "date": "29 Eki",
         "source": "Product Hunt",
@@ -125,34 +153,6 @@
         "title": "AutoShelf 2.6",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/autoshelf"
-      },
-      {
-        "date": "28 Eki",
-        "source": "Product Hunt",
-        "title": "Suno MCP",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/suno"
-      },
-      {
-        "date": "28 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
-        "desc": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
-        "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/"
-      },
-      {
-        "date": "28 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "Delivering controlled and concentrated context",
-        "desc": "Check out the new features and capabilities now available in Stack Internal and Stack Internal Community. Try Stack Internal for free by visiting stackinternal.com.",
-        "url": "https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/"
-      },
-      {
-        "date": "28 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Free Fire returns to India as Garena launches localized version four years after ban",
-        "desc": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
-        "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/"
       }
     ]
   }
