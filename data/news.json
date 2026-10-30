@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-30T03:09:12.725Z",
+  "generated_at": "2026-10-30T11:44:46.987Z",
   "generated_at_tr": "30 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "30 Eki",
+        "source": "The Verge",
+        "title": "Maine’s data center revolt will decide who controls the Senate",
+        "desc": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short.\n\"I'm terrified,\" a man shouted. \"AI data centers are destroyi",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
+      },
+      {
+        "date": "30 Eki",
+        "source": "The Verge",
+        "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+        "desc": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitat",
+        "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
+      },
+      {
+        "date": "30 Eki",
+        "source": "MIT Tech Review",
+        "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+        "desc": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new repo",
+        "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"
+      },
       {
         "date": "30 Eki",
         "source": "TechCrunch",
@@ -13,7 +34,7 @@
       {
         "date": "29 Eki",
         "source": "TechCrunch",
-        "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
         "desc": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
         "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
       },
@@ -30,35 +51,21 @@
         "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
         "desc": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
         "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
-      },
-      {
-        "date": "29 Eki",
-        "source": "TechCrunch",
-        "title": "Rivian expands joint venture with VW to include AI assistant",
-        "desc": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-        "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
-      },
-      {
-        "date": "29 Eki",
-        "source": "TechCrunch",
-        "title": "OpenAI-backed Thrive Holdings acquires ADT",
-        "desc": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-        "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
-      },
-      {
-        "date": "29 Eki",
-        "source": "TechCrunch",
-        "title": "Meta quietly launches an AI fashion app called Style Sketch",
-        "desc": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-        "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
       }
     ],
     "kod": [
       {
+        "date": "30 Eki",
+        "source": "Stack Overflow Blog",
+        "title": "It’s ok that computers are (sometimes) better than us",
+        "desc": "Ryan is joined by Charity Majors, co-founder and CTO at Honeycomb, for a conversation about applying the concept of immutable infrastructure to software development to treat code like cattle instead of pets, shifting the",
+        "url": "https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/"
+      },
+      {
         "date": "29 Eki",
         "source": "TechCrunch Apps",
         "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-        "desc": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+        "desc": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
         "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/"
       },
       {
@@ -67,6 +74,13 @@
         "title": "You can generate and edit Google Docs files directly in Gemini chats now",
         "desc": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
+      },
+      {
+        "date": "29 Eki",
+        "source": "Product Hunt",
+        "title": "sitesolide",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/sitesolide"
       },
       {
         "date": "28 Eki",
@@ -88,23 +102,16 @@
         "title": "GitHub Octoverse 2026",
         "desc": "<p><strong><a href=\"https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/\">GitHub Octoverse 2026</a></strong></p>\nI'm at GitHub Universe today (GitH",
         "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
-      },
-      {
-        "date": "28 Eki",
-        "source": "GitHub Blog",
-        "title": "GitHub Universe 2026: Evolving every layer of the stack",
-        "desc": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world.\nThe post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog.",
-        "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/"
-      },
-      {
-        "date": "28 Eki",
-        "source": "TechCrunch Apps",
-        "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
-        "desc": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
-        "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/"
       }
     ],
     "arac": [
+      {
+        "date": "30 Eki",
+        "source": "Product Hunt",
+        "title": "Axonnic",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/axonnic"
+      },
       {
         "date": "29 Eki",
         "source": "Stack Overflow Blog",
@@ -114,45 +121,38 @@
       },
       {
         "date": "29 Eki",
-        "source": "The Verge",
-        "title": "The NYT Cooking app is testing AI recipe modifications",
-        "desc": "The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times\t\n\nThe New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has spa",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool"
-      },
-      {
-        "date": "29 Eki",
-        "source": "TechCrunch Apps",
-        "title": "DoorDash to acquire Instacart for $17B",
-        "desc": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
-        "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
-      },
-      {
-        "date": "29 Eki",
-        "source": "TechCrunch",
-        "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-        "desc": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
-        "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/"
+        "source": "Product Hunt",
+        "title": "Norah Studio",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/norah-studio"
       },
       {
         "date": "29 Eki",
         "source": "Product Hunt",
-        "title": "Arco",
+        "title": "StepGrab",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/arco-4"
+        "url": "https://www.producthunt.com/products/stepgrab"
       },
       {
-        "date": "28 Eki",
+        "date": "29 Eki",
         "source": "Product Hunt",
-        "title": "Flatbread",
+        "title": "Nocto",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/flatbread"
+        "url": "https://www.producthunt.com/products/nocto"
       },
       {
-        "date": "28 Eki",
+        "date": "29 Eki",
         "source": "Product Hunt",
-        "title": "AutoShelf 2.6",
+        "title": "ilse",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/autoshelf"
+        "url": "https://www.producthunt.com/products/ilse"
+      },
+      {
+        "date": "29 Eki",
+        "source": "Product Hunt",
+        "title": "Canva Brush",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/canva"
       }
     ]
   }
