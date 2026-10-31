@@ -1,0 +1,8 @@
+[
+ {"q":"C++'ta std::vector'e çok eleman eklemeden önce reserve() çağırmak neyi azaltır?","o":["Bellek yeniden tahsislerini","Derleme süresini","Eleman sayısını"],"a":0,"e":"reserve kapasiteyi önceden ayırır; push_back sırasında tekrar tekrar büyütme ve kopyalama olmaz."},
+ {"q":"HTTP 404 durum kodu ne anlama gelir?","o":["Sunucu hatası","Kaynak bulunamadı","Yetkisiz erişim"],"a":1,"e":"404, istenen kaynağın sunucuda bulunamadığını söyler."},
+ {"q":"Aynı girdiyle tekrar çalışsa da aynı sonucu veren işleme ne denir?","o":["İdempotent","Eşzamansız","Özyinelemeli"],"a":0,"e":"Veri hatlarında adımları idempotent yazmak, tekrar çalıştırmayı güvenli kılar."},
+ {"q":"Content-Security-Policy en çok hangi saldırı türünü azaltır?","o":["XSS","DDoS","Ağ dinleme"],"a":0,"e":"CSP, sayfanın hangi kaynaklardan script yükleyebileceğini sınırlar."},
+ {"q":"Büyük dil modellerinde 'token' nedir?","o":["Modelin işlediği metin parçası","Kullanıcı şifresi","Bir GPU çekirdeği"],"a":0,"e":"Metin, modele token adı verilen parçalar halinde verilir."},
+ {"q":"Son commit'i kaldırıp değişiklikleri hazırlık alanında (staged) bırakan komut hangisi?","o":["git reset --soft HEAD~1","git clean -fd","git stash drop"],"a":0,"e":"--soft, HEAD'i geri alır ama değişiklikleri silmez."}
+]

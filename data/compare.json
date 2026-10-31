@@ -1,0 +1,8 @@
+{
+  "cols": ["Araç", "Tür", "Yerelde çalışır", "Açık kaynak"],
+  "rows": [
+    ["Ollama", "Model çalıştırıcı", "Evet", "Evet"],
+    ["llama.cpp", "Çıkarım kütüphanesi", "Evet", "Evet"],
+    ["LM Studio", "Masaüstü uygulaması", "Evet", "Hayır"]
+  ]
+}
