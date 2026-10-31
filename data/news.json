@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-10-31T02:54:58.200Z",
+  "generated_at": "2026-10-31T16:23:42.250Z",
   "generated_at_tr": "31 Eki 2026",
   "categories": {
     "ai": [
+      {
+        "date": "31 Eki",
+        "source": "TechCrunch",
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "desc": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+        "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+      },
+      {
+        "date": "31 Eki",
+        "source": "The Verge",
+        "title": "I built an AI Tamagotchi before Meta could",
+        "desc": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.\nBut I w",
+        "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+      },
       {
         "date": "31 Eki",
         "source": "TechCrunch",
@@ -37,23 +51,16 @@
         "title": "Last-minute Halloween costumes for tech nerds",
         "desc": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
         "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
-      },
-      {
-        "date": "30 Eki",
-        "source": "TechCrunch",
-        "title": "Cracks are emerging in the AI spending boom",
-        "desc": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-        "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
-      },
-      {
-        "date": "30 Eki",
-        "source": "The Verge",
-        "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-        "desc": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
       }
     ],
     "kod": [
+      {
+        "date": "31 Eki",
+        "source": "TechCrunch Apps",
+        "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+        "desc": "TikTok may be working to become the app that people use for most of their digital activities.",
+        "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/"
+      },
       {
         "date": "30 Eki",
         "source": "Simon Willison",
@@ -90,21 +97,35 @@
         "url": "https://www.producthunt.com/products/sitesolide"
       },
       {
-        "date": "28 Eki",
-        "source": "Simon Willison",
-        "title": "GitHub Octoverse 2026",
-        "desc": "<p><strong><a href=\"https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/\">GitHub Octoverse 2026</a></strong></p>\nI'm at GitHub Universe today (GitH",
-        "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
-      },
-      {
-        "date": "28 Eki",
-        "source": "GitHub Blog",
-        "title": "GitHub Universe 2026: Evolving every layer of the stack",
-        "desc": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world.\nThe post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog.",
-        "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/"
+        "date": "29 Eki",
+        "source": "Product Hunt",
+        "title": "GitHub Copilot Fusion",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/github-copilot-fusion"
       }
     ],
     "arac": [
+      {
+        "date": "31 Eki",
+        "source": "Product Hunt",
+        "title": "AC Bridge",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/ac-bridge"
+      },
+      {
+        "date": "31 Eki",
+        "source": "Product Hunt",
+        "title": "Godwit",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/godwit"
+      },
+      {
+        "date": "31 Eki",
+        "source": "Product Hunt",
+        "title": "AwaitIO",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/awaitio"
+      },
       {
         "date": "30 Eki",
         "source": "The Verge",
@@ -114,45 +135,24 @@
       },
       {
         "date": "30 Eki",
-        "source": "TechCrunch",
-        "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-        "desc": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-s",
-        "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/"
+        "source": "Product Hunt",
+        "title": "Pluto Door",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/pluto-door"
       },
       {
         "date": "30 Eki",
         "source": "Product Hunt",
-        "title": "Axonnic",
+        "title": "Agnos",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/axonnic"
+        "url": "https://www.producthunt.com/products/agnos"
       },
       {
-        "date": "29 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "The reports of Stack Overflow's death are greatly exaggerated",
-        "desc": "I’ve seen the recent predictions about Stack Overflow’s demise. They make for compelling headlines, but they confuse a change in how people access knowledge with the disappearance of the knowledge—and the company—behind ",
-        "url": "https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/"
-      },
-      {
-        "date": "29 Eki",
+        "date": "30 Eki",
         "source": "Product Hunt",
-        "title": "Norah Studio",
+        "title": "Secret Key",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/norah-studio"
-      },
-      {
-        "date": "29 Eki",
-        "source": "Product Hunt",
-        "title": "StepGrab",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/stepgrab"
-      },
-      {
-        "date": "29 Eki",
-        "source": "Product Hunt",
-        "title": "Nocto",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/nocto"
+        "url": "https://www.producthunt.com/products/secret-key"
       }
     ]
   }
