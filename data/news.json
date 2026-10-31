@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-10-30T17:18:48.850Z",
-  "generated_at_tr": "30 Eki 2026",
+  "generated_at": "2026-10-31T02:54:58.200Z",
+  "generated_at_tr": "31 Eki 2026",
   "categories": {
     "ai": [
       {
-        "date": "30 Eki",
+        "date": "31 Eki",
         "source": "TechCrunch",
-        "title": "Google’s first data center satellite is online and writing poetry",
-        "desc": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-        "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "desc": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
       },
       {
         "date": "30 Eki",
         "source": "TechCrunch",
-        "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-        "desc": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-        "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "desc": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+      },
+      {
+        "date": "30 Eki",
+        "source": "TechCrunch",
+        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+        "desc": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+        "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+      },
+      {
+        "date": "30 Eki",
+        "source": "TechCrunch",
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "desc": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its busin",
+        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+      },
+      {
+        "date": "30 Eki",
+        "source": "TechCrunch",
+        "title": "Last-minute Halloween costumes for tech nerds",
+        "desc": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+        "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
+      },
+      {
+        "date": "30 Eki",
+        "source": "TechCrunch",
+        "title": "Cracks are emerging in the AI spending boom",
+        "desc": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+        "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
       },
       {
         "date": "30 Eki",
         "source": "The Verge",
-        "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-        "desc": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
-      },
-      {
-        "date": "30 Eki",
-        "source": "TechCrunch",
-        "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-        "desc": "DoorDash said that it is open to working with third-party agent makers.",
-        "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
-      },
-      {
-        "date": "30 Eki",
-        "source": "The Verge",
-        "title": "Silicon Valley wants you to invest in miracles",
-        "desc": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles"
-      },
-      {
-        "date": "30 Eki",
-        "source": "The Verge",
-        "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-        "desc": "After months of bombarding mathematicians  with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopp",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
-      },
-      {
-        "date": "30 Eki",
-        "source": "TechCrunch",
-        "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-        "desc": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-        "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/"
+        "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+        "desc": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
       }
     ],
     "kod": [
+      {
+        "date": "30 Eki",
+        "source": "Simon Willison",
+        "title": "dbreunig/nesformer",
+        "desc": "<p><strong><a href=\"https://github.com/dbreunig/nesformer\">dbreunig/nesformer</a></strong></p>\nInspired by <a href=\"https://divagr.com/blog/qwenputer\">qwenputer</a> by Divyansh Agrawal, Drew Breunig baked a working emula",
+        "url": "https://simonwillison.net/2026/Oct/30/nesformer/"
+      },
       {
         "date": "30 Eki",
         "source": "MIT Tech Review",
@@ -74,13 +81,6 @@
         "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
         "desc": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
         "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/"
-      },
-      {
-        "date": "29 Eki",
-        "source": "The Verge",
-        "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-        "desc": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
       },
       {
         "date": "29 Eki",
@@ -105,6 +105,13 @@
       }
     ],
     "arac": [
+      {
+        "date": "30 Eki",
+        "source": "The Verge",
+        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "desc": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta th",
+        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+      },
       {
         "date": "30 Eki",
         "source": "TechCrunch",
@@ -146,13 +153,6 @@
         "title": "Nocto",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/nocto"
-      },
-      {
-        "date": "29 Eki",
-        "source": "Product Hunt",
-        "title": "ilse",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ilse"
       }
     ]
   }
