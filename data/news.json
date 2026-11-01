@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-10-31T20:43:26.389Z",
-  "generated_at_tr": "31 Eki 2026",
+  "generated_at": "2026-11-01T02:48:33.985Z",
+  "generated_at_tr": "1 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "31 Eki",
+        "source": "Simon Willison",
+        "title": "How We Took Over ChatGPT Accounts",
+        "desc": "<p><strong><a href=\"https://www.parameter.ai/labs/we-found-a-gap-at-openai\">How We Took Over ChatGPT Accounts</a></strong></p>\nParameter Labs describe an exploit they found against ChatGPT's implementation of the artifac",
+        "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+      },
+      {
+        "date": "31 Eki",
+        "source": "Simon Willison",
+        "title": "datasette-llm 0.1a9",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a9\">datasette-llm 0.1a9</a></p>\n        <p>I have some big upgrades to <a href=\"https://agent.datasette.io/\">Datasette Agen",
+        "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
+      },
+      {
+        "date": "31 Eki",
+        "source": "TechCrunch",
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "desc": "Apple's new CEO defended the company's current position in the AI landscape.",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+      },
+      {
+        "date": "31 Eki",
+        "source": "TechCrunch",
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "desc": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+      },
       {
         "date": "31 Eki",
         "source": "TechCrunch",
@@ -23,37 +51,16 @@
         "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
         "desc": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
         "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
-      },
-      {
-        "date": "30 Eki",
-        "source": "TechCrunch",
-        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-        "desc": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
-      },
-      {
-        "date": "30 Eki",
-        "source": "TechCrunch",
-        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-        "desc": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-        "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
-      },
-      {
-        "date": "30 Eki",
-        "source": "TechCrunch",
-        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-        "desc": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its busin",
-        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
-      },
-      {
-        "date": "30 Eki",
-        "source": "TechCrunch",
-        "title": "Last-minute Halloween costumes for tech nerds",
-        "desc": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-        "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
       }
     ],
     "kod": [
+      {
+        "date": "31 Eki",
+        "source": "TechCrunch",
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "desc": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Regi",
+        "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+      },
       {
         "date": "31 Eki",
         "source": "TechCrunch Apps",
@@ -95,13 +102,6 @@
         "title": "sitesolide",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/sitesolide"
-      },
-      {
-        "date": "29 Eki",
-        "source": "Product Hunt",
-        "title": "GitHub Copilot Fusion",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/github-copilot-fusion"
       }
     ],
     "arac": [
