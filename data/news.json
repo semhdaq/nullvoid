@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:48:33.985Z",
+  "generated_at": "2026-11-01T12:08:23.464Z",
   "generated_at_tr": "1 Kas 2026",
   "categories": {
     "ai": [
@@ -33,6 +33,13 @@
       },
       {
         "date": "31 Eki",
+        "source": "Product Hunt",
+        "title": "agentmash",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/agentmash"
+      },
+      {
+        "date": "31 Eki",
         "source": "TechCrunch",
         "title": "OpenAI reportedly lowers funding target for new round",
         "desc": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
@@ -44,13 +51,6 @@
         "title": "I built an AI Tamagotchi before Meta could",
         "desc": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.\nBut I w",
         "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
-      },
-      {
-        "date": "31 Eki",
-        "source": "TechCrunch",
-        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-        "desc": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
       }
     ],
     "kod": [
@@ -99,12 +99,19 @@
       {
         "date": "29 Eki",
         "source": "Product Hunt",
-        "title": "sitesolide",
+        "title": "Precise Edit by Ideogram",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/sitesolide"
+        "url": "https://www.producthunt.com/products/ideogram"
       }
     ],
     "arac": [
+      {
+        "date": "31 Eki",
+        "source": "Product Hunt",
+        "title": "ernd",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/ernd"
+      },
       {
         "date": "31 Eki",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "Agnos",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/agnos"
-      },
-      {
-        "date": "30 Eki",
-        "source": "Product Hunt",
-        "title": "Secret Key",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/secret-key"
       }
     ]
   }
