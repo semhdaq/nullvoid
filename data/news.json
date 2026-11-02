@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-11-01T12:08:23.464Z",
-  "generated_at_tr": "1 Kas 2026",
+  "generated_at": "2026-11-02T02:56:22.846Z",
+  "generated_at_tr": "2 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "1 Kas",
+        "source": "TechCrunch",
+        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "desc": "Data centers are deeply unpopular. But what if we called them something else?",
+        "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+      },
+      {
+        "date": "1 Kas",
+        "source": "TechCrunch",
+        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+        "desc": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+        "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+      },
+      {
+        "date": "1 Kas",
+        "source": "Simon Willison",
+        "title": "Quoting Kyle Kingsbury",
+        "desc": "<blockquote cite=\"https://jepsen.io/analyses/particledb-1.1.4#llm-tradeoffs\"><p>More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers wil",
+        "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
+      },
       {
         "date": "31 Eki",
         "source": "Simon Willison",
@@ -30,30 +51,23 @@
         "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
         "desc": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
         "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
-      },
-      {
-        "date": "31 Eki",
-        "source": "Product Hunt",
-        "title": "agentmash",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/agentmash"
-      },
-      {
-        "date": "31 Eki",
-        "source": "TechCrunch",
-        "title": "OpenAI reportedly lowers funding target for new round",
-        "desc": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-        "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
-      },
-      {
-        "date": "31 Eki",
-        "source": "The Verge",
-        "title": "I built an AI Tamagotchi before Meta could",
-        "desc": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.\nBut I w",
-        "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
       }
     ],
     "kod": [
+      {
+        "date": "1 Kas",
+        "source": "Simon Willison",
+        "title": "If in doubt, delete the uv.lock file",
+        "desc": "<p>I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is:</p>\n<p><strong>If in doubt, delete the uv.lock file</strong></p>\n<p>Most o",
+        "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/"
+      },
+      {
+        "date": "1 Kas",
+        "source": "GitHub Blog",
+        "title": "Game Off 2026: The theme is SHIFT",
+        "desc": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key.\nThe post Game Off 2026: T",
+        "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/"
+      },
       {
         "date": "31 Eki",
         "source": "TechCrunch",
@@ -88,20 +102,6 @@
         "title": "It’s ok that computers are (sometimes) better than us",
         "desc": "Ryan is joined by Charity Majors, co-founder and CTO at Honeycomb, for a conversation about applying the concept of immutable infrastructure to software development to treat code like cattle instead of pets, shifting the",
         "url": "https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/"
-      },
-      {
-        "date": "29 Eki",
-        "source": "TechCrunch Apps",
-        "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-        "desc": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
-        "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/"
-      },
-      {
-        "date": "29 Eki",
-        "source": "Product Hunt",
-        "title": "Precise Edit by Ideogram",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ideogram"
       }
     ],
     "arac": [
