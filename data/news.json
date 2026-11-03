@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-11-03T13:06:01.544Z",
+  "generated_at": "2026-11-03T22:37:45.778Z",
   "generated_at_tr": "3 Kas 2026",
   "categories": {
     "ai": [
       {
         "date": "3 Kas",
-        "source": "MIT Tech Review",
-        "title": "How “reverse game theory” could keep AI agents in check",
-        "desc": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
-        "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
-      },
-      {
-        "date": "3 Kas",
-        "source": "Stack Overflow Blog",
-        "title": "Oh, your agents need OAuth2, too",
-        "desc": "Recorded at LDX3 by LeadDev, Ryan chats with Dan Moore, Senior Director of CIAM Strategy and Identity Standards at FusionAuth, about adapting established OAuth2 protocols for the agentic era, the security necessity of gi",
-        "url": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/"
+        "source": "TechCrunch",
+        "title": "Data centers are turning to old jet engines as the wait for power grows",
+        "desc": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+        "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
       },
       {
         "date": "3 Kas",
         "source": "TechCrunch",
-        "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-        "desc": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-        "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
-      },
-      {
-        "date": "3 Kas",
-        "source": "MIT Tech Review",
-        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-        "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained ",
-        "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
+        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "desc": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+        "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
       },
       {
         "date": "3 Kas",
         "source": "TechCrunch",
-        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-        "desc": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-        "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "desc": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+        "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
       },
       {
         "date": "3 Kas",
         "source": "TechCrunch",
-        "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-        "desc": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-        "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+        "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+        "desc": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+        "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+      },
+      {
+        "date": "3 Kas",
+        "source": "The Verge",
+        "title": "OpenAI says ChatGPT is catching up to Google in search",
+        "desc": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.\nAdam ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
+      },
+      {
+        "date": "3 Kas",
+        "source": "The Verge",
+        "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+        "desc": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch.\nThe first of these experiments surfaces content based arou",
+        "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations"
       },
       {
         "date": "3 Kas",
         "source": "TechCrunch",
-        "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-        "desc": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, ",
-        "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+        "title": "Anthropic is still grappling with the economics of compute",
+        "desc": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
       }
     ],
     "kod": [
+      {
+        "date": "3 Kas",
+        "source": "TechCrunch",
+        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+        "desc": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+        "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
+      },
+      {
+        "date": "3 Kas",
+        "source": "GitHub Blog",
+        "title": "Arnis turns any place on Earth into a Minecraft world",
+        "desc": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.\nThe post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
+        "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/"
+      },
+      {
+        "date": "3 Kas",
+        "source": "The Verge",
+        "title": "Midterm elections 2026: all the news",
+        "desc": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races",
+        "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news"
+      },
       {
         "date": "3 Kas",
         "source": "Simon Willison",
@@ -81,30 +102,37 @@
         "title": "SUN Web & API",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/sun-ai"
-      },
-      {
-        "date": "1 Kas",
-        "source": "Simon Willison",
-        "title": "If in doubt, delete the uv.lock file",
-        "desc": "<p>I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is:</p>\n<p><strong>If in doubt, delete the uv.lock file</strong></p>\n<p>Most o",
-        "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/"
-      },
-      {
-        "date": "1 Kas",
-        "source": "GitHub Blog",
-        "title": "Game Off 2026: The theme is SHIFT",
-        "desc": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key.\nThe post Game Off 2026: T",
-        "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/"
-      },
-      {
-        "date": "31 Eki",
-        "source": "TechCrunch",
-        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-        "desc": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Regi",
-        "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
       }
     ],
     "arac": [
+      {
+        "date": "3 Kas",
+        "source": "The Verge",
+        "title": "Those Jeff Bezos hair transplant photos are very fake",
+        "desc": "These edits of Jason Statham (left) and Jeff Bezos are a bit jarring, but that’s sort of the point. | Image: The Verge\t\n\nAmazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're bot",
+        "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk"
+      },
+      {
+        "date": "3 Kas",
+        "source": "The Verge",
+        "title": "Apple starts giving Siri AI access to third-party apps",
+        "desc": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the v",
+        "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+      },
+      {
+        "date": "3 Kas",
+        "source": "The Verge",
+        "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+        "desc": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambie",
+        "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta"
+      },
+      {
+        "date": "3 Kas",
+        "source": "The Verge",
+        "title": "Indie games are missing launch dates because Steam is backed up",
+        "desc": "A screenshot from Food Devils, which is missing its planned launch today.\t\n\nMany indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam,",
+        "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates"
+      },
       {
         "date": "3 Kas",
         "source": "Product Hunt",
@@ -125,34 +153,6 @@
         "title": "Brink",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/brink-2"
-      },
-      {
-        "date": "3 Kas",
-        "source": "Product Hunt",
-        "title": "One Roof",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/one-roof"
-      },
-      {
-        "date": "3 Kas",
-        "source": "TechCrunch Apps",
-        "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
-        "desc": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
-        "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/"
-      },
-      {
-        "date": "3 Kas",
-        "source": "Product Hunt",
-        "title": "nana",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/nana-2"
-      },
-      {
-        "date": "2 Kas",
-        "source": "Product Hunt",
-        "title": "Oreja de Van Gogh",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/oreja-de-van-gogh"
       }
     ]
   }
