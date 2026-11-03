@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-11-02T13:57:30.822Z",
-  "generated_at_tr": "2 Kas 2026",
+  "generated_at": "2026-11-03T00:06:50.568Z",
+  "generated_at_tr": "3 Kas 2026",
   "categories": {
     "ai": [
       {
         "date": "2 Kas",
-        "source": "Simon Willison",
-        "title": "The U.S. Census Bureau and “Super Intelligence”",
-        "desc": "<p>I was reminded today of <a href=\"https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/\">AI Adoption Rate Trending Down for Large Companies</a>, a chart produced by Apollo Global Management ",
-        "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/"
-      },
-      {
-        "date": "2 Kas",
-        "source": "MIT Tech Review",
-        "title": "Stop counting tokens, start counting what ships",
-        "desc": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens th",
-        "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
-      },
-      {
-        "date": "2 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: the agentic web arrives and the drive for safer roads",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim ",
-        "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/"
-      },
-      {
-        "date": "2 Kas",
-        "source": "MIT Tech Review",
-        "title": "The agentic web is here",
-        "desc": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he cal",
-        "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
-      },
-      {
-        "date": "1 Kas",
         "source": "TechCrunch",
-        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-        "desc": "Data centers are deeply unpopular. But what if we called them something else?",
-        "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+        "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "desc": "The one-year-old startup is now valued at $300 million.",
+        "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
       },
       {
-        "date": "1 Kas",
+        "date": "2 Kas",
         "source": "TechCrunch",
-        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-        "desc": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-        "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+        "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+        "desc": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+        "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
       },
       {
-        "date": "1 Kas",
-        "source": "Simon Willison",
-        "title": "Quoting Kyle Kingsbury",
-        "desc": "<blockquote cite=\"https://jepsen.io/analyses/particledb-1.1.4#llm-tradeoffs\"><p>More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers wil",
-        "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
+        "date": "2 Kas",
+        "source": "TechCrunch",
+        "title": "Web host Squarespace lays off 19% of its employees",
+        "desc": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+        "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"
+      },
+      {
+        "date": "2 Kas",
+        "source": "TechCrunch",
+        "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+        "desc": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+        "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+      },
+      {
+        "date": "2 Kas",
+        "source": "The Verge",
+        "title": "Anthropic clamps down on Claude’s AI video game clones",
+        "desc": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilatio",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+      },
+      {
+        "date": "2 Kas",
+        "source": "The Verge",
+        "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+        "desc": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extr",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
+      },
+      {
+        "date": "2 Kas",
+        "source": "The Verge",
+        "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+        "desc": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as re",
+        "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
       }
     ],
     "kod": [
@@ -107,6 +107,27 @@
     "arac": [
       {
         "date": "2 Kas",
+        "source": "TechCrunch Apps",
+        "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+        "desc": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrol",
+        "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/"
+      },
+      {
+        "date": "2 Kas",
+        "source": "TechCrunch",
+        "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+        "desc": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+        "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/"
+      },
+      {
+        "date": "2 Kas",
+        "source": "Product Hunt",
+        "title": "Help",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/help-381"
+      },
+      {
+        "date": "2 Kas",
         "source": "Product Hunt",
         "title": "Xmind 2027",
         "desc": "Discussion\n            |\n            Link",
@@ -127,32 +148,11 @@
         "url": "https://www.producthunt.com/products/ernd"
       },
       {
-        "date": "31 Eki",
-        "source": "Product Hunt",
-        "title": "AC Bridge",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ac-bridge"
-      },
-      {
         "date": "30 Eki",
         "source": "Product Hunt",
         "title": "Hyperresearch",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/hyperresearch"
-      },
-      {
-        "date": "30 Eki",
-        "source": "The Verge",
-        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-        "desc": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta th",
-        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
-      },
-      {
-        "date": "30 Eki",
-        "source": "Product Hunt",
-        "title": "Pluto Door",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/pluto-door"
       }
     ]
   }
