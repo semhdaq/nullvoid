@@ -1,59 +1,87 @@
 {
-  "generated_at": "2026-11-03T00:06:50.568Z",
+  "generated_at": "2026-11-03T13:06:01.544Z",
   "generated_at_tr": "3 Kas 2026",
   "categories": {
     "ai": [
       {
-        "date": "2 Kas",
+        "date": "3 Kas",
+        "source": "MIT Tech Review",
+        "title": "How “reverse game theory” could keep AI agents in check",
+        "desc": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
+        "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+      },
+      {
+        "date": "3 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "Oh, your agents need OAuth2, too",
+        "desc": "Recorded at LDX3 by LeadDev, Ryan chats with Dan Moore, Senior Director of CIAM Strategy and Identity Standards at FusionAuth, about adapting established OAuth2 protocols for the agentic era, the security necessity of gi",
+        "url": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/"
+      },
+      {
+        "date": "3 Kas",
         "source": "TechCrunch",
-        "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-        "desc": "The one-year-old startup is now valued at $300 million.",
-        "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+        "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+        "desc": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+        "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
       },
       {
-        "date": "2 Kas",
+        "date": "3 Kas",
+        "source": "MIT Tech Review",
+        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+        "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained ",
+        "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
+      },
+      {
+        "date": "3 Kas",
         "source": "TechCrunch",
-        "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-        "desc": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-        "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "desc": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+        "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
       },
       {
-        "date": "2 Kas",
+        "date": "3 Kas",
         "source": "TechCrunch",
-        "title": "Web host Squarespace lays off 19% of its employees",
-        "desc": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-        "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"
+        "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+        "desc": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+        "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
       },
       {
-        "date": "2 Kas",
+        "date": "3 Kas",
         "source": "TechCrunch",
-        "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-        "desc": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-        "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
-      },
-      {
-        "date": "2 Kas",
-        "source": "The Verge",
-        "title": "Anthropic clamps down on Claude’s AI video game clones",
-        "desc": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilatio",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
-      },
-      {
-        "date": "2 Kas",
-        "source": "The Verge",
-        "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-        "desc": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extr",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
-      },
-      {
-        "date": "2 Kas",
-        "source": "The Verge",
-        "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-        "desc": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as re",
-        "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+        "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+        "desc": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, ",
+        "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
       }
     ],
     "kod": [
+      {
+        "date": "3 Kas",
+        "source": "Simon Willison",
+        "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+        "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=UytYrhYLOKI\">I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube</a></strong></p>\nGenius piece of OSINT by Colsto, who demonstrates",
+        "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
+      },
+      {
+        "date": "3 Kas",
+        "source": "Simon Willison",
+        "title": "October sponsors-only newsletter",
+        "desc": "<p>I sent out the October edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-pri",
+        "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/"
+      },
+      {
+        "date": "2 Kas",
+        "source": "Simon Willison",
+        "title": "llm 0.37",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37\">llm 0.37</a></p>\n        <p>There's a <em>lot</em> of stuff in this new release of my LLM CLI tool and Python library, representing a",
+        "url": "https://simonwillison.net/2026/Nov/2/llm/"
+      },
+      {
+        "date": "2 Kas",
+        "source": "Product Hunt",
+        "title": "SUN Web & API",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/sun-ai"
+      },
       {
         "date": "1 Kas",
         "source": "Simon Willison",
@@ -74,85 +102,57 @@
         "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
         "desc": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Regi",
         "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
-      },
-      {
-        "date": "31 Eki",
-        "source": "TechCrunch Apps",
-        "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-        "desc": "TikTok may be working to become the app that people use for most of their digital activities.",
-        "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/"
-      },
-      {
-        "date": "30 Eki",
-        "source": "Simon Willison",
-        "title": "dbreunig/nesformer",
-        "desc": "<p><strong><a href=\"https://github.com/dbreunig/nesformer\">dbreunig/nesformer</a></strong></p>\nInspired by <a href=\"https://divagr.com/blog/qwenputer\">qwenputer</a> by Divyansh Agrawal, Drew Breunig baked a working emula",
-        "url": "https://simonwillison.net/2026/Oct/30/nesformer/"
-      },
-      {
-        "date": "30 Eki",
-        "source": "MIT Tech Review",
-        "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-los",
-        "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
-      },
-      {
-        "date": "30 Eki",
-        "source": "Stack Overflow Blog",
-        "title": "It’s ok that computers are (sometimes) better than us",
-        "desc": "Ryan is joined by Charity Majors, co-founder and CTO at Honeycomb, for a conversation about applying the concept of immutable infrastructure to software development to treat code like cattle instead of pets, shifting the",
-        "url": "https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/"
       }
     ],
     "arac": [
       {
-        "date": "2 Kas",
+        "date": "3 Kas",
+        "source": "Product Hunt",
+        "title": "NEXUPIRA",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/nexupira"
+      },
+      {
+        "date": "3 Kas",
+        "source": "Product Hunt",
+        "title": "Corvo",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/corvo-3"
+      },
+      {
+        "date": "3 Kas",
+        "source": "Product Hunt",
+        "title": "Brink",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/brink-2"
+      },
+      {
+        "date": "3 Kas",
+        "source": "Product Hunt",
+        "title": "One Roof",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/one-roof"
+      },
+      {
+        "date": "3 Kas",
         "source": "TechCrunch Apps",
-        "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-        "desc": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrol",
-        "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/"
+        "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+        "desc": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+        "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/"
       },
       {
-        "date": "2 Kas",
-        "source": "TechCrunch",
-        "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-        "desc": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-        "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/"
-      },
-      {
-        "date": "2 Kas",
+        "date": "3 Kas",
         "source": "Product Hunt",
-        "title": "Help",
+        "title": "nana",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/help-381"
+        "url": "https://www.producthunt.com/products/nana-2"
       },
       {
         "date": "2 Kas",
         "source": "Product Hunt",
-        "title": "Xmind 2027",
+        "title": "Oreja de Van Gogh",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/xmind"
-      },
-      {
-        "date": "1 Kas",
-        "source": "Product Hunt",
-        "title": "Friday Work",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/friday-work"
-      },
-      {
-        "date": "31 Eki",
-        "source": "Product Hunt",
-        "title": "ernd",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ernd"
-      },
-      {
-        "date": "30 Eki",
-        "source": "Product Hunt",
-        "title": "Hyperresearch",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/hyperresearch"
+        "url": "https://www.producthunt.com/products/oreja-de-van-gogh"
       }
     ]
   }
