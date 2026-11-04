@@ -1,20 +1,41 @@
 {
-  "generated_at": "2026-11-03T22:37:45.778Z",
-  "generated_at_tr": "3 Kas 2026",
+  "generated_at": "2026-11-04T03:32:15.050Z",
+  "generated_at_tr": "4 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "4 Kas",
+        "source": "The Verge",
+        "title": "The biggest modding site in PC gaming is taking a stance on AI",
+        "desc": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today ",
+        "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+      },
+      {
+        "date": "3 Kas",
+        "source": "The Verge",
+        "title": "Please stop asking me when the AI bubble will pop",
+        "desc": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg via Getty Images\t\n\nP",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds"
+      },
+      {
+        "date": "3 Kas",
+        "source": "TechCrunch",
+        "title": "Anthropic is working on a system to prove AI models’ identity",
+        "desc": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+      },
       {
         "date": "3 Kas",
         "source": "TechCrunch",
         "title": "Data centers are turning to old jet engines as the wait for power grows",
-        "desc": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+        "desc": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
         "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
       },
       {
         "date": "3 Kas",
         "source": "TechCrunch",
         "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-        "desc": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+        "desc": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
         "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
       },
       {
@@ -30,27 +51,6 @@
         "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
         "desc": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
         "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
-      },
-      {
-        "date": "3 Kas",
-        "source": "The Verge",
-        "title": "OpenAI says ChatGPT is catching up to Google in search",
-        "desc": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.\nAdam ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
-      },
-      {
-        "date": "3 Kas",
-        "source": "The Verge",
-        "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-        "desc": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch.\nThe first of these experiments surfaces content based arou",
-        "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations"
-      },
-      {
-        "date": "3 Kas",
-        "source": "TechCrunch",
-        "title": "Anthropic is still grappling with the economics of compute",
-        "desc": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-        "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
       }
     ],
     "kod": [
