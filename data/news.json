@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-11-04T13:21:28.872Z",
+  "generated_at": "2026-11-04T22:56:45.267Z",
   "generated_at_tr": "4 Kas 2026",
   "categories": {
     "ai": [
       {
         "date": "4 Kas",
         "source": "TechCrunch",
-        "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-        "desc": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-        "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"
-      },
-      {
-        "date": "4 Kas",
-        "source": "MIT Tech Review",
-        "title": "Securing the agentic enterprise with data lineage",
-        "desc": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age",
-        "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+        "title": "AI PACs spent millions trying to shape Congress. Here’s how they fared.",
+        "desc": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+        "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
       },
       {
         "date": "4 Kas",
         "source": "The Verge",
-        "title": "The biggest modding site in PC gaming is taking a stance on AI",
-        "desc": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today ",
-        "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+        "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+        "desc": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
       },
       {
-        "date": "3 Kas",
+        "date": "4 Kas",
+        "source": "TechCrunch",
+        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+        "desc": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+        "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+      },
+      {
+        "date": "4 Kas",
+        "source": "TechCrunch",
+        "title": "Almost no one uses AI agents to book their Uber, company says",
+        "desc": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+        "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+      },
+      {
+        "date": "4 Kas",
         "source": "The Verge",
-        "title": "Please stop asking me when the AI bubble will pop",
-        "desc": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg via Getty Images\t\n\nP",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds"
+        "title": "17 better ways Elon Musk could have wasted $446 million",
+        "desc": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seek",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
       },
       {
-        "date": "3 Kas",
+        "date": "4 Kas",
         "source": "TechCrunch",
-        "title": "Anthropic is working on a system to prove AI models’ identity",
-        "desc": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+        "title": "OpenAI is already trying to shape the 2028 election",
+        "desc": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+        "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
       },
       {
-        "date": "3 Kas",
+        "date": "4 Kas",
         "source": "TechCrunch",
-        "title": "Data centers are turning to old jet engines as the wait for power grows",
-        "desc": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-        "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
-      },
-      {
-        "date": "3 Kas",
-        "source": "TechCrunch",
-        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-        "desc": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-        "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+        "title": "Meta acquires AI coding startup Conductor",
+        "desc": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+        "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
       }
     ],
     "kod": [
+      {
+        "date": "4 Kas",
+        "source": "MIT Tech Review",
+        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+        "desc": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and",
+        "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
+      },
+      {
+        "date": "4 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "Your .NET parallel loop can become serial in a one-CPU container",
+        "desc": "CPU-based defaults can leave an I/O-heavy loop processing one record at a time. Raising the limit helps, but each downstream service still needs a concurrency budget it can handle.",
+        "url": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/"
+      },
+      {
+        "date": "4 Kas",
+        "source": "The Verge",
+        "title": "Data centers lost the midterms",
+        "desc": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, ",
+        "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
+      },
       {
         "date": "3 Kas",
         "source": "TechCrunch",
@@ -77,34 +98,27 @@
       },
       {
         "date": "3 Kas",
-        "source": "The Verge",
-        "title": "Midterm elections 2026: all the news",
-        "desc": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races",
-        "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news"
-      },
-      {
-        "date": "3 Kas",
         "source": "Simon Willison",
         "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
         "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=UytYrhYLOKI\">I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube</a></strong></p>\nGenius piece of OSINT by Colsto, who demonstrates",
         "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
-      },
-      {
-        "date": "3 Kas",
-        "source": "Simon Willison",
-        "title": "October sponsors-only newsletter",
-        "desc": "<p>I sent out the October edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-pri",
-        "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/"
-      },
-      {
-        "date": "2 Kas",
-        "source": "Simon Willison",
-        "title": "llm 0.37",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37\">llm 0.37</a></p>\n        <p>There's a <em>lot</em> of stuff in this new release of my LLM CLI tool and Python library, representing a",
-        "url": "https://simonwillison.net/2026/Nov/2/llm/"
       }
     ],
     "arac": [
+      {
+        "date": "4 Kas",
+        "source": "TechCrunch Apps",
+        "title": "Snapchat surpasses 30M paid subscribers",
+        "desc": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscr",
+        "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/"
+      },
+      {
+        "date": "4 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: blended meat, restored sight, and the agentic web",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat  In the fall",
+        "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/"
+      },
       {
         "date": "4 Kas",
         "source": "TechCrunch Apps",
@@ -123,7 +137,7 @@
         "date": "4 Kas",
         "source": "TechCrunch Apps",
         "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-        "desc": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+        "desc": "More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, according to analyst",
         "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"
       },
       {
@@ -134,25 +148,11 @@
         "url": "https://www.producthunt.com/products/fedora-linux-45"
       },
       {
-        "date": "3 Kas",
-        "source": "Product Hunt",
-        "title": "TellPip",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tellpip"
-      },
-      {
-        "date": "3 Kas",
-        "source": "Product Hunt",
-        "title": "Hashference",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/hashference"
-      },
-      {
-        "date": "3 Kas",
-        "source": "Product Hunt",
-        "title": "Freeport Markets",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/freeport-markets"
+        "date": "4 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-apps 0.3a0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.3a0\">datasette-apps 0.3a0</a></p>\n        <p>Datasette Apps adds support for hosting and editing custom HTML applications i",
+        "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/"
       }
     ]
   }
