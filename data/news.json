@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-11-04T03:32:15.050Z",
+  "generated_at": "2026-11-04T13:21:28.872Z",
   "generated_at_tr": "4 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "4 Kas",
+        "source": "TechCrunch",
+        "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+        "desc": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+        "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"
+      },
+      {
+        "date": "4 Kas",
+        "source": "MIT Tech Review",
+        "title": "Securing the agentic enterprise with data lineage",
+        "desc": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age",
+        "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+      },
       {
         "date": "4 Kas",
         "source": "The Verge",
@@ -37,20 +51,6 @@
         "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
         "desc": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
         "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
-      },
-      {
-        "date": "3 Kas",
-        "source": "TechCrunch",
-        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-        "desc": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
-        "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
-      },
-      {
-        "date": "3 Kas",
-        "source": "TechCrunch",
-        "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-        "desc": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-        "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
       }
     ],
     "kod": [
@@ -60,6 +60,13 @@
         "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
         "desc": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
         "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
+      },
+      {
+        "date": "3 Kas",
+        "source": "Product Hunt",
+        "title": "Hindsight Models and Inference API",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/vectorize"
       },
       {
         "date": "3 Kas",
@@ -95,64 +102,57 @@
         "title": "llm 0.37",
         "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37\">llm 0.37</a></p>\n        <p>There's a <em>lot</em> of stuff in this new release of my LLM CLI tool and Python library, representing a",
         "url": "https://simonwillison.net/2026/Nov/2/llm/"
-      },
-      {
-        "date": "2 Kas",
-        "source": "Product Hunt",
-        "title": "SUN Web & API",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/sun-ai"
       }
     ],
     "arac": [
       {
-        "date": "3 Kas",
-        "source": "The Verge",
-        "title": "Those Jeff Bezos hair transplant photos are very fake",
-        "desc": "These edits of Jason Statham (left) and Jeff Bezos are a bit jarring, but that’s sort of the point. | Image: The Verge\t\n\nAmazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're bot",
-        "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk"
+        "date": "4 Kas",
+        "source": "TechCrunch Apps",
+        "title": "Canva lays off over 1,200 people amid slowing growth",
+        "desc": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
+        "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/"
       },
       {
-        "date": "3 Kas",
-        "source": "The Verge",
-        "title": "Apple starts giving Siri AI access to third-party apps",
-        "desc": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the v",
-        "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+        "date": "4 Kas",
+        "source": "Product Hunt",
+        "title": "Rungle",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/rungle"
       },
       {
-        "date": "3 Kas",
-        "source": "The Verge",
-        "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-        "desc": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambie",
-        "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta"
+        "date": "4 Kas",
+        "source": "TechCrunch Apps",
+        "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+        "desc": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+        "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"
       },
       {
-        "date": "3 Kas",
-        "source": "The Verge",
-        "title": "Indie games are missing launch dates because Steam is backed up",
-        "desc": "A screenshot from Food Devils, which is missing its planned launch today.\t\n\nMany indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam,",
-        "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates"
+        "date": "4 Kas",
+        "source": "Product Hunt",
+        "title": "Fedora Linux 45",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/fedora-linux-45"
       },
       {
         "date": "3 Kas",
         "source": "Product Hunt",
-        "title": "NEXUPIRA",
+        "title": "TellPip",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/nexupira"
+        "url": "https://www.producthunt.com/products/tellpip"
       },
       {
         "date": "3 Kas",
         "source": "Product Hunt",
-        "title": "Corvo",
+        "title": "Hashference",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/corvo-3"
+        "url": "https://www.producthunt.com/products/hashference"
       },
       {
         "date": "3 Kas",
         "source": "Product Hunt",
-        "title": "Brink",
+        "title": "Freeport Markets",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/brink-2"
+        "url": "https://www.producthunt.com/products/freeport-markets"
       }
     ]
   }
