@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-11-05T03:53:42.333Z",
+  "generated_at": "2026-11-05T13:35:25.338Z",
   "generated_at_tr": "5 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "5 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
+        "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
+      },
+      {
+        "date": "5 Kas",
+        "source": "TechCrunch",
+        "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+        "desc": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+        "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
+      },
+      {
+        "date": "5 Kas",
+        "source": "TechCrunch",
+        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+        "desc": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+      },
+      {
+        "date": "5 Kas",
+        "source": "The Verge",
+        "title": "Big Tech’s big AI buildout will not end until someone stops it",
+        "desc": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data cente",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
+      },
+      {
+        "date": "5 Kas",
+        "source": "MIT Tech Review",
+        "title": "A new bill could change how the US builds energy infrastructure",
+        "desc": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipa",
+        "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/"
+      },
       {
         "date": "5 Kas",
         "source": "TechCrunch",
@@ -16,41 +51,6 @@
         "title": "After the midterms, a bigger clash over data centers could be coming",
         "desc": "Data center opposition crossed party lines in Tuesday’s midterms.",
         "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
-      },
-      {
-        "date": "4 Kas",
-        "source": "TechCrunch",
-        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-        "desc": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-        "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
-      },
-      {
-        "date": "4 Kas",
-        "source": "The Verge",
-        "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-        "desc": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
-      },
-      {
-        "date": "4 Kas",
-        "source": "TechCrunch",
-        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-        "desc": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-        "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
-      },
-      {
-        "date": "4 Kas",
-        "source": "TechCrunch",
-        "title": "Almost no one uses AI agents to book their Uber, company says",
-        "desc": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-        "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
-      },
-      {
-        "date": "4 Kas",
-        "source": "The Verge",
-        "title": "17 better ways Elon Musk could have wasted $446 million",
-        "desc": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seek",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
       }
     ],
     "kod": [
@@ -84,13 +84,6 @@
       },
       {
         "date": "3 Kas",
-        "source": "Product Hunt",
-        "title": "Hindsight Models and Inference API",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/vectorize"
-      },
-      {
-        "date": "3 Kas",
         "source": "GitHub Blog",
         "title": "Arnis turns any place on Earth into a Minecraft world",
         "desc": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.\nThe post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
@@ -102,9 +95,44 @@
         "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
         "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=UytYrhYLOKI\">I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube</a></strong></p>\nGenius piece of OSINT by Colsto, who demonstrates",
         "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
+      },
+      {
+        "date": "3 Kas",
+        "source": "Simon Willison",
+        "title": "October sponsors-only newsletter",
+        "desc": "<p>I sent out the October edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-pri",
+        "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/"
       }
     ],
     "arac": [
+      {
+        "date": "5 Kas",
+        "source": "TechCrunch Apps",
+        "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
+        "desc": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
+        "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/"
+      },
+      {
+        "date": "5 Kas",
+        "source": "Product Hunt",
+        "title": "CC Auto Review",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/cc-auto-review"
+      },
+      {
+        "date": "5 Kas",
+        "source": "Product Hunt",
+        "title": "Nemotron 3.5 Transcribe",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/nvidia"
+      },
+      {
+        "date": "5 Kas",
+        "source": "Product Hunt",
+        "title": "TextKit",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/textkit-2"
+      },
       {
         "date": "4 Kas",
         "source": "TechCrunch Apps",
@@ -114,45 +142,17 @@
       },
       {
         "date": "4 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: blended meat, restored sight, and the agentic web",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat  In the fall",
-        "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/"
-      },
-      {
-        "date": "4 Kas",
-        "source": "TechCrunch Apps",
-        "title": "Canva lays off over 1,200 people amid slowing growth",
-        "desc": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
-        "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/"
+        "source": "Product Hunt",
+        "title": "Scrollsnacks",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/scrollsnacks"
       },
       {
         "date": "4 Kas",
         "source": "Product Hunt",
-        "title": "Rungle",
+        "title": "FounderMail",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/rungle"
-      },
-      {
-        "date": "4 Kas",
-        "source": "TechCrunch Apps",
-        "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-        "desc": "More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, according to analyst",
-        "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"
-      },
-      {
-        "date": "4 Kas",
-        "source": "Product Hunt",
-        "title": "Fedora Linux 45",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/fedora-linux-45"
-      },
-      {
-        "date": "4 Kas",
-        "source": "Simon Willison",
-        "title": "datasette-apps 0.3a0",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.3a0\">datasette-apps 0.3a0</a></p>\n        <p>Datasette Apps adds support for hosting and editing custom HTML applications i",
-        "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/"
+        "url": "https://www.producthunt.com/products/foundermail-2"
       }
     ]
   }
