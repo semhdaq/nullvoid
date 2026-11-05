@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-04T22:56:45.267Z",
-  "generated_at_tr": "4 Kas 2026",
+  "generated_at": "2026-11-05T03:53:42.333Z",
+  "generated_at_tr": "5 Kas 2026",
   "categories": {
     "ai": [
       {
+        "date": "5 Kas",
+        "source": "TechCrunch",
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "desc": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+        "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+      },
+      {
+        "date": "5 Kas",
+        "source": "TechCrunch",
+        "title": "After the midterms, a bigger clash over data centers could be coming",
+        "desc": "Data center opposition crossed party lines in Tuesday’s midterms.",
+        "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+      },
+      {
         "date": "4 Kas",
         "source": "TechCrunch",
-        "title": "AI PACs spent millions trying to shape Congress. Here’s how they fared.",
+        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
         "desc": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
         "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
       },
@@ -37,20 +51,6 @@
         "title": "17 better ways Elon Musk could have wasted $446 million",
         "desc": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seek",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
-      },
-      {
-        "date": "4 Kas",
-        "source": "TechCrunch",
-        "title": "OpenAI is already trying to shape the 2028 election",
-        "desc": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-        "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
-      },
-      {
-        "date": "4 Kas",
-        "source": "TechCrunch",
-        "title": "Meta acquires AI coding startup Conductor",
-        "desc": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-        "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
       }
     ],
     "kod": [
