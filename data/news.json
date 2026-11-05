@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-11-05T13:35:25.338Z",
+  "generated_at": "2026-11-05T22:57:48.207Z",
   "generated_at_tr": "5 Kas 2026",
   "categories": {
     "ai": [
       {
         "date": "5 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
-        "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
-      },
-      {
-        "date": "5 Kas",
         "source": "TechCrunch",
-        "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-        "desc": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
-        "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
-      },
-      {
-        "date": "5 Kas",
-        "source": "TechCrunch",
-        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-        "desc": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
-        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+        "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+        "desc": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+        "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
       },
       {
         "date": "5 Kas",
         "source": "The Verge",
-        "title": "Big Tech’s big AI buildout will not end until someone stops it",
-        "desc": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data cente",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
-      },
-      {
-        "date": "5 Kas",
-        "source": "MIT Tech Review",
-        "title": "A new bill could change how the US builds energy infrastructure",
-        "desc": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipa",
-        "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/"
+        "title": "Perplexity launches its own take on AI agents for work",
+        "desc": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
       },
       {
         "date": "5 Kas",
         "source": "TechCrunch",
-        "title": "Apple is reportedly cutting budgets for its internal AI usage",
-        "desc": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-        "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+        "title": "Meta says US users can now video chat with their Muse AI avatar",
+        "desc": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+        "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
       },
       {
         "date": "5 Kas",
         "source": "TechCrunch",
-        "title": "After the midterms, a bigger clash over data centers could be coming",
-        "desc": "Data center opposition crossed party lines in Tuesday’s midterms.",
-        "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+        "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "desc": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+        "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+      },
+      {
+        "date": "5 Kas",
+        "source": "TechCrunch",
+        "title": "OpenAI released a new cybersecurity model. Is that enough?",
+        "desc": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+        "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+      },
+      {
+        "date": "5 Kas",
+        "source": "The Verge",
+        "title": "Muse has a voice mode now",
+        "desc": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today.\nThe feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article.",
+        "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
+      },
+      {
+        "date": "5 Kas",
+        "source": "TechCrunch",
+        "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+        "desc": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+        "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
       }
     ],
     "kod": [
+      {
+        "date": "5 Kas",
+        "source": "GitHub Blog",
+        "title": "Inside GitHub’s new Git storage architecture",
+        "desc": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.\nThe post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog.",
+        "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
+      },
+      {
+        "date": "5 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "Don’t Build the Reusable Component Yet",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/"
+      },
+      {
+        "date": "5 Kas",
+        "source": "GitHub Blog",
+        "title": "Accessibility statements now have a home on GitHub",
+        "desc": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.\nThe post Accessibility statement",
+        "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/"
+      },
       {
         "date": "4 Kas",
         "source": "MIT Tech Review",
@@ -69,18 +90,11 @@
         "url": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/"
       },
       {
-        "date": "4 Kas",
-        "source": "The Verge",
-        "title": "Data centers lost the midterms",
-        "desc": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, ",
-        "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
-      },
-      {
         "date": "3 Kas",
-        "source": "TechCrunch",
-        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-        "desc": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-        "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
+        "source": "Product Hunt",
+        "title": "Hindsight Models and Inference API",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/vectorize"
       },
       {
         "date": "3 Kas",
@@ -88,27 +102,34 @@
         "title": "Arnis turns any place on Earth into a Minecraft world",
         "desc": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.\nThe post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
         "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/"
-      },
-      {
-        "date": "3 Kas",
-        "source": "Simon Willison",
-        "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-        "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=UytYrhYLOKI\">I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube</a></strong></p>\nGenius piece of OSINT by Colsto, who demonstrates",
-        "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
-      },
-      {
-        "date": "3 Kas",
-        "source": "Simon Willison",
-        "title": "October sponsors-only newsletter",
-        "desc": "<p>I sent out the October edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-pri",
-        "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/"
       }
     ],
     "arac": [
       {
         "date": "5 Kas",
+        "source": "Simon Willison",
+        "title": "Quoting Paul Ford",
+        "desc": "<blockquote cite=\"https://ftrain.com/aboard-the-web-is-more-than-enough\"><p>The web browser is very, very, very powerful software for applications, <em>and the cost of accessing that power is going down seemingly every d",
+        "url": "https://simonwillison.net/2026/Nov/5/paul-ford/"
+      },
+      {
+        "date": "5 Kas",
         "source": "TechCrunch Apps",
-        "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
+        "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+        "desc": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
+        "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
+      },
+      {
+        "date": "5 Kas",
+        "source": "TechCrunch Apps",
+        "title": "Instagram brings Edits to desktop to take on CapCut",
+        "desc": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+        "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/"
+      },
+      {
+        "date": "5 Kas",
+        "source": "TechCrunch Apps",
+        "title": "Amazon ditches Grubhub, taps Uber Eats for Prime",
         "desc": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
         "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/"
       },
@@ -132,27 +153,6 @@
         "title": "TextKit",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/textkit-2"
-      },
-      {
-        "date": "4 Kas",
-        "source": "TechCrunch Apps",
-        "title": "Snapchat surpasses 30M paid subscribers",
-        "desc": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscr",
-        "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/"
-      },
-      {
-        "date": "4 Kas",
-        "source": "Product Hunt",
-        "title": "Scrollsnacks",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/scrollsnacks"
-      },
-      {
-        "date": "4 Kas",
-        "source": "Product Hunt",
-        "title": "FounderMail",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/foundermail-2"
       }
     ]
   }
