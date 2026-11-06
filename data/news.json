@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-11-05T22:57:48.207Z",
-  "generated_at_tr": "5 Kas 2026",
+  "generated_at": "2026-11-06T03:51:33.155Z",
+  "generated_at_tr": "6 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "6 Kas",
+        "source": "The Verge",
+        "title": "OpenAI is stepping back from NDAs for data center projects",
+        "desc": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+      },
+      {
+        "date": "6 Kas",
+        "source": "The Verge",
+        "title": "Airbnb is working on an AI travel agent",
+        "desc": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today.\n\"Today's AI agents are good at simple,",
+        "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+      },
       {
         "date": "5 Kas",
         "source": "TechCrunch",
@@ -37,20 +51,6 @@
         "title": "OpenAI released a new cybersecurity model. Is that enough?",
         "desc": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
         "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
-      },
-      {
-        "date": "5 Kas",
-        "source": "The Verge",
-        "title": "Muse has a voice mode now",
-        "desc": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today.\nThe feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article.",
-        "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
-      },
-      {
-        "date": "5 Kas",
-        "source": "TechCrunch",
-        "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-        "desc": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-        "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
       }
     ],
     "kod": [
@@ -91,17 +91,17 @@
       },
       {
         "date": "3 Kas",
-        "source": "Product Hunt",
-        "title": "Hindsight Models and Inference API",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/vectorize"
-      },
-      {
-        "date": "3 Kas",
         "source": "GitHub Blog",
         "title": "Arnis turns any place on Earth into a Minecraft world",
         "desc": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.\nThe post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
         "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/"
+      },
+      {
+        "date": "3 Kas",
+        "source": "Simon Willison",
+        "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+        "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=UytYrhYLOKI\">I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube</a></strong></p>\nGenius piece of OSINT by Colsto, who demonstrates",
+        "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
       }
     ],
     "arac": [
