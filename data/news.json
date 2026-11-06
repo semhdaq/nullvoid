@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-11-06T03:51:33.155Z",
+  "generated_at": "2026-11-06T13:19:25.640Z",
   "generated_at_tr": "6 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "6 Kas",
+        "source": "TechCrunch",
+        "title": "Underdog shows off a 32MB speech model in new demo",
+        "desc": "Despite its small size, Underdog's new model can generate both speech and music.",
+        "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
+      },
+      {
+        "date": "6 Kas",
+        "source": "TechCrunch",
+        "title": "Physicl raises $10M to make the digital world real enough for robots",
+        "desc": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+        "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+      },
+      {
+        "date": "6 Kas",
+        "source": "The Verge",
+        "title": "Protesters break into Microsoft data center site in Amsterdam",
+        "desc": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images\t\n\nProtesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Member",
+        "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
+      },
+      {
+        "date": "6 Kas",
+        "source": "MIT Tech Review",
+        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+        "desc": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-r",
+        "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+      },
+      {
+        "date": "6 Kas",
+        "source": "TechCrunch",
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "desc": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+      },
       {
         "date": "6 Kas",
         "source": "The Verge",
@@ -16,44 +51,16 @@
         "title": "Airbnb is working on an AI travel agent",
         "desc": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today.\n\"Today's AI agents are good at simple,",
         "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
-      },
-      {
-        "date": "5 Kas",
-        "source": "TechCrunch",
-        "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-        "desc": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-        "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
-      },
-      {
-        "date": "5 Kas",
-        "source": "The Verge",
-        "title": "Perplexity launches its own take on AI agents for work",
-        "desc": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
-      },
-      {
-        "date": "5 Kas",
-        "source": "TechCrunch",
-        "title": "Meta says US users can now video chat with their Muse AI avatar",
-        "desc": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-        "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
-      },
-      {
-        "date": "5 Kas",
-        "source": "TechCrunch",
-        "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-        "desc": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-        "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
-      },
-      {
-        "date": "5 Kas",
-        "source": "TechCrunch",
-        "title": "OpenAI released a new cybersecurity model. Is that enough?",
-        "desc": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-        "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
       }
     ],
     "kod": [
+      {
+        "date": "6 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "Welcome to life in the chip age",
+        "desc": "Ryan sits down with Rakesh Kumar, professor of computer engineering at the University of Illinois Urbana-Champaign, about the astounding complexity of manufacturing modern semiconductors, the massive environmental and ge",
+        "url": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/"
+      },
       {
         "date": "5 Kas",
         "source": "GitHub Blog",
@@ -91,68 +98,61 @@
       },
       {
         "date": "3 Kas",
-        "source": "GitHub Blog",
-        "title": "Arnis turns any place on Earth into a Minecraft world",
-        "desc": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.\nThe post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
-        "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/"
-      },
-      {
-        "date": "3 Kas",
-        "source": "Simon Willison",
-        "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-        "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=UytYrhYLOKI\">I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube</a></strong></p>\nGenius piece of OSINT by Colsto, who demonstrates",
-        "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
+        "source": "Product Hunt",
+        "title": "Any Video to Text",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/any-video-to-text"
       }
     ],
     "arac": [
       {
-        "date": "5 Kas",
-        "source": "Simon Willison",
-        "title": "Quoting Paul Ford",
-        "desc": "<blockquote cite=\"https://ftrain.com/aboard-the-web-is-more-than-enough\"><p>The web browser is very, very, very powerful software for applications, <em>and the cost of accessing that power is going down seemingly every d",
-        "url": "https://simonwillison.net/2026/Nov/5/paul-ford/"
+        "date": "6 Kas",
+        "source": "Product Hunt",
+        "title": "Letterpress-1",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/letterpress-1"
       },
       {
-        "date": "5 Kas",
-        "source": "TechCrunch Apps",
-        "title": "TikTok quietly launches a stand-alone TikTok Shop app",
-        "desc": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
-        "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
+        "date": "6 Kas",
+        "source": "Product Hunt",
+        "title": "crystl",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/crystl-multitasking-terminal"
       },
       {
-        "date": "5 Kas",
-        "source": "TechCrunch Apps",
-        "title": "Instagram brings Edits to desktop to take on CapCut",
-        "desc": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
-        "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/"
+        "date": "6 Kas",
+        "source": "Product Hunt",
+        "title": "Cursor Craft",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/cursor-craft"
       },
       {
-        "date": "5 Kas",
-        "source": "TechCrunch Apps",
-        "title": "Amazon ditches Grubhub, taps Uber Eats for Prime",
-        "desc": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
-        "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/"
+        "date": "6 Kas",
+        "source": "Product Hunt",
+        "title": "Kodivo",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/kodivo"
       },
       {
         "date": "5 Kas",
         "source": "Product Hunt",
-        "title": "CC Auto Review",
+        "title": "MacDupl",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cc-auto-review"
+        "url": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app"
       },
       {
         "date": "5 Kas",
         "source": "Product Hunt",
-        "title": "Nemotron 3.5 Transcribe",
+        "title": "refern.",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/nvidia"
+        "url": "https://www.producthunt.com/products/refern"
       },
       {
         "date": "5 Kas",
         "source": "Product Hunt",
-        "title": "TextKit",
+        "title": "AudioCentral",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/textkit-2"
+        "url": "https://www.producthunt.com/products/audiocentral"
       }
     ]
   }
