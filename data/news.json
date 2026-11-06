@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-11-06T13:19:25.640Z",
+  "generated_at": "2026-11-06T22:27:31.642Z",
   "generated_at_tr": "6 Kas 2026",
   "categories": {
     "ai": [
       {
         "date": "6 Kas",
-        "source": "TechCrunch",
-        "title": "Underdog shows off a 32MB speech model in new demo",
-        "desc": "Despite its small size, Underdog's new model can generate both speech and music.",
-        "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
-      },
-      {
-        "date": "6 Kas",
-        "source": "TechCrunch",
-        "title": "Physicl raises $10M to make the digital world real enough for robots",
-        "desc": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-        "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
-      },
-      {
-        "date": "6 Kas",
         "source": "The Verge",
-        "title": "Protesters break into Microsoft data center site in Amsterdam",
-        "desc": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images\t\n\nProtesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Member",
-        "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
-      },
-      {
-        "date": "6 Kas",
-        "source": "MIT Tech Review",
-        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-        "desc": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-r",
-        "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+        "title": "All the latest updates on AI data centers",
+        "desc": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impa",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
       },
       {
         "date": "6 Kas",
         "source": "TechCrunch",
-        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-        "desc": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "desc": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+        "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+      },
+      {
+        "date": "6 Kas",
+        "source": "TechCrunch",
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "desc": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+        "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
       },
       {
         "date": "6 Kas",
         "source": "The Verge",
-        "title": "OpenAI is stepping back from NDAs for data center projects",
-        "desc": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+        "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+        "desc": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, ",
+        "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+      },
+      {
+        "date": "6 Kas",
+        "source": "TechCrunch",
+        "title": "How a Blue Wave midterm might reshape the AI industry",
+        "desc": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im",
+        "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+      },
+      {
+        "date": "6 Kas",
+        "source": "TechCrunch",
+        "title": "After the midterms, is the AI industry in for a rough two years?",
+        "desc": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im",
+        "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
       },
       {
         "date": "6 Kas",
         "source": "The Verge",
-        "title": "Airbnb is working on an AI travel agent",
-        "desc": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today.\n\"Today's AI agents are good at simple,",
-        "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+        "title": "AI is the new dating dealbreaker",
+        "desc": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
       }
     ],
     "kod": [
+      {
+        "date": "6 Kas",
+        "source": "GitHub Blog",
+        "title": "Beyond code generation: A developer’s guide to agentic engineering",
+        "desc": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.\nThe post Beyond code g",
+        "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
+      },
+      {
+        "date": "6 Kas",
+        "source": "Simon Willison",
+        "title": "Quoting Nilay Patel",
+        "desc": "<blockquote cite=\"https://www.youtube.com/watch?v=-U4thshDTL8&amp;t=422s\"><p>The products aren't good enough to sell people on the costs.</p>\n<p>You cannot tell people that you have to listen to the whine of a data cente",
+        "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
+      },
+      {
+        "date": "6 Kas",
+        "source": "The Verge",
+        "title": "How Akai and Moog are embracing vibe-coded mods",
+        "desc": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to",
+        "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai"
+      },
       {
         "date": "6 Kas",
         "source": "Stack Overflow Blog",
@@ -81,30 +102,23 @@
         "title": "Accessibility statements now have a home on GitHub",
         "desc": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.\nThe post Accessibility statement",
         "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/"
-      },
-      {
-        "date": "4 Kas",
-        "source": "MIT Tech Review",
-        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-        "desc": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and",
-        "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
-      },
-      {
-        "date": "4 Kas",
-        "source": "Stack Overflow Blog",
-        "title": "Your .NET parallel loop can become serial in a one-CPU container",
-        "desc": "CPU-based defaults can leave an I/O-heavy loop processing one record at a time. Raising the limit helps, but each downstream service still needs a concurrency budget it can handle.",
-        "url": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/"
-      },
-      {
-        "date": "3 Kas",
-        "source": "Product Hunt",
-        "title": "Any Video to Text",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/any-video-to-text"
       }
     ],
     "arac": [
+      {
+        "date": "6 Kas",
+        "source": "TechCrunch Apps",
+        "title": "The Duo apps are coming, says Apple",
+        "desc": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+        "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/"
+      },
+      {
+        "date": "6 Kas",
+        "source": "TechCrunch",
+        "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+        "desc": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+        "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
+      },
       {
         "date": "6 Kas",
         "source": "Product Hunt",
@@ -136,23 +150,9 @@
       {
         "date": "5 Kas",
         "source": "Product Hunt",
-        "title": "MacDupl",
+        "title": "Cloptima",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app"
-      },
-      {
-        "date": "5 Kas",
-        "source": "Product Hunt",
-        "title": "refern.",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/refern"
-      },
-      {
-        "date": "5 Kas",
-        "source": "Product Hunt",
-        "title": "AudioCentral",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/audiocentral"
+        "url": "https://www.producthunt.com/products/cloptima"
       }
     ]
   }
