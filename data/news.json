@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T03:26:08.323Z",
+  "generated_at": "2026-11-07T11:58:36.457Z",
   "generated_at_tr": "7 Kas 2026",
   "categories": {
     "ai": [
@@ -106,6 +106,13 @@
     ],
     "arac": [
       {
+        "date": "7 Kas",
+        "source": "Product Hunt",
+        "title": "Trace by Context.dev",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/context-dev"
+      },
+      {
         "date": "6 Kas",
         "source": "TechCrunch Apps",
         "title": "The Duo apps are coming, says Apple",
@@ -114,45 +121,38 @@
       },
       {
         "date": "6 Kas",
+        "source": "Product Hunt",
+        "title": "Muse Realtime Avatar",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/meta-ai"
+      },
+      {
+        "date": "6 Kas",
+        "source": "Product Hunt",
+        "title": "The Writer's Quarter",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/the-writer-s-quarter"
+      },
+      {
+        "date": "6 Kas",
+        "source": "Product Hunt",
+        "title": "Sequence Tool",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/sequence-tool"
+      },
+      {
+        "date": "6 Kas",
+        "source": "Product Hunt",
+        "title": "Rex (Beta)",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/superlogical"
+      },
+      {
+        "date": "6 Kas",
         "source": "TechCrunch",
         "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
         "desc": "Amazon said that the feature will roll out to millions of users in coming weeks.",
         "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
-      },
-      {
-        "date": "6 Kas",
-        "source": "Product Hunt",
-        "title": "Letterpress-1",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/letterpress-1"
-      },
-      {
-        "date": "6 Kas",
-        "source": "Product Hunt",
-        "title": "crystl",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/crystl-multitasking-terminal"
-      },
-      {
-        "date": "6 Kas",
-        "source": "Product Hunt",
-        "title": "Cursor Craft",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cursor-craft"
-      },
-      {
-        "date": "6 Kas",
-        "source": "Product Hunt",
-        "title": "Kodivo",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/kodivo"
-      },
-      {
-        "date": "5 Kas",
-        "source": "Product Hunt",
-        "title": "Cloptima",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cloptima"
       }
     ]
   }
