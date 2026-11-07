@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-11-06T22:27:31.642Z",
-  "generated_at_tr": "6 Kas 2026",
+  "generated_at": "2026-11-07T03:26:08.323Z",
+  "generated_at_tr": "7 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "7 Kas",
+        "source": "TechCrunch",
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "desc": "The deal highlights the challenges of developing massive AI data centers.",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+      },
+      {
+        "date": "6 Kas",
+        "source": "The Verge",
+        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+        "desc": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising  $122 bi",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+      },
+      {
+        "date": "6 Kas",
+        "source": "The Verge",
+        "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+        "desc": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about Ameri",
+        "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+      },
+      {
+        "date": "6 Kas",
+        "source": "TechCrunch",
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "desc": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+      },
       {
         "date": "6 Kas",
         "source": "The Verge",
@@ -23,34 +51,6 @@
         "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
         "desc": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
         "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
-      },
-      {
-        "date": "6 Kas",
-        "source": "The Verge",
-        "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-        "desc": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, ",
-        "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
-      },
-      {
-        "date": "6 Kas",
-        "source": "TechCrunch",
-        "title": "How a Blue Wave midterm might reshape the AI industry",
-        "desc": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im",
-        "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
-      },
-      {
-        "date": "6 Kas",
-        "source": "TechCrunch",
-        "title": "After the midterms, is the AI industry in for a rough two years?",
-        "desc": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im",
-        "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
-      },
-      {
-        "date": "6 Kas",
-        "source": "The Verge",
-        "title": "AI is the new dating dealbreaker",
-        "desc": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
       }
     ],
     "kod": [
@@ -109,7 +109,7 @@
         "date": "6 Kas",
         "source": "TechCrunch Apps",
         "title": "The Duo apps are coming, says Apple",
-        "desc": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+        "desc": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
         "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/"
       },
       {
