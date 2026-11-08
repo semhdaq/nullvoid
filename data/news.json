@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-11-08T12:17:40.630Z",
+  "generated_at": "2026-11-08T21:24:31.304Z",
   "generated_at_tr": "8 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "8 Kas",
+        "source": "TechCrunch",
+        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "desc": "In a memo to the company, Huang admitted that he had an affair.",
+        "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+      },
+      {
+        "date": "8 Kas",
+        "source": "The Verge",
+        "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+        "desc": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the c",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+      },
+      {
+        "date": "8 Kas",
+        "source": "The Verge",
+        "title": "Apple is racing to make Siri more agentic",
+        "desc": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has de",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+      },
+      {
+        "date": "8 Kas",
+        "source": "The Verge",
+        "title": "Elvis and Eminem rights holders are suing Suno",
+        "desc": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+      },
       {
         "date": "7 Kas",
         "source": "TechCrunch",
@@ -23,34 +51,6 @@
         "title": "Agent Clan",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/agent-clan"
-      },
-      {
-        "date": "7 Kas",
-        "source": "The Verge",
-        "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-        "desc": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nAround 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that ",
-        "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
-      },
-      {
-        "date": "7 Kas",
-        "source": "The Verge",
-        "title": "The US let Nvidia sell chips to an empty office in China",
-        "desc": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Time",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
-      },
-      {
-        "date": "7 Kas",
-        "source": "The Verge",
-        "title": "AI broke the cybersecurity world. What’s next?",
-        "desc": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.\nThis episode is part one of a special series looking at AI in real",
-        "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
-      },
-      {
-        "date": "7 Kas",
-        "source": "The Verge",
-        "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-        "desc": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images\t\n\nAnthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twi",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
       }
     ],
     "kod": [
@@ -117,7 +117,7 @@
         "source": "Product Hunt",
         "title": "Zigzag Browser",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/zigzag-3"
+        "url": "https://www.producthunt.com/products/zigzag-browser"
       },
       {
         "date": "7 Kas",
