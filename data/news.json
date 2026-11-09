@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T21:24:31.304Z",
-  "generated_at_tr": "8 Kas 2026",
+  "generated_at": "2026-11-09T03:14:30.765Z",
+  "generated_at_tr": "9 Kas 2026",
   "categories": {
     "ai": [
       {
@@ -9,13 +9,6 @@
         "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
         "desc": "In a memo to the company, Huang admitted that he had an affair.",
         "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
-      },
-      {
-        "date": "8 Kas",
-        "source": "The Verge",
-        "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-        "desc": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the c",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
       },
       {
         "date": "8 Kas",
@@ -51,9 +44,23 @@
         "title": "Agent Clan",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/agent-clan"
+      },
+      {
+        "date": "7 Kas",
+        "source": "The Verge",
+        "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+        "desc": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nAround 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that ",
+        "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
       }
     ],
     "kod": [
+      {
+        "date": "8 Kas",
+        "source": "Simon Willison",
+        "title": "parse_number() as a SQLite extension: C vs Rust",
+        "desc": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-parse-number-c-vs-rust#readme\">parse_number() as a SQLite extension: C vs Rust</a></p>\n        <p>I was out walking the dog when ",
+        "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
+      },
       {
         "date": "7 Kas",
         "source": "Simon Willison",
@@ -95,16 +102,16 @@
         "title": "Don’t Build the Reusable Component Yet",
         "desc": "",
         "url": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/"
-      },
-      {
-        "date": "5 Kas",
-        "source": "GitHub Blog",
-        "title": "Accessibility statements now have a home on GitHub",
-        "desc": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.\nThe post Accessibility statement",
-        "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/"
       }
     ],
     "arac": [
+      {
+        "date": "8 Kas",
+        "source": "TechCrunch Apps",
+        "title": "Apps to distract you from the endless cycle of doomscrolling",
+        "desc": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+        "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"
+      },
       {
         "date": "7 Kas",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "The Writer's Quarter",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/the-writer-s-quarter"
-      },
-      {
-        "date": "6 Kas",
-        "source": "Product Hunt",
-        "title": "Sequence Tool",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/sequence-tool"
       }
     ]
   }
