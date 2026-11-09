@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="tr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>NullVoid – AI, kodlama ve araç haberleri</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700;800&family=Figtree:wght@400;500;600&family=Caveat:wght@600&display=swap" rel="stylesheet">
+<style>
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+--bg:#0b0c1a;--bg2:#141632;--card:#171a3a;--tx:#eef0ff;--mut:#9ca0c8;--line:#292d5a;--ai:#8f7dff;--code:#34e6a0;--tool:#ff9d4a;--acc:#8f7dff;--ink:#0b0c1a;color-scheme:dark}
+:root[data-theme=light]{--bg:#f6f5ff;--bg2:#ffffff;--card:#ffffff;--tx:#17183a;--mut:#585d8a;--line:#d9dbf2;--ai:#6a55f0;--code:#0c9e68;--tool:#d9731a;--ink:#ffffff;color-scheme:light}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.55 Figtree,system-ui,sans-serif;min-height:100vh;
+background-image:radial-gradient(60rem 28rem at 15% -8%,color-mix(in srgb,var(--acc) 22%,transparent),transparent),radial-gradient(40rem 24rem at 100% 8%,color-mix(in srgb,var(--tool) 10%,transparent),transparent);transition:background-image .4s}
+body[data-cat=ai]{--acc:var(--ai)}body[data-cat=code]{--acc:var(--code)}body[data-cat=tool]{--acc:var(--tool)}
+button,input,select,textarea{font:inherit;color:inherit}
+button{cursor:pointer}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+h1,h2,h3,.brand b{font-family:"Bricolage Grotesque",Figtree,sans-serif;letter-spacing:-.01em}
+.wrap{max-width:1120px;margin:0 auto;padding:0 18px}
+.top{display:flex;align-items:center;gap:14px;padding:14px 0;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:10px;margin-right:auto}
+.brand b{font-size:1.35rem}
+.nav{display:flex;gap:4px;background:var(--bg2);border:1px solid var(--line);border-radius:999px;padding:4px}
+.nav button,.sub button{border:0;background:none;padding:7px 16px;border-radius:999px;color:var(--mut)}
+.nav button.on,.sub button.on{background:var(--acc);color:var(--ink);font-weight:600}
+.sq{border:1px solid var(--line);background:var(--bg2);border-radius:10px;padding:7px 12px}
+.badge{background:color-mix(in srgb,var(--tool) 16%,transparent);color:var(--tool);border-radius:8px;padding:6px 12px;font-size:.85rem;margin-bottom:14px}
+.hero h1{font-size:clamp(1.8rem,5vw,3rem);line-height:1.1;margin:14px 0 6px;max-width:16em}
+.hero p{color:var(--mut);margin:0 0 18px;max-width:42em}
+.search{position:relative}
+.search input{width:100%;padding:16px 90px 16px 48px;font-size:1.05rem;background:var(--bg2);border:2px solid var(--line);border-radius:16px;transition:border-color .2s,box-shadow .2s}
+.search input:focus{outline:0;border-color:var(--acc);box-shadow:0 0 0 5px color-mix(in srgb,var(--acc) 22%,transparent)}
+.search svg{position:absolute;left:16px;top:50%;translate:0 -50%;color:var(--mut)}
+.search kbd{position:absolute;right:14px;top:50%;translate:0 -50%;border:1px solid var(--line);border-radius:6px;padding:1px 8px;color:var(--mut);font-size:.8rem}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:12px 0}
+.chip{border:1px solid var(--line);background:var(--bg2);border-radius:999px;padding:6px 14px;color:var(--mut);transition:.15s}
+.chip:hover{color:var(--tx)}
+.chip.on{color:var(--ink);background:var(--c,var(--acc));border-color:transparent;font-weight:600}
+.chip small{opacity:.7;margin-left:4px}
+.tg{border:0;background:none;color:var(--mut);padding:0 6px 0 0;font-size:.85rem}
+.tg:hover,.tg.on{color:var(--acc)}
+select.sq{padding:6px 10px}
+.count{color:var(--mut);font-size:.9rem;margin-left:auto}
+.grid2{display:grid;grid-template-columns:2fr 1fr;gap:16px;margin:18px 0}
+@media(max-width:820px){.grid2{grid-template-columns:1fr}}
+.feat{position:relative;overflow:hidden;border-radius:20px;padding:26px;min-height:250px;display:flex;flex-direction:column;justify-content:flex-end;gap:8px;border:1px solid var(--line);
+background:linear-gradient(160deg,color-mix(in srgb,var(--c) 40%,var(--bg2)),var(--bg2) 70%)}
+.feat::before{content:"";position:absolute;right:-60px;top:-60px;width:220px;height:220px;border-radius:50%;border:30px solid color-mix(in srgb,var(--c) 35%,transparent)}
+.feat h2{font-size:clamp(1.4rem,3.4vw,2.1rem);line-height:1.15;margin:0;max-width:20em;position:relative}
+.feat p{margin:0;color:var(--mut);max-width:38em;position:relative}
+.brief{background:var(--bg2);border:1px solid var(--line);border-radius:20px;padding:20px}
+.brief h2{font-size:1.15rem;margin:0 0 2px}
+.brief time{color:var(--mut);font-size:.85rem}
+.brief ul{padding-left:18px;margin:12px 0}
+.brief li{margin-bottom:6px}
+.grp{font-size:1.1rem;margin:26px 0 10px;display:flex;align-items:center;gap:10px}
+.grp::after{content:"";flex:1;height:1px;background:var(--line)}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--c);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:8px;transition:transform .15s,border-color .15s}
+.card:hover{transform:translateY(-2px);border-color:var(--c)}
+.card.isread{opacity:.6}
+.card h3{font-size:1.08rem;line-height:1.25;margin:0}
+.card p{margin:0;color:var(--mut);font-size:.93rem}
+.meta{display:flex;justify-content:space-between;font-size:.82rem;color:var(--mut)}
+.cl{color:var(--c);font-weight:600}
+.foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto}
+.ic{border:1px solid var(--line);background:none;border-radius:8px;width:34px;height:34px;color:var(--mut);margin-left:4px}
+.ic.on{background:var(--c);color:var(--ink);border-color:transparent}
+.empty{text-align:center;padding:50px 10px;color:var(--mut);border:1px dashed var(--line);border-radius:16px;margin-top:20px}
+.panel{background:var(--bg2);border:1px solid var(--line);border-radius:18px;padding:18px;margin:14px 0}
+.sub{display:flex;gap:4px;margin:14px 0}
+textarea{width:100%;min-height:170px;background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:12px;font:14px/1.5 ui-monospace,Menlo,Consolas,monospace;resize:vertical}
+.out{background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:12px;min-height:90px;max-height:260px;overflow:auto;font:14px/1.5 ui-monospace,Menlo,Consolas,monospace;white-space:pre-wrap;margin-top:10px}
+.err{color:#ff6b7a}
+.btn{background:var(--acc);color:var(--ink);border:0;border-radius:10px;padding:8px 18px;font-weight:600}
+.btn.g{background:none;color:var(--tx);border:1px solid var(--line)}
+.term{display:flex;gap:8px;margin-top:8px}
+.term input{flex:1;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:9px 12px;font:14px ui-monospace,Menlo,Consolas,monospace}
+.bars{display:flex;align-items:flex-end;gap:3px;height:220px;margin:14px 0;overflow-x:auto}
+.bars i{flex:1;min-width:6px;background:var(--line);border-radius:4px 4px 0 0;transition:height .1s}
+.bars i.a{background:var(--tool)}.bars i.d{background:var(--code)}.bars i.t{background:var(--ai)}
+.card{border-radius:14px 18px 14px 20px}
+.cards .card:nth-child(odd){rotate:-.35deg}.cards .card:nth-child(even){rotate:.3deg}.cards .card:hover{rotate:0deg}
+.ph{aspect-ratio:16/9;position:relative;margin:-4px 0 4px;border-radius:10px 14px 8px 12px;overflow:hidden;background:var(--line)}
+.ph .art{width:100%;height:100%;display:block;transition:transform .5s}
+.card:hover .art{transform:scale(1.09) rotate(.7deg)}
+.pic{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;transition:transform .6s cubic-bezier(.2,.7,.2,1)}
+.card:hover .pic{transform:scale(1.05)}
+.slider{position:relative;border-radius:22px 18px 24px 16px;overflow:hidden;border:1px solid var(--line)}
+.track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none}
+.track::-webkit-scrollbar{display:none}
+.slide{position:relative;flex:0 0 100%;scroll-snap-align:start;min-height:280px;display:flex;color:#f3f4ff;overflow:hidden}
+.slide::before{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(to top,rgba(8,9,24,.9),rgba(8,9,24,.12) 78%)}
+.slide::after{content:"";position:absolute;top:-6px;right:34px;width:78px;height:24px;z-index:2;background:rgba(255,255,255,.28);rotate:4deg}
+.slide .art{position:absolute;inset:0;width:100%;height:100%}
+.sc{position:relative;z-index:2;margin-top:auto;padding:22px 24px 40px;display:flex;flex-direction:column;gap:8px}
+.sc h2{font-size:clamp(1.35rem,3.2vw,2rem);line-height:1.15;margin:0;max-width:20em}
+.sc p{margin:0;max-width:38em;color:rgba(243,244,255,.82)}
+.sc .foot{margin-top:6px}.sc .ic{color:#f3f4ff;border-color:rgba(255,255,255,.35)}.sc .ic.on{color:var(--ink)}
+.stk{align-self:flex-start;font-family:Caveat,cursive;font-size:1.3rem;line-height:1.4;background:var(--c);color:var(--ink);padding:0 12px;border-radius:4px;rotate:-2.5deg;box-shadow:2px 3px 0 rgba(0,0,0,.35)}
+.dots{position:absolute;left:24px;bottom:14px;z-index:3;display:flex;gap:6px}
+.dots button{width:22px;height:5px;border-radius:3px;border:0;padding:0;background:rgba(255,255,255,.35);transition:width .3s,background .3s}
+.dots button.on{width:40px;background:#fff}
+.grp{font-family:Caveat,cursive;font-size:1.75rem;font-weight:600}
+.pop{animation:pop .45s}
+@keyframes pop{40%{transform:scale(1.4) rotate(-14deg)}}
+.brand circle{transform-box:fill-box;transform-origin:center;animation:spin 20s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+footer{color:var(--mut);font-size:.85rem;padding:30px 0 40px}
+[hidden]{display:none!important}
+</style></head><body data-cat="all">
+<div class="wrap">
+<header class="top">
+ <div class="brand"><svg width="34" height="34" viewBox="0 0 34 34" aria-hidden="true"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8f7dff"/><stop offset="1" stop-color="#34e6a0"/></linearGradient></defs><circle cx="17" cy="17" r="15" fill="none" stroke="url(#g)" stroke-width="2.5"/><text x="17" y="22" text-anchor="middle" font-size="13" font-weight="800" fill="url(#g)" font-family="sans-serif">NV</text></svg><b>NullVoid</b></div>
+ <nav class="nav"><button class="on" data-v="news" data-i="news"></button><button data-v="dev" data-i="dev"></button></nav>
+ <button class="sq" id="lang" aria-label="Language">TR / EN</button>
+ <button class="sq" id="theme" aria-label="Theme">◐</button>
+</header>
+<div class="badge" data-i="sample"></div>
+
+<section id="news">
+ <div class="hero"><h1 data-i="h1"></h1><p data-i="h1p"></p></div>
+ <div class="search"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" autocomplete="off" data-ip="ph"><kbd>/</kbd></div>
+ <div class="row" id="cats"></div>
+ <div class="row" id="stat"></div>
+ <div class="row" id="tagbar"></div>
+ <div class="row"><select class="sq" id="sort"><option value="n" data-i="sn"></option><option value="o" data-i="so"></option></select><button class="chip" id="clr" data-i="clear"></button><span class="count" id="cnt"></span></div>
+ <div class="grid2" id="top"><div id="feat"></div><aside class="brief" id="brief"></aside></div>
+ <div id="list"></div>
+</section>
+
+<section id="dev" hidden>
+ <div class="sub"><button class="on" data-p="js">JavaScript</button><button data-p="term" data-i="term"></button><button data-p="viz" data-i="viz"></button></div>
+ <div class="panel" id="p-js"><textarea id="code" spellcheck="false">const sayilar = [5, 3, 8, 1];
+console.log("Sıralı:", [...sayilar].sort((a, b) => a - b));
+console.log({ toplam: sayilar.reduce((a, b) => a + b, 0) });</textarea>
+ <div class="row"><button class="btn" id="run" data-i="run"></button><button class="btn g" id="cl" data-i="clearo"></button><span class="count" data-i="sbx"></span></div><div class="out" id="jsout"></div></div>
+ <div class="panel" id="p-term" hidden><div class="out" id="tout" style="min-height:220px"></div><div class="term"><input id="tin" placeholder="help" autocomplete="off" aria-label="Terminal"><button class="btn" id="tgo">↵</button></div></div>
+ <div class="panel" id="p-viz" hidden>
+  <div class="row"><select class="sq" id="alg"><option value="bubble">Bubble sort</option><option value="selection">Selection sort</option><option value="insertion">Insertion sort</option><option value="merge">Merge sort</option><option value="binary">Binary search</option></select>
+  <button class="btn" id="play">▶</button><button class="btn g" id="stp" data-i="step"></button><button class="btn g" id="rst" data-i="reset"></button>
+  <label class="count"><span data-i="speed"></span> <input type="range" id="spd" min="1" max="10" value="6"></label></div>
+  <div class="bars" id="bars"></div><div id="vinfo" style="color:var(--mut)"></div></div>
+</section>
+<footer>© 2026 semhdaq · NullVoid</footer>
+</div>
+<script>
+const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
+const st={get(k,d){try{const v=localStorage.getItem(k);return v===null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const I={tr:{news:"Haberler",dev:"Geliştirici araçları",sample:"Önizleme: haberler örnek veridir, canlı sitede kendi kaynaklarınızdan gelir.",h1:"Bugün teknolojide ne oldu? Gel, birlikte bakalım.",h1p:"Yaz, ara, etiketle daralt. Beğendiğini kaydet, okuduğunu işaretle.",ph:"Başlık, içerik veya etiket ara…",all:"Tümü",c_ai:"Yapay zekâ",c_code:"Kodlama",c_tool:"Araçlar",s_all:"Hepsi",s_saved:"Kaydedilenler",s_read:"Okunanlar",s_unread:"Okunmamış",sn:"En yeni",so:"En eski",clear:"Filtreleri temizle",res:"sonuç",none:"Sonuç bulunamadı. Başka bir kelime deneyin ya da filtreleri temizleyin.",feat:"Günün haberi",brief:"Günlük özet",trend:"Gündemdeki etiketler",g0:"Bugün",g1:"Dün",g2:"Bu hafta",g3:"Daha eski",term:"Terminal",viz:"Algoritma görselleştirici",run:"Çalıştır",clearo:"Çıktıyı temizle",sbx:"İzole alanda çalışır",step:"Adım",reset:"Sıfırla",speed:"Hız",bk:"Kaydet",rd:"Okundu"},
+en:{news:"News",dev:"Developer tools",sample:"Preview: stories are sample data; the live site uses your own sources.",h1:"What happened in tech today? Come, have a look.",h1p:"Type, search, narrow by tag. Save what you like, tick what you’ve read.",ph:"Search titles, content or tags…",all:"All",c_ai:"AI",c_code:"Coding",c_tool:"Tools",s_all:"Everything",s_saved:"Saved",s_read:"Read",s_unread:"Unread",sn:"Newest",so:"Oldest",clear:"Clear filters",res:"results",none:"No results. Try another word or clear the filters.",feat:"Story of the day",brief:"Daily briefing",trend:"Trending tags",g0:"Today",g1:"Yesterday",g2:"This week",g3:"Earlier",term:"Terminal",viz:"Algorithm visualizer",run:"Run",clearo:"Clear output",sbx:"Runs in an isolated sandbox",step:"Step",reset:"Reset",speed:"Speed",bk:"Save",rd:"Read"}};
+/* Görsel için habere i:"https://.../gorsel.jpg" ekleyin (isteğe bağlı p:"50% 20%" odak noktası). Yüklenemezse çizili görsel görünür. */
+const D=[
+{id:1,c:"ai",f:1,d:0,g:["LLM","Agent"],t:["Çok modlu model ailesi geliştiricilere açıldı","A multimodal model family opens to developers"],s:["Metin, görsel ve ses tek API’de; ilk testler uzun belgelerde güçlü sonuç veriyor.","Text, images and audio in one API; early tests show strong results on long documents."]},
+{id:2,c:"ai",d:0,g:["Agent","DevOps"],t:["Ajan tabanlı iş akışları şirketlere yayılıyor","Agent-based workflows spread across companies"],s:["Ekipler tekrarlayan işleri ajanlara devrediyor, onay adımları öne çıkıyor.","Teams hand repetitive work to agents, with approval steps coming to the front."]},
+{id:3,c:"code",d:0,g:["C++"],t:["std::vector büyüme stratejisi nasıl çalışır?","How does std::vector growth really work?"],s:["Kapasite artışı, yeniden tahsis ve reserve ile gereksiz kopyaları önleme.","Capacity growth, reallocation, and avoiding needless copies with reserve."]},
+{id:4,c:"tool",d:1,g:["DevOps"],t:["CI önbelleği ile derleme süresini yarıya indirme","Halving build times with CI caching"],s:["Bağımlılık ve derleme çıktısı önbelleğinin doğru anahtarlanması.","Keying dependency and build-output caches correctly."]},
+{id:5,c:"code",d:1,g:["Rust","C++","Security"],t:["Bellek güvenliği tartışması: Rust ve C++","The memory-safety debate: Rust and C++"],s:["Hangi projelerde geçişin mantıklı olduğuna dair pratik bir bakış.","A practical look at where migrating actually makes sense."]},
+{id:6,c:"ai",d:2,g:["LLM"],t:["Küçük cihaz içi modeller yükseliyor","Small on-device models are rising"],s:["Gizlilik ve gecikme avantajı, telefonlarda yeni kullanım alanları açıyor.","Privacy and latency wins open new use cases on phones."]},
+{id:7,c:"tool",d:3,g:["Web"],t:["Tarayıcı geliştirici araçlarında yeni performans paneli","A new performance panel in browser devtools"],s:["Etkileşim gecikmesini bulmak için daha okunur zaman çizelgesi.","A more readable timeline for tracking down interaction delays."]},
+{id:8,c:"code",d:4,g:["WASM","Web"],t:["WebAssembly tarayıcının dışına taşınıyor","WebAssembly moves beyond the browser"],s:["Sunucu ve uç cihazlarda taşınabilir, izole çalışma zamanları.","Portable, sandboxed runtimes on servers and edge devices."]},
+{id:9,c:"tool",d:6,g:["Security","DevOps"],t:["Paket yöneticilerinde kilit dosyası güvenliği","Lockfile security in package managers"],s:["Bağımlılık saldırılarına karşı sürüm sabitleme ve doğrulama.","Pinning and verification against dependency attacks."]},
+{id:10,c:"ai",d:9,g:["LLM","Security"],t:["Yapay zekâ değerlendirme ölçütleri neden yanıltabilir?","Why AI benchmarks can mislead"],s:["Veri sızıntısı ve aşırı uyum, skorların anlamını zayıflatıyor.","Leakage and overfitting weaken what scores mean."]},
+{id:11,c:"code",d:12,g:["Web"],t:["TypeScript derleyicisinde hız iyileştirmeleri","Speed-ups in the TypeScript compiler"],s:["Büyük depolarda tür denetimi süresinde belirgin düşüş.","Noticeably faster type checking in large repositories."]},
+{id:12,c:"tool",d:15,g:["DevOps"],t:["Terminal tabanlı editörler geri dönüyor","Terminal-based editors are back"],s:["Hafif, hızlı ve uzak makinelerde rahat; yeni eklenti ekosistemleri.","Light, fast and comfortable on remote machines; new plugin ecosystems."]}];
+let LN=st.get("nv_l","tr"),S=new Set(st.get("nv_s",[])),R=new Set(st.get("nv_r",[])),cat="all",sf="all",tags=new Set();
+const T=k=>I[LN][k],li=()=>LN==="tr"?0:1;
+const fd=d=>new Date(Date.now()-d*864e5).toLocaleDateString(LN==="tr"?"tr-TR":"en-GB",{day:"numeric",month:"long"});
+const cats=["all","ai","code","tool"];
+function i18n(){document.documentElement.lang=LN;$$("[data-i]").forEach(e=>e.textContent=T(e.dataset.i));$$("[data-ip]").forEach(e=>e.placeholder=T(e.dataset.ip));$("#play").textContent=playing?"❚❚":"▶"}
+function filt(){const q=$("#q").value.trim().toLowerCase(),a=$("#sort").value==="o";
+return D.filter(x=>(cat==="all"||x.c===cat)&&[...tags].every(t=>x.g.includes(t))&&(sf==="all"||(sf==="saved"&&S.has(x.id))||(sf==="read"&&R.has(x.id))||(sf==="unread"&&!R.has(x.id)))&&(!q||(x.t.join(" ")+x.s.join(" ")+x.g.join(" ")).toLowerCase().includes(q))).sort((p,r)=>a?r.d-p.d:p.d-r.d)}
+const pic=x=>x.i?`<img class="pic" src="${x.i}" alt="" loading="lazy" decoding="async"${x.p?` style="object-position:${x.p}"`:""}>`:"";
+const rnd=s=>()=>(s=s*16807%2147483647)/2147483647;
+function art(x){const r=rnd(x.id*977+31),f=`style="fill:var(--${x.c})`,s=`style="stroke:var(--${x.c})`;
+let o=`<svg class="art" viewBox="0 0 320 150" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="320" height="150" style="fill:color-mix(in srgb,var(--${x.c}) 24%,var(--bg2))"/>`;
+for(let i=0;i<3;i++)o+=`<circle cx="${r()*320|0}" cy="${r()*150|0}" r="${25+r()*45|0}" ${f};opacity:.${15+i*5}"/>`;
+if(x.c==="ai"){const p=Array.from({length:6},()=>[60+r()*200|0,25+r()*100|0]);p.forEach((a,i)=>{const b=p[(i+2)%6];o+=`<line x1="${a[0]}" y1="${a[1]}" x2="${b[0]}" y2="${b[1]}" ${s};stroke-width:2;opacity:.7"/>`});p.forEach(a=>o+=`<circle cx="${a[0]}" cy="${a[1]}" r="6" ${f}"/>`)}
+else if(x.c==="code")o+=`<text x="160" y="95" text-anchor="middle" font-size="64" font-weight="800" font-family="Bricolage Grotesque,sans-serif" transform="rotate(${-6+r()*4|0} 160 80)" ${f}">${["{ }","&lt;/&gt;","[ ]","=&gt;"][x.id%4]}</text>`;
+else{const cx=130+r()*60|0;o+=`<circle cx="${cx}" cy="75" r="34" fill="none" ${s};stroke-width:14;stroke-dasharray:9 8"/><circle cx="${cx}" cy="75" r="13" ${f}"/>`}
+return o+"</svg>"}
+const card=x=>`<article class="card ${R.has(x.id)?"isread":""}" style="--c:var(--${x.c})"><div class="ph">${art(x)}${pic(x)}</div><div class="meta"><span class="cl">${T("c_"+x.c)}</span><time>${fd(x.d)}</time></div><h3>${x.t[li()]}</h3><p>${x.s[li()]}</p><div class="foot"><span>${x.g.map(g=>`<button class="tg" data-tag="${g}">#${g}</button>`).join("")}</span><span><button class="ic ${S.has(x.id)?"on":""}${pop==="nv_s"+x.id?" pop":""}" data-b="${x.id}" title="${T("bk")}" aria-pressed="${S.has(x.id)}">★</button><button class="ic ${R.has(x.id)?"on":""}" data-r="${x.id}" title="${T("rd")}" aria-pressed="${R.has(x.id)}">✓</button></span></div></article>`;
+function render(){
+ document.body.dataset.cat=cat;
+ $("#cats").innerHTML=cats.map(c=>`<button class="chip ${cat===c?"on":""}" ${c!=="all"?`style="--c:var(--${c})"`:""} data-cat="${c}">${T(c==="all"?"all":"c_"+c)}<small>${c==="all"?D.length:D.filter(x=>x.c===c).length}</small></button>`).join("");
+ $("#stat").innerHTML=["all","saved","read","unread"].map(s=>`<button class="chip ${sf===s?"on":""}" data-sf="${s}">${T("s_"+s)}${s==="saved"?`<small>${S.size}</small>`:s==="read"?`<small>${R.size}</small>`:""}</button>`).join("");
+ const all=[...new Set(D.flatMap(x=>x.g))].sort();
+ $("#tagbar").innerHTML=all.map(g=>`<button class="chip ${tags.has(g)?"on":""}" data-tag="${g}">#${g}</button>`).join("");
+ const r=filt(),q=$("#q").value.trim(),pure=!q&&!tags.size&&sf==="all"&&$("#sort").value==="n",sl=pure?r.slice(0,4):[];
+ $("#cnt").textContent=r.length+" "+T("res");
+ $("#top").hidden=!pure;
+ $("#feat").innerHTML=sl.length?`<div class="slider"><div class="track" id="trk">${sl.map((x,i)=>`<article class="slide" style="--c:var(--${x.c})">${art(x)}${pic(x)}<div class="sc"><span class="stk">${i?T("c_"+x.c):T("feat")}</span><h2>${x.t[li()]}</h2><p>${x.s[li()]}</p><div class="foot"><time>${fd(x.d)}</time><span><button class="ic ${S.has(x.id)?"on":""}" data-b="${x.id}" title="${T("bk")}">★</button><button class="ic ${R.has(x.id)?"on":""}" data-r="${x.id}" title="${T("rd")}">✓</button></span></div></div></article>`).join("")}</div><div class="dots">${sl.map((_,i)=>`<button data-s="${i}" class="${i?"":"on"}" aria-label="${i+1}"></button>`).join("")}</div></div>`:"";
+ const cnt={};D.forEach(x=>x.g.forEach(g=>cnt[g]=(cnt[g]||0)+1));
+ const top=Object.entries(cnt).sort((a,b)=>b[1]-a[1]).slice(0,6).map(e=>e[0]);
+ $("#brief").innerHTML=`<h2>${T("brief")}</h2><time>${new Date().toLocaleDateString(LN==="tr"?"tr-TR":"en-GB",{weekday:"long",day:"numeric",month:"long",year:"numeric"})}</time><ul>${D.filter(x=>x.d===0).slice(0,3).map(x=>`<li>${x.t[li()]}</li>`).join("")}</ul><b>${T("trend")}</b><div>${top.map(g=>`<button class="tg" data-tag="${g}">#${g}</button>`).join("")}</div>`;
+ const list=r.filter(x=>!sl.includes(x));
+ if(!r.length){$("#list").innerHTML=`<div class="empty">${T("none")}</div>`;return}
+ const gk=d=>d===0?0:d===1?1:d<7?2:3;let h="";
+ [0,1,2,3].forEach(k=>{const g=list.filter(x=>gk(x.d)===k);if(g.length)h+=`<h2 class="grp">${T("g"+k)}</h2><div class="cards">${g.map(card).join("")}</div>`});
+ $("#list").innerHTML=h;
+}
+let pop="",paused=false;const tog=(set,id,key)=>{set.has(id)?set.delete(id):set.add(id);st.set(key,[...set]);pop=key+id;render();pop=""};
+document.addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;const d=b.dataset;
+ if(d.cat){cat=d.cat;render()}else if(d.sf){sf=d.sf;render()}else if(d.tag){tags.has(d.tag)?tags.delete(d.tag):tags.add(d.tag);render();$("#news").scrollIntoView({behavior:"smooth"})}
+ else if(d.s!==undefined){const t=$("#trk");t.scrollTo({left:t.clientWidth*d.s,behavior:"smooth"})}else if(d.b)tog(S,+d.b,"nv_s");else if(d.r)tog(R,+d.r,"nv_r");
+ else if(d.v){$$(".nav button").forEach(x=>x.classList.toggle("on",x===b));$("#news").hidden=d.v!=="news";$("#dev").hidden=d.v!=="dev"}
+ else if(d.p){$$(".sub button").forEach(x=>x.classList.toggle("on",x===b));["js","term","viz"].forEach(p=>$("#p-"+p).hidden=p!==d.p)}});
+$("#q").addEventListener("input",render);$("#sort").addEventListener("change",render);
+$("#clr").onclick=()=>{$("#q").value="";cat="all";sf="all";tags.clear();$("#sort").value="n";render()};
+document.addEventListener("keydown",e=>{if(e.key==="/"&&!/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)){e.preventDefault();$("#news").hidden&&$("[data-v=news]").click();$("#q").focus()}});
+$("#lang").onclick=()=>{LN=LN==="tr"?"en":"tr";st.set("nv_l",LN);i18n();render()};
+$("#theme").onclick=()=>{const l=document.documentElement.dataset.theme!=="light";document.documentElement.dataset.theme=l?"light":"dark";st.set("nv_t",l?"light":"dark")};
+document.documentElement.dataset.theme=st.get("nv_t","dark");
+/* JS playground */
+const jo=$("#jsout");let fr=null;
+const jl=(m,c)=>{const s=document.createElement("div");if(c)s.className=c;s.textContent=m;jo.appendChild(s)};
+$("#run").onclick=()=>{jo.textContent="";if(fr)fr.remove();fr=document.createElement("iframe");fr.hidden=true;fr.setAttribute("sandbox","allow-scripts");
+ const code=$("#code").value.replace(/<\/script/gi,"<\\/script");
+ fr.srcdoc=`<script>const f=a=>a.map(x=>{try{return typeof x==="object"?JSON.stringify(x):String(x)}catch(e){return String(x)}}).join(" "),p=(t,a)=>parent.postMessage({nv:1,t,m:f(a)},"*");console.log=(...a)=>p("l",a);console.error=(...a)=>p("e",a);window.onerror=m=>p("e",[m]);try{${code}\n}catch(e){p("e",[e.name+": "+e.message])}<\/script>`;document.body.appendChild(fr)};
+$("#cl").onclick=()=>jo.textContent="";
+addEventListener("message",e=>{if(fr&&e.source===fr.contentWindow&&e.data&&e.data.nv)jl(e.data.m,e.data.t==="e"?"err":"")});
+/* Terminal (simulated, no real system access) */
+const to=$("#tout"),cmds={help:()=>"help, about, projects, cat blog.txt, date, theme, clear",about:()=>"NullVoid: AI, coding and tools news + a small dev playground.",projects:()=>"1) NullVoid news dashboard\n2) Algorithm visualizer\n3) JS playground",
+"cat blog.txt":()=>"Blog: coming soon. Posts live in /posts as Markdown.",date:()=>new Date().toString(),theme:()=>($("#theme").click(),"theme toggled")};
+const tl=t=>{to.textContent+=t+"\n";to.scrollTop=1e9};tl("NullVoid terminal (simulated). Type help.");
+const tr=()=>{const v=$("#tin").value.trim();$("#tin").value="";if(!v)return;tl("$ "+v);if(v==="clear"){to.textContent="";return}tl(cmds[v]?cmds[v]():"command not found: "+v.slice(0,40))};
+$("#tgo").onclick=tr;$("#tin").addEventListener("keydown",e=>{if(e.key==="Enter")tr()});
+/* Visualizer */
+function*bubble(a){for(let i=0;i<a.length;i++)for(let j=0;j<a.length-i-1;j++){yield[j,j+1];if(a[j]>a[j+1]){[a[j],a[j+1]]=[a[j+1],a[j]];yield[j,j+1]}}}
+function*selection(a){for(let i=0;i<a.length;i++){let m=i;for(let j=i+1;j<a.length;j++){yield[m,j];if(a[j]<a[m])m=j}[a[i],a[m]]=[a[m],a[i]];yield[i,m]}}
+function*insertion(a){for(let i=1;i<a.length;i++){let j=i;while(j>0&&a[j-1]>a[j]){[a[j],a[j-1]]=[a[j-1],a[j]];yield[j,j-1];j--}yield[j]}}
+function*merge(a,l=0,r=a.length-1){if(l>=r)return;const m=(l+r)>>1;yield*merge(a,l,m);yield*merge(a,m+1,r);const L=a.slice(l,m+1),R2=a.slice(m+1,r+1);let i=0,j=0,k=l;while(i<L.length||j<R2.length){a[k]=(j>=R2.length||(i<L.length&&L[i]<=R2[j]))?L[i++]:R2[j++];yield[k];k++}}
+function*binary(a,t){let lo=0,hi=a.length-1;while(lo<=hi){const m=(lo+hi)>>1;yield[lo,m,hi];if(a[m]===t){yield{found:m};return}a[m]<t?lo=m+1:hi=m-1}}
+const info={bubble:"Bubble sort: O(n²) · best O(n)",selection:"Selection sort: O(n²)",insertion:"Insertion sort: O(n²) · best O(n)",merge:"Merge sort: O(n log n)",binary:"Binary search: O(log n), sorted input"};
+let base=[],arr=[],gen=null,timer=null,playing=false,tgt=0,steps=0;
+const algs={bubble,selection,insertion,merge,binary};
+function draw(act=[],done=false){$("#bars").innerHTML=arr.map((v,i)=>`<i style="height:${v}%" class="${done?"d":act.includes(i)?"a":""}"></i>`).join("");$("#vinfo").textContent=info[$("#alg").value]+" · "+steps+" steps"+($("#alg").value==="binary"?" · target "+tgt:"")}
+function reset(newData){stop();steps=0;const a=$("#alg").value;if(newData||!base.length){base=Array.from({length:26},()=>10+Math.floor(Math.random()*90));}
+ arr=[...base];if(a==="binary"){arr.sort((x,y)=>x-y);tgt=arr[Math.floor(Math.random()*arr.length)]}gen=a==="binary"?binary(arr,tgt):algs[a](arr);draw()}
+function step(){if(!gen)return false;const r=gen.next();if(r.done){draw([],true);stop();gen=null;return false}steps++;const v=r.value;if(v.found!==undefined){arr.forEach((_,i)=>0);draw([v.found]);$("#bars").children[v.found].className="d";stop();gen=null;return false}draw(v);return true}
+function stop(){clearInterval(timer);playing=false;$("#play").textContent="▶"}
+$("#play").onclick=()=>{if(playing){stop();return}if(!gen)reset();playing=true;$("#play").textContent="❚❚";timer=setInterval(()=>{if(!step())stop()},520-$("#spd").value*48)};
+$("#spd").oninput=()=>{if(playing){clearInterval(timer);timer=setInterval(()=>{if(!step())stop()},520-$("#spd").value*48)}};
+$("#stp").onclick=()=>{stop();if(!gen)reset();step()};$("#rst").onclick=()=>reset(true);$("#alg").onchange=()=>reset(true);
+document.addEventListener("scroll",e=>{if(e.target.id!=="trk")return;const t=e.target,i=Math.round(t.scrollLeft/t.clientWidth);$$(".dots button").forEach((b,k)=>b.classList.toggle("on",k===i))},true);
+["mouseenter","focusin"].forEach(v=>$("#top").addEventListener(v,()=>paused=true));["mouseleave","focusout"].forEach(v=>$("#top").addEventListener(v,()=>paused=false));
+setInterval(()=>{const t=$("#trk");if(!t||paused||$("#news").hidden||matchMedia("(prefers-reduced-motion:reduce)").matches)return;const n=(Math.round(t.scrollLeft/t.clientWidth)+1)%t.children.length;t.scrollTo({left:n*t.clientWidth,behavior:"smooth"})},5200);
+document.addEventListener("error",e=>{const t=e.target;if(t instanceof HTMLImageElement&&t.classList.contains("pic"))t.remove()},true);
+i18n();render();reset(true);
+</script></body></html>
