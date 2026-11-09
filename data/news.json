@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-11-09T03:14:30.765Z",
+  "generated_at": "2026-11-09T14:29:35.444Z",
   "generated_at_tr": "9 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "9 Kas",
+        "source": "TechCrunch",
+        "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+        "desc": "Automattic aims to compete with likes of Lovable with Spacefast",
+        "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
+      },
+      {
+        "date": "9 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguishe",
+        "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
+      },
+      {
+        "date": "9 Kas",
+        "source": "MIT Tech Review",
+        "title": "Innovating with AI in the special chemicals industry",
+        "desc": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi",
+        "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+      },
+      {
+        "date": "9 Kas",
+        "source": "MIT Tech Review",
+        "title": "The climate case for AI has not been made",
+        "desc": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e",
+        "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
+      },
+      {
+        "date": "9 Kas",
+        "source": "TechCrunch",
+        "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+        "desc": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+        "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+      },
+      {
+        "date": "8 Kas",
+        "source": "The Verge",
+        "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+        "desc": "Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026. Japan is planning to buy 27,500 next-gen",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+      },
       {
         "date": "8 Kas",
         "source": "TechCrunch",
         "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
         "desc": "In a memo to the company, Huang admitted that he had an affair.",
         "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
-      },
-      {
-        "date": "8 Kas",
-        "source": "The Verge",
-        "title": "Apple is racing to make Siri more agentic",
-        "desc": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has de",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
-      },
-      {
-        "date": "8 Kas",
-        "source": "The Verge",
-        "title": "Elvis and Eminem rights holders are suing Suno",
-        "desc": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
-      },
-      {
-        "date": "7 Kas",
-        "source": "TechCrunch",
-        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-        "desc": "On Equity, we unpacked what the midterms mean for the tech industry.",
-        "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
-      },
-      {
-        "date": "7 Kas",
-        "source": "TechCrunch",
-        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-        "desc": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-        "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
-      },
-      {
-        "date": "7 Kas",
-        "source": "Product Hunt",
-        "title": "Agent Clan",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/agent-clan"
-      },
-      {
-        "date": "7 Kas",
-        "source": "The Verge",
-        "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-        "desc": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nAround 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that ",
-        "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
       }
     ],
     "kod": [
+      {
+        "date": "9 Kas",
+        "source": "Simon Willison",
+        "title": "The Web Is More Than Enough, by Paul Ford",
+        "desc": "<p><a href=\"https://news.ycombinator.com/item?id=50416456#50421091\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50416456\">The Web Is More Than Enough, by Paul Ford</a> &mdash; Hacker News.</p><p>OK, t",
+        "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/"
+      },
+      {
+        "date": "9 Kas",
+        "source": "Simon Willison",
+        "title": "Hide your slop PR descriptions behind <details><summary>",
+        "desc": "<p>Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature ",
+        "url": "https://simonwillison.net/2026/Nov/9/details-summary/"
+      },
+      {
+        "date": "9 Kas",
+        "source": "Product Hunt",
+        "title": "GitHub New PR Overview",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/github"
+      },
       {
         "date": "8 Kas",
         "source": "Simon Willison",
@@ -69,42 +90,28 @@
         "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
       },
       {
+        "date": "7 Kas",
+        "source": "Simon Willison",
+        "title": "Terry Pratchett's Study",
+        "desc": "<p><a href=\"https://news.ycombinator.com/item?id=50405674#50407316\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50405674\">Terry Pratchett&#x27;s Study</a> &mdash; Hacker News.</p><p>Terry Pratchett on",
+        "url": "https://simonwillison.net/2026/Nov/7/hn-50407316/"
+      },
+      {
         "date": "6 Kas",
         "source": "GitHub Blog",
         "title": "Beyond code generation: A developer’s guide to agentic engineering",
         "desc": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.\nThe post Beyond code g",
         "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
-      },
-      {
-        "date": "6 Kas",
-        "source": "Simon Willison",
-        "title": "Quoting Nilay Patel",
-        "desc": "<blockquote cite=\"https://www.youtube.com/watch?v=-U4thshDTL8&amp;t=422s\"><p>The products aren't good enough to sell people on the costs.</p>\n<p>You cannot tell people that you have to listen to the whine of a data cente",
-        "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
-      },
-      {
-        "date": "6 Kas",
-        "source": "Stack Overflow Blog",
-        "title": "Welcome to life in the chip age",
-        "desc": "Ryan sits down with Rakesh Kumar, professor of computer engineering at the University of Illinois Urbana-Champaign, about the astounding complexity of manufacturing modern semiconductors, the massive environmental and ge",
-        "url": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/"
-      },
-      {
-        "date": "5 Kas",
-        "source": "GitHub Blog",
-        "title": "Inside GitHub’s new Git storage architecture",
-        "desc": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.\nThe post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog.",
-        "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
-      },
-      {
-        "date": "5 Kas",
-        "source": "Stack Overflow Blog",
-        "title": "Don’t Build the Reusable Component Yet",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/"
       }
     ],
     "arac": [
+      {
+        "date": "9 Kas",
+        "source": "TechCrunch Apps",
+        "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+        "desc": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
+        "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/"
+      },
       {
         "date": "8 Kas",
         "source": "TechCrunch Apps",
@@ -113,46 +120,39 @@
         "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"
       },
       {
+        "date": "8 Kas",
+        "source": "Product Hunt",
+        "title": "Nörth",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/north-5"
+      },
+      {
+        "date": "8 Kas",
+        "source": "Product Hunt",
+        "title": "Cue",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/cue-voice-keyboard"
+      },
+      {
+        "date": "8 Kas",
+        "source": "Product Hunt",
+        "title": "ClipsPal",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/clipspal"
+      },
+      {
+        "date": "7 Kas",
+        "source": "Product Hunt",
+        "title": "Higgsfield Miracle",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/higgsfield"
+      },
+      {
         "date": "7 Kas",
         "source": "Product Hunt",
         "title": "NotchX",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/notch-11"
-      },
-      {
-        "date": "7 Kas",
-        "source": "Product Hunt",
-        "title": "Zigzag Browser",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/zigzag-browser"
-      },
-      {
-        "date": "7 Kas",
-        "source": "Product Hunt",
-        "title": "Trace by Context.dev",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/context-dev"
-      },
-      {
-        "date": "6 Kas",
-        "source": "TechCrunch Apps",
-        "title": "The Duo apps are coming, says Apple",
-        "desc": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
-        "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/"
-      },
-      {
-        "date": "6 Kas",
-        "source": "Product Hunt",
-        "title": "Muse Realtime Avatar",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/meta-ai"
-      },
-      {
-        "date": "6 Kas",
-        "source": "Product Hunt",
-        "title": "The Writer's Quarter",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/the-writer-s-quarter"
       }
     ]
   }
