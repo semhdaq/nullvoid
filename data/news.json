@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-11-10T00:54:22.211Z",
+  "generated_at": "2026-11-10T13:51:16.380Z",
   "generated_at_tr": "10 Kas 2026",
   "categories": {
     "ai": [
       {
         "date": "10 Kas",
         "source": "The Verge",
-        "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-        "desc": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, E",
-        "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
+        "title": "Hands-on with Ring’s new AI drone camera for your home",
+        "desc": "Ring’s new Drone Cam is a flying indoor security camera.\t\n\nRing is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie ",
+        "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
       },
       {
-        "date": "9 Kas",
+        "date": "10 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California ",
+        "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
+      },
+      {
+        "date": "10 Kas",
+        "source": "TechCrunch",
+        "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+        "desc": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developer",
+        "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+      },
+      {
+        "date": "10 Kas",
+        "source": "MIT Tech Review",
+        "title": "Evolving metal extraction processes",
+        "desc": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century,",
+        "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/"
+      },
+      {
+        "date": "10 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "Customer support is the gnarliest AI problem",
+        "desc": "Ryan chats with Ahmad Al-Dahle, CTO at Airbnb, about deploying multi-party AI agents to tackle the uniquely gnarly problem of customer support, how a moving target of rigorous evaluations helps engineers balance latency ",
+        "url": "https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/"
+      },
+      {
+        "date": "10 Kas",
         "source": "Simon Willison",
-        "title": "llm-anthropic 0.31",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.31\">llm-anthropic 0.31</a></p>\n        <p>Anthropic <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2\">released Fa",
-        "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/"
+        "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+        "desc": "<p><strong><a href=\"https://research.meta.ai/blog/muse-ember\">Introducing Our Smallest, Most Efficient Model: Muse Ember</a></strong></p>\nMeta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Embe",
+        "url": "https://simonwillison.net/2026/Nov/10/muse-ember/"
       },
       {
-        "date": "9 Kas",
-        "source": "Simon Willison",
-        "title": "Locating the source of a mysterious beep with Claude",
-        "desc": "<p>Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started <em>intermittently beeping</em>. The beeps were far enough apart that sta",
-        "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
-      },
-      {
-        "date": "9 Kas",
-        "source": "The Verge",
-        "title": "What could China get from Jensen Huang?",
-        "desc": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. N",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
-      },
-      {
-        "date": "9 Kas",
+        "date": "10 Kas",
         "source": "TechCrunch",
-        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-        "desc": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-        "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
-      },
-      {
-        "date": "9 Kas",
-        "source": "TechCrunch",
-        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-        "desc": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-        "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
-      },
-      {
-        "date": "9 Kas",
-        "source": "TechCrunch",
-        "title": "The race is on to sue Nvidia",
-        "desc": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all ",
-        "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+        "title": "Otter AI can now follow conversations across 30+ languages",
+        "desc": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+        "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
       }
     ],
     "kod": [
@@ -77,6 +77,13 @@
       },
       {
         "date": "9 Kas",
+        "source": "Product Hunt",
+        "title": "SideKick By Open",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/open-for-sales"
+      },
+      {
+        "date": "9 Kas",
         "source": "Simon Willison",
         "title": "The Web Is More Than Enough, by Paul Ford",
         "desc": "<p><a href=\"https://news.ycombinator.com/item?id=50416456#50421091\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50416456\">The Web Is More Than Enough, by Paul Ford</a> &mdash; Hacker News.</p><p>OK, t",
@@ -90,13 +97,6 @@
         "url": "https://simonwillison.net/2026/Nov/9/details-summary/"
       },
       {
-        "date": "9 Kas",
-        "source": "Product Hunt",
-        "title": "GitHub New PR Overview",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/github"
-      },
-      {
         "date": "8 Kas",
         "source": "Simon Willison",
         "title": "parse_number() as a SQLite extension: C vs Rust",
@@ -106,53 +106,53 @@
     ],
     "arac": [
       {
-        "date": "9 Kas",
-        "source": "The Verge",
-        "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-        "desc": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49",
-        "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
-      },
-      {
-        "date": "9 Kas",
-        "source": "TechCrunch Apps",
-        "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-        "desc": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
-        "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/"
-      },
-      {
-        "date": "8 Kas",
-        "source": "TechCrunch Apps",
-        "title": "Apps to distract you from the endless cycle of doomscrolling",
-        "desc": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
-        "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"
-      },
-      {
-        "date": "8 Kas",
+        "date": "10 Kas",
         "source": "Product Hunt",
-        "title": "Nörth",
+        "title": "MuJoCo 4",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/north-5"
+        "url": "https://www.producthunt.com/products/google"
       },
       {
-        "date": "8 Kas",
+        "date": "10 Kas",
         "source": "Product Hunt",
-        "title": "Cue",
+        "title": "AppuBot",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/cue-voice-keyboard"
+        "url": "https://www.producthunt.com/products/appubot"
       },
       {
-        "date": "8 Kas",
-        "source": "Product Hunt",
-        "title": "ClipsPal",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/clipspal"
+        "date": "10 Kas",
+        "source": "Simon Willison",
+        "title": "Yonkers Rises",
+        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/yonkers-rises\">Yonkers Rises</a></p>\n        <p>I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its ",
+        "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/"
       },
       {
-        "date": "7 Kas",
+        "date": "10 Kas",
         "source": "Product Hunt",
-        "title": "Higgsfield Miracle",
+        "title": "Dover Startup Jobs",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/higgsfield"
+        "url": "https://www.producthunt.com/products/dover"
+      },
+      {
+        "date": "10 Kas",
+        "source": "Product Hunt",
+        "title": "openring",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/openring"
+      },
+      {
+        "date": "10 Kas",
+        "source": "Product Hunt",
+        "title": "Seldon",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/seldon"
+      },
+      {
+        "date": "10 Kas",
+        "source": "Product Hunt",
+        "title": "Clive",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/clive"
       }
     ]
   }
