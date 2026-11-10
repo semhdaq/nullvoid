@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-11-09T14:29:35.444Z",
-  "generated_at_tr": "9 Kas 2026",
+  "generated_at": "2026-11-10T00:54:22.211Z",
+  "generated_at_tr": "10 Kas 2026",
   "categories": {
     "ai": [
       {
-        "date": "9 Kas",
-        "source": "TechCrunch",
-        "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-        "desc": "Automattic aims to compete with likes of Lovable with Spacefast",
-        "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
-      },
-      {
-        "date": "9 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguishe",
-        "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
-      },
-      {
-        "date": "9 Kas",
-        "source": "MIT Tech Review",
-        "title": "Innovating with AI in the special chemicals industry",
-        "desc": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi",
-        "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
-      },
-      {
-        "date": "9 Kas",
-        "source": "MIT Tech Review",
-        "title": "The climate case for AI has not been made",
-        "desc": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e",
-        "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
-      },
-      {
-        "date": "9 Kas",
-        "source": "TechCrunch",
-        "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-        "desc": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-        "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
-      },
-      {
-        "date": "8 Kas",
+        "date": "10 Kas",
         "source": "The Verge",
-        "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-        "desc": "Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026. Japan is planning to buy 27,500 next-gen",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+        "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+        "desc": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, E",
+        "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
       },
       {
-        "date": "8 Kas",
+        "date": "9 Kas",
+        "source": "Simon Willison",
+        "title": "llm-anthropic 0.31",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.31\">llm-anthropic 0.31</a></p>\n        <p>Anthropic <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2\">released Fa",
+        "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/"
+      },
+      {
+        "date": "9 Kas",
+        "source": "Simon Willison",
+        "title": "Locating the source of a mysterious beep with Claude",
+        "desc": "<p>Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started <em>intermittently beeping</em>. The beeps were far enough apart that sta",
+        "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
+      },
+      {
+        "date": "9 Kas",
+        "source": "The Verge",
+        "title": "What could China get from Jensen Huang?",
+        "desc": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. N",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
+      },
+      {
+        "date": "9 Kas",
         "source": "TechCrunch",
-        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-        "desc": "In a memo to the company, Huang admitted that he had an affair.",
-        "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+        "desc": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+        "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+      },
+      {
+        "date": "9 Kas",
+        "source": "TechCrunch",
+        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+        "desc": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+        "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+      },
+      {
+        "date": "9 Kas",
+        "source": "TechCrunch",
+        "title": "The race is on to sue Nvidia",
+        "desc": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all ",
+        "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
       }
     ],
     "kod": [
+      {
+        "date": "9 Kas",
+        "source": "The Verge",
+        "title": "Here’s what Trump said he knew about Jensen Huang",
+        "desc": "Jensen Huang and President Trump. | Getty Images\t\n\nPresident Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an allege",
+        "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
+      },
+      {
+        "date": "9 Kas",
+        "source": "The Verge",
+        "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+        "desc": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+      },
+      {
+        "date": "9 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "Never Share Your Password Again — The OAuth 2.0 Solution",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/11/09/never-share-your-password-again-the-oauth-2-0-solution/"
+      },
       {
         "date": "9 Kas",
         "source": "Simon Willison",
@@ -81,35 +102,21 @@
         "title": "parse_number() as a SQLite extension: C vs Rust",
         "desc": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-parse-number-c-vs-rust#readme\">parse_number() as a SQLite extension: C vs Rust</a></p>\n        <p>I was out walking the dog when ",
         "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
-      },
-      {
-        "date": "7 Kas",
-        "source": "Simon Willison",
-        "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-        "desc": "<p><strong><a href=\"https://github.com/simonw/datasette/issues/3046\">datasette #3046: Don&#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages</a></strong></p>\nI was looking at the Firefox network panel tod",
-        "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
-      },
-      {
-        "date": "7 Kas",
-        "source": "Simon Willison",
-        "title": "Terry Pratchett's Study",
-        "desc": "<p><a href=\"https://news.ycombinator.com/item?id=50405674#50407316\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50405674\">Terry Pratchett&#x27;s Study</a> &mdash; Hacker News.</p><p>Terry Pratchett on",
-        "url": "https://simonwillison.net/2026/Nov/7/hn-50407316/"
-      },
-      {
-        "date": "6 Kas",
-        "source": "GitHub Blog",
-        "title": "Beyond code generation: A developer’s guide to agentic engineering",
-        "desc": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.\nThe post Beyond code g",
-        "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
       }
     ],
     "arac": [
       {
         "date": "9 Kas",
+        "source": "The Verge",
+        "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+        "desc": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49",
+        "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+      },
+      {
+        "date": "9 Kas",
         "source": "TechCrunch Apps",
         "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-        "desc": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
+        "desc": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
         "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/"
       },
       {
@@ -146,13 +153,6 @@
         "title": "Higgsfield Miracle",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/higgsfield"
-      },
-      {
-        "date": "7 Kas",
-        "source": "Product Hunt",
-        "title": "NotchX",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/notch-11"
       }
     ]
   }
