@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-11T03:22:29.386Z",
+  "generated_at": "2026-11-11T13:01:53.196Z",
   "generated_at_tr": "11 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "11 Kas",
+        "source": "TechCrunch",
+        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+        "desc": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+        "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+      },
       {
         "date": "10 Kas",
         "source": "TechCrunch",
@@ -44,16 +51,16 @@
         "title": "The US is winning the AI race. Jensen Huang could have blown it",
         "desc": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy wi",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
-      },
-      {
-        "date": "10 Kas",
-        "source": "TechCrunch",
-        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-        "desc": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-        "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
       }
     ],
     "kod": [
+      {
+        "date": "10 Kas",
+        "source": "Product Hunt",
+        "title": "Shot.video",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/shot-video"
+      },
       {
         "date": "9 Kas",
         "source": "Stack Overflow Blog",
@@ -95,64 +102,57 @@
         "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
         "desc": "<p><strong><a href=\"https://github.com/simonw/datasette/issues/3046\">datasette #3046: Don&#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages</a></strong></p>\nI was looking at the Firefox network panel tod",
         "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
-      },
-      {
-        "date": "7 Kas",
-        "source": "Simon Willison",
-        "title": "Terry Pratchett's Study",
-        "desc": "<p><a href=\"https://news.ycombinator.com/item?id=50405674#50407316\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50405674\">Terry Pratchett&#x27;s Study</a> &mdash; Hacker News.</p><p>Terry Pratchett on",
-        "url": "https://simonwillison.net/2026/Nov/7/hn-50407316/"
       }
     ],
     "arac": [
       {
-        "date": "10 Kas",
-        "source": "GitHub Blog",
-        "title": "Git security vulnerabilities announced",
-        "desc": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know.\nThe post Git security vulnerabilities",
-        "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/"
+        "date": "11 Kas",
+        "source": "Product Hunt",
+        "title": "Reddit Reviews",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/reddit"
       },
       {
-        "date": "10 Kas",
-        "source": "TechCrunch",
-        "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-        "desc": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-        "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/"
+        "date": "11 Kas",
+        "source": "Product Hunt",
+        "title": "bonds chat",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/bonds-2"
+      },
+      {
+        "date": "11 Kas",
+        "source": "Product Hunt",
+        "title": "Mister Blocks",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/mister-blocks"
+      },
+      {
+        "date": "11 Kas",
+        "source": "Product Hunt",
+        "title": "RigSpark",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/rigspark"
       },
       {
         "date": "10 Kas",
         "source": "Product Hunt",
-        "title": "MuJoCo 4",
+        "title": "Earlybird",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/google"
+        "url": "https://www.producthunt.com/products/earlybird-5"
       },
       {
         "date": "10 Kas",
         "source": "Product Hunt",
-        "title": "AppuBot",
+        "title": "Binqo",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/appubot"
-      },
-      {
-        "date": "10 Kas",
-        "source": "Simon Willison",
-        "title": "Yonkers Rises",
-        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/yonkers-rises\">Yonkers Rises</a></p>\n        <p>I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its ",
-        "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/"
+        "url": "https://www.producthunt.com/products/binqo"
       },
       {
         "date": "10 Kas",
         "source": "Product Hunt",
-        "title": "Dover Startup Jobs",
+        "title": "Xolace",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/dover"
-      },
-      {
-        "date": "10 Kas",
-        "source": "Product Hunt",
-        "title": "openring",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/openring"
+        "url": "https://www.producthunt.com/products/xolace"
       }
     ]
   }
