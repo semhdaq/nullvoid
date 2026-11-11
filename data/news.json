@@ -1,110 +1,117 @@
 {
-  "generated_at": "2026-11-11T13:01:53.196Z",
+  "generated_at": "2026-11-11T23:45:40.417Z",
   "generated_at_tr": "11 Kas 2026",
   "categories": {
     "ai": [
       {
         "date": "11 Kas",
         "source": "TechCrunch",
-        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-        "desc": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-        "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+        "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+        "desc": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+        "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
       },
       {
-        "date": "10 Kas",
-        "source": "TechCrunch",
-        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-        "desc": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-        "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
-      },
-      {
-        "date": "10 Kas",
-        "source": "TechCrunch",
-        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-        "desc": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-        "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
-      },
-      {
-        "date": "10 Kas",
-        "source": "Simon Willison",
-        "title": "llm-gemini 0.36",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.36\">llm-gemini 0.36</a></p>\n        <p>Gemini 4 Carbon was announced <a href=\"https://blog.google/innovation-and-ai/models-and-res",
-        "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
-      },
-      {
-        "date": "10 Kas",
-        "source": "TechCrunch",
-        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-        "desc": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of",
-        "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
-      },
-      {
-        "date": "10 Kas",
-        "source": "TechCrunch",
-        "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-        "desc": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-        "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
-      },
-      {
-        "date": "10 Kas",
+        "date": "11 Kas",
         "source": "The Verge",
-        "title": "The US is winning the AI race. Jensen Huang could have blown it",
-        "desc": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy wi",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
+        "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+        "desc": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a",
+        "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+      },
+      {
+        "date": "11 Kas",
+        "source": "The Verge",
+        "title": "United won’t let your AI agent book your flight",
+        "desc": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.\nThe company says it hasn't yet seen many people try to use AI agents to book their flights, The Wa",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+      },
+      {
+        "date": "11 Kas",
+        "source": "TechCrunch",
+        "title": "Meta is losing its longtime head of  infrastructure",
+        "desc": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+        "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"
+      },
+      {
+        "date": "11 Kas",
+        "source": "TechCrunch",
+        "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+        "desc": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+        "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+      },
+      {
+        "date": "11 Kas",
+        "source": "TechCrunch",
+        "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+        "desc": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+        "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+      },
+      {
+        "date": "11 Kas",
+        "source": "TechCrunch",
+        "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+        "desc": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+        "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
       }
     ],
     "kod": [
+      {
+        "date": "11 Kas",
+        "source": "TechCrunch",
+        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "desc": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+        "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+      },
+      {
+        "date": "11 Kas",
+        "source": "Simon Willison",
+        "title": "Gemini Decisions API",
+        "desc": "<p><strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\">Gemini Decisions API</a></strong></p>\nGoogle join <a href=\"https://simonwillison.net/2026/Sep/21/jev/\">Jev</a> ",
+        "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+      },
+      {
+        "date": "11 Kas",
+        "source": "Simon Willison",
+        "title": "aws-emulator",
+        "desc": "<p><strong><a href=\"https://github.com/aws/aws-emulator\">aws-emulator</a></strong></p>\nFinally, an official emulator from AWS to run tests against a local clone of their many different services without having to provisio",
+        "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
+      },
+      {
+        "date": "11 Kas",
+        "source": "TechCrunch",
+        "title": "Why the data center you dread might never even be built",
+        "desc": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more",
+        "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/"
+      },
+      {
+        "date": "11 Kas",
+        "source": "TechCrunch",
+        "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+        "desc": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more",
+        "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/"
+      },
+      {
+        "date": "11 Kas",
+        "source": "Simon Willison",
+        "title": "Browse tools.simonwillison.net by tag",
+        "desc": "<p><strong><a href=\"https://tools.simonwillison.net/#tags\">Browse tools.simonwillison.net by tag</a></strong></p>\nI've been wanting a better way to browse my <a href=\"\">collection of vibe-coded tools</a> (244 and countin",
+        "url": "https://simonwillison.net/2026/Nov/11/tools-tags/"
+      },
       {
         "date": "10 Kas",
         "source": "Product Hunt",
         "title": "Shot.video",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/shot-video"
-      },
-      {
-        "date": "9 Kas",
-        "source": "Stack Overflow Blog",
-        "title": "Never Share Your Password Again — The OAuth 2.0 Solution",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/11/09/never-share-your-password-again-the-oauth-2-0-solution/"
-      },
-      {
-        "date": "9 Kas",
-        "source": "Product Hunt",
-        "title": "SideKick By Open",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/open-for-sales"
-      },
-      {
-        "date": "9 Kas",
-        "source": "Simon Willison",
-        "title": "The Web Is More Than Enough, by Paul Ford",
-        "desc": "<p><a href=\"https://news.ycombinator.com/item?id=50416456#50421091\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50416456\">The Web Is More Than Enough, by Paul Ford</a> &mdash; Hacker News.</p><p>OK, t",
-        "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/"
-      },
-      {
-        "date": "9 Kas",
-        "source": "Simon Willison",
-        "title": "Hide your slop PR descriptions behind <details><summary>",
-        "desc": "<p>Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature ",
-        "url": "https://simonwillison.net/2026/Nov/9/details-summary/"
-      },
-      {
-        "date": "8 Kas",
-        "source": "Simon Willison",
-        "title": "parse_number() as a SQLite extension: C vs Rust",
-        "desc": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-parse-number-c-vs-rust#readme\">parse_number() as a SQLite extension: C vs Rust</a></p>\n        <p>I was out walking the dog when ",
-        "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
-      },
-      {
-        "date": "7 Kas",
-        "source": "Simon Willison",
-        "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-        "desc": "<p><strong><a href=\"https://github.com/simonw/datasette/issues/3046\">datasette #3046: Don&#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages</a></strong></p>\nI was looking at the Firefox network panel tod",
-        "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
       }
     ],
     "arac": [
+      {
+        "date": "11 Kas",
+        "source": "TechCrunch",
+        "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+        "desc": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+        "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"
+      },
       {
         "date": "11 Kas",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "Binqo",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/binqo"
-      },
-      {
-        "date": "10 Kas",
-        "source": "Product Hunt",
-        "title": "Xolace",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/xolace"
       }
     ]
   }
