@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-12T04:32:42.567Z",
+  "generated_at": "2026-11-12T14:04:31.162Z",
   "generated_at_tr": "12 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "12 Kas",
+        "source": "TechCrunch",
+        "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+        "desc": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+        "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"
+      },
       {
         "date": "12 Kas",
         "source": "TechCrunch",
@@ -28,7 +35,7 @@
         "date": "11 Kas",
         "source": "The Verge",
         "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-        "desc": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a",
+        "desc": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a",
         "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
       },
       {
@@ -44,16 +51,23 @@
         "title": "Meta is losing its longtime head of  infrastructure",
         "desc": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
         "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"
-      },
-      {
-        "date": "11 Kas",
-        "source": "TechCrunch",
-        "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-        "desc": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-        "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
       }
     ],
     "kod": [
+      {
+        "date": "12 Kas",
+        "source": "The Verge",
+        "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+        "desc": "Jensen Huang at GTC Berlin last month. | Photo: Soeren Stache / picture alliance via Getty Images\t\n\nNvidia's board has separated from Jensen Huang, its longtime co-founder, president, and CEO, after reports of two extram",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia"
+      },
+      {
+        "date": "12 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: COP31’s climate challenge and the quest for immortality",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists,",
+        "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
+      },
       {
         "date": "11 Kas",
         "source": "TechCrunch",
@@ -88,71 +102,57 @@
         "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
         "desc": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more",
         "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/"
-      },
-      {
-        "date": "11 Kas",
-        "source": "Simon Willison",
-        "title": "Browse tools.simonwillison.net by tag",
-        "desc": "<p><strong><a href=\"https://tools.simonwillison.net/#tags\">Browse tools.simonwillison.net by tag</a></strong></p>\nI've been wanting a better way to browse my <a href=\"\">collection of vibe-coded tools</a> (244 and countin",
-        "url": "https://simonwillison.net/2026/Nov/11/tools-tags/"
-      },
-      {
-        "date": "10 Kas",
-        "source": "Product Hunt",
-        "title": "Shot.video",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/shot-video"
       }
     ],
     "arac": [
       {
-        "date": "11 Kas",
-        "source": "TechCrunch",
-        "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-        "desc": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-        "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"
+        "date": "12 Kas",
+        "source": "Product Hunt",
+        "title": "Didit MCP",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/didit-3"
       },
       {
-        "date": "11 Kas",
+        "date": "12 Kas",
         "source": "Product Hunt",
-        "title": "Reddit Reviews",
+        "title": "Hoy for Mac",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/reddit"
+        "url": "https://www.producthunt.com/products/hoy-for-mac"
       },
       {
-        "date": "11 Kas",
+        "date": "12 Kas",
         "source": "Product Hunt",
-        "title": "bonds chat",
+        "title": "Crossfade",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/bonds-2"
+        "url": "https://www.producthunt.com/products/crossfade"
       },
       {
-        "date": "11 Kas",
+        "date": "12 Kas",
         "source": "Product Hunt",
-        "title": "Mister Blocks",
+        "title": "Offstage Cloud",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/mister-blocks"
+        "url": "https://www.producthunt.com/products/offstage-cloud"
       },
       {
-        "date": "11 Kas",
+        "date": "12 Kas",
         "source": "Product Hunt",
-        "title": "RigSpark",
+        "title": "Oxagen",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/rigspark"
+        "url": "https://www.producthunt.com/products/oxagen"
       },
       {
-        "date": "10 Kas",
+        "date": "12 Kas",
         "source": "Product Hunt",
-        "title": "Earlybird",
+        "title": "Blendra",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/earlybird-5"
+        "url": "https://www.producthunt.com/products/blendra"
       },
       {
-        "date": "10 Kas",
+        "date": "12 Kas",
         "source": "Product Hunt",
-        "title": "Binqo",
+        "title": "Nameshot",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/binqo"
+        "url": "https://www.producthunt.com/products/nameshot-2"
       }
     ]
   }
