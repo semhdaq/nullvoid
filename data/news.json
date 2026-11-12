@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-11-11T23:45:40.417Z",
-  "generated_at_tr": "11 Kas 2026",
+  "generated_at": "2026-11-12T04:32:42.567Z",
+  "generated_at_tr": "12 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "12 Kas",
+        "source": "TechCrunch",
+        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "desc": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+      },
+      {
+        "date": "11 Kas",
+        "source": "TechCrunch",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "desc": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+      },
       {
         "date": "11 Kas",
         "source": "TechCrunch",
@@ -35,22 +49,8 @@
         "date": "11 Kas",
         "source": "TechCrunch",
         "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-        "desc": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+        "desc": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
         "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
-      },
-      {
-        "date": "11 Kas",
-        "source": "TechCrunch",
-        "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-        "desc": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-        "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
-      },
-      {
-        "date": "11 Kas",
-        "source": "TechCrunch",
-        "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-        "desc": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-        "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
       }
     ],
     "kod": [
