@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-12T22:55:21.160Z",
-  "generated_at_tr": "12 Kas 2026",
+  "generated_at": "2026-11-13T03:46:51.171Z",
+  "generated_at_tr": "13 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "12 Kas",
+        "source": "Simon Willison",
+        "title": "llm-gemini 0.37",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.37\">llm-gemini 0.37</a></p>\n        <p>Google launched <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-m",
+        "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+      },
       {
         "date": "12 Kas",
         "source": "GitHub Blog",
@@ -13,8 +20,8 @@
       {
         "date": "12 Kas",
         "source": "TechCrunch",
-        "title": "Muse can now place calls to U.S. businesses — if you pay",
-        "desc": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+        "title": "Muse can now place calls to US businesses — if you pay",
+        "desc": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
         "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
       },
       {
@@ -44,16 +51,16 @@
         "title": "Jensen Huang was having a third affair, Reuters reports",
         "desc": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
         "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
-      },
-      {
-        "date": "12 Kas",
-        "source": "MIT Tech Review",
-        "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-        "desc": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review i",
-        "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
       }
     ],
     "kod": [
+      {
+        "date": "13 Kas",
+        "source": "GitHub Blog",
+        "title": "GitHub availability report: October 2026",
+        "desc": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: October 2026 appeared first on The GitHub Blog.",
+        "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/"
+      },
       {
         "date": "12 Kas",
         "source": "Stack Overflow Blog",
@@ -95,13 +102,6 @@
         "title": "aws-emulator",
         "desc": "<p><strong><a href=\"https://github.com/aws/aws-emulator\">aws-emulator</a></strong></p>\nFinally, an official emulator from AWS to run tests against a local clone of their many different services without having to provisio",
         "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
-      },
-      {
-        "date": "11 Kas",
-        "source": "Simon Willison",
-        "title": "Browse tools.simonwillison.net by tag",
-        "desc": "<p><strong><a href=\"https://tools.simonwillison.net/#tags\">Browse tools.simonwillison.net by tag</a></strong></p>\nI've been wanting a better way to browse my <a href=\"\">collection of vibe-coded tools</a> (244 and countin",
-        "url": "https://simonwillison.net/2026/Nov/11/tools-tags/"
       }
     ],
     "arac": [
