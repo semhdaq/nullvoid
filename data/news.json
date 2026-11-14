@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-13T22:57:11.600Z",
-  "generated_at_tr": "13 Kas 2026",
+  "generated_at": "2026-11-14T03:45:09.602Z",
+  "generated_at_tr": "14 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "13 Kas",
+        "source": "The Verge",
+        "title": "Amazon has a plan to index the world’s online shopping data",
+        "desc": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, cal",
+        "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+      },
       {
         "date": "13 Kas",
         "source": "TechCrunch",
@@ -44,16 +51,16 @@
         "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
         "desc": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
         "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
-      },
-      {
-        "date": "13 Kas",
-        "source": "TechCrunch",
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "desc": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
       }
     ],
     "kod": [
+      {
+        "date": "13 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-leaflet 0.3",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-leaflet/releases/tag/0.3\">datasette-leaflet 0.3</a></p>\n        <p>OpenStreetMap have a very reasonable policy that hits to their hosted tile serv",
+        "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/"
+      },
       {
         "date": "13 Kas",
         "source": "MIT Tech Review",
@@ -95,16 +102,16 @@
         "title": "The Download: COP31’s climate challenge and the quest for immortality",
         "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists,",
         "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
-      },
-      {
-        "date": "11 Kas",
-        "source": "Simon Willison",
-        "title": "Gemini Decisions API",
-        "desc": "<p><strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\">Gemini Decisions API</a></strong></p>\nGoogle join <a href=\"https://simonwillison.net/2026/Sep/21/jev/\">Jev</a> ",
-        "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
       }
     ],
     "arac": [
+      {
+        "date": "13 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-cluster-map 0.19",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-cluster-map/releases/tag/0.19\">datasette-cluster-map 0.19</a></p>\n        <p>One of the oldest Datasette plugins, and still one of my favorites. I",
+        "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
+      },
       {
         "date": "13 Kas",
         "source": "TechCrunch Apps",
@@ -146,13 +153,6 @@
         "title": "WHOOP Humans",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/whoop"
-      },
-      {
-        "date": "12 Kas",
-        "source": "TechCrunch",
-        "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-        "desc": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-        "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
       }
     ]
   }
