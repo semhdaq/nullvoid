@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-14T03:45:09.602Z",
+  "generated_at": "2026-11-14T12:35:42.067Z",
   "generated_at_tr": "14 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "14 Kas",
+        "source": "The Verge",
+        "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+        "desc": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images\t\n\nOn January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode tr",
+        "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+      },
       {
         "date": "13 Kas",
         "source": "The Verge",
@@ -44,13 +51,6 @@
         "title": "Your coding agent shouldn't grade its own homework",
         "desc": "AI coding agents can now write design docs, mock up frontends, and implement entire projects end to end. But can they be trusted to verify that their own code actually works?",
         "url": "https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/"
-      },
-      {
-        "date": "13 Kas",
-        "source": "TechCrunch",
-        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-        "desc": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-        "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
       }
     ],
     "kod": [
@@ -84,6 +84,13 @@
       },
       {
         "date": "13 Kas",
+        "source": "Product Hunt",
+        "title": "CodeMesh",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/codemesh-2"
+      },
+      {
+        "date": "13 Kas",
         "source": "GitHub Blog",
         "title": "GitHub availability report: October 2026",
         "desc": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: October 2026 appeared first on The GitHub Blog.",
@@ -95,13 +102,6 @@
         "title": "How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter",
         "desc": "Everybody's resume is perfect now, so how do you find the perfect teammate?",
         "url": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/"
-      },
-      {
-        "date": "12 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: COP31’s climate challenge and the quest for immortality",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists,",
-        "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
       }
     ],
     "arac": [
@@ -114,10 +114,31 @@
       },
       {
         "date": "13 Kas",
+        "source": "Product Hunt",
+        "title": "Thunder",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/thunder-3"
+      },
+      {
+        "date": "13 Kas",
+        "source": "Product Hunt",
+        "title": "Tacie",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/tacie"
+      },
+      {
+        "date": "13 Kas",
         "source": "TechCrunch Apps",
         "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
         "desc": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
         "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
+      },
+      {
+        "date": "13 Kas",
+        "source": "Product Hunt",
+        "title": "Tabletop by Google Labs",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/google-labs"
       },
       {
         "date": "13 Kas",
@@ -132,27 +153,6 @@
         "title": "StockRip",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/stockrip"
-      },
-      {
-        "date": "13 Kas",
-        "source": "Product Hunt",
-        "title": "Replicate",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/replicate-10"
-      },
-      {
-        "date": "13 Kas",
-        "source": "Product Hunt",
-        "title": "Pocket Studio for Supabase",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/pocket-studio-for-supabase"
-      },
-      {
-        "date": "13 Kas",
-        "source": "Product Hunt",
-        "title": "WHOOP Humans",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/whoop"
       }
     ]
   }
