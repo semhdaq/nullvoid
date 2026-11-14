@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-11-14T12:35:42.067Z",
+  "generated_at": "2026-11-14T21:44:05.831Z",
   "generated_at_tr": "14 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "14 Kas",
+        "source": "TechCrunch",
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "desc": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+      },
+      {
+        "date": "14 Kas",
+        "source": "TechCrunch",
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "desc": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      },
+      {
+        "date": "14 Kas",
+        "source": "TechCrunch",
+        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+        "desc": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+        "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+      },
+      {
+        "date": "14 Kas",
+        "source": "The Verge",
+        "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+        "desc": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.\nHelen is a well-known fi",
+        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+      },
       {
         "date": "14 Kas",
         "source": "The Verge",
@@ -23,34 +51,6 @@
         "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
         "desc": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
         "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
-      },
-      {
-        "date": "13 Kas",
-        "source": "The Verge",
-        "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-        "desc": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
-      },
-      {
-        "date": "13 Kas",
-        "source": "TechCrunch",
-        "title": "AI agent startup LangChain hits $3B valuation",
-        "desc": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
-      },
-      {
-        "date": "13 Kas",
-        "source": "TechCrunch",
-        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-        "desc": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
-      },
-      {
-        "date": "13 Kas",
-        "source": "Stack Overflow Blog",
-        "title": "Your coding agent shouldn't grade its own homework",
-        "desc": "AI coding agents can now write design docs, mock up frontends, and implement entire projects end to end. But can they be trusted to verify that their own code actually works?",
-        "url": "https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/"
       }
     ],
     "kod": [
