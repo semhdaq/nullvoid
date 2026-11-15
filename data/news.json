@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-11-15T13:01:22.226Z",
+  "generated_at": "2026-11-15T22:09:45.715Z",
   "generated_at_tr": "15 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "15 Kas",
+        "source": "TechCrunch",
+        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+        "desc": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+        "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
+      },
+      {
+        "date": "15 Kas",
+        "source": "The Verge",
+        "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+        "desc": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our  Stepback newsletter should get you up to speed, but there have already been a number of new developments sinc",
+        "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+      },
+      {
+        "date": "15 Kas",
+        "source": "TechCrunch",
+        "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+        "desc": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+        "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
+      },
+      {
+        "date": "15 Kas",
+        "source": "The Verge",
+        "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+        "desc": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced supp",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+      },
       {
         "date": "15 Kas",
         "source": "The Verge",
@@ -23,34 +51,6 @@
         "title": "Where was Nvidia’s security team?",
         "desc": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig",
         "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
-      },
-      {
-        "date": "14 Kas",
-        "source": "TechCrunch",
-        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-        "desc": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
-      },
-      {
-        "date": "14 Kas",
-        "source": "TechCrunch",
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "desc": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-      },
-      {
-        "date": "14 Kas",
-        "source": "TechCrunch",
-        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-        "desc": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-        "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
-      },
-      {
-        "date": "14 Kas",
-        "source": "The Verge",
-        "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-        "desc": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.\nHelen is a well-known fi",
-        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
       }
     ],
     "kod": [
