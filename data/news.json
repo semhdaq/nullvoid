@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-11-15T03:23:41.222Z",
+  "generated_at": "2026-11-15T13:01:22.226Z",
   "generated_at_tr": "15 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "15 Kas",
+        "source": "The Verge",
+        "title": "An overview of Jensen Huang’s messy days",
+        "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepba",
+        "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+      },
+      {
+        "date": "15 Kas",
+        "source": "Product Hunt",
+        "title": "Canvas by AgentGrid.io",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/agentgrid-io"
+      },
       {
         "date": "15 Kas",
         "source": "TechCrunch",
@@ -37,20 +51,6 @@
         "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
         "desc": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.\nHelen is a well-known fi",
         "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
-      },
-      {
-        "date": "14 Kas",
-        "source": "The Verge",
-        "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-        "desc": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images\t\n\nOn January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode tr",
-        "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
-      },
-      {
-        "date": "13 Kas",
-        "source": "The Verge",
-        "title": "Amazon has a plan to index the world’s online shopping data",
-        "desc": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, cal",
-        "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
       }
     ],
     "kod": [
@@ -106,6 +106,27 @@
     ],
     "arac": [
       {
+        "date": "15 Kas",
+        "source": "Product Hunt",
+        "title": "Perit Marketplace",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/perit-marketplace"
+      },
+      {
+        "date": "14 Kas",
+        "source": "Product Hunt",
+        "title": "GotEmail",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/gotemail"
+      },
+      {
+        "date": "14 Kas",
+        "source": "Product Hunt",
+        "title": "HuntMonitor",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/huntmonitor"
+      },
+      {
         "date": "14 Kas",
         "source": "Simon Willison",
         "title": "datasette-vega 0.7",
@@ -113,46 +134,25 @@
         "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/"
       },
       {
+        "date": "14 Kas",
+        "source": "Product Hunt",
+        "title": "Privacyboard",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/privacyboard"
+      },
+      {
+        "date": "13 Kas",
+        "source": "Product Hunt",
+        "title": "Remindly",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/remindly-6"
+      },
+      {
         "date": "13 Kas",
         "source": "Simon Willison",
         "title": "datasette-cluster-map 0.19",
         "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-cluster-map/releases/tag/0.19\">datasette-cluster-map 0.19</a></p>\n        <p>One of the oldest Datasette plugins, and still one of my favorites. I",
         "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
-      },
-      {
-        "date": "13 Kas",
-        "source": "Product Hunt",
-        "title": "Thunder",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/thunder-3"
-      },
-      {
-        "date": "13 Kas",
-        "source": "Product Hunt",
-        "title": "Tacie",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tacie"
-      },
-      {
-        "date": "13 Kas",
-        "source": "TechCrunch Apps",
-        "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
-        "desc": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
-        "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
-      },
-      {
-        "date": "13 Kas",
-        "source": "Product Hunt",
-        "title": "Tabletop by Google Labs",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/google-labs"
-      },
-      {
-        "date": "13 Kas",
-        "source": "Product Hunt",
-        "title": "de:volt",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/de-volt"
       }
     ]
   }
