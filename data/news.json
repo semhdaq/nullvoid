@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-14T21:44:05.831Z",
-  "generated_at_tr": "14 Kas 2026",
+  "generated_at": "2026-11-15T03:23:41.222Z",
+  "generated_at_tr": "15 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "15 Kas",
+        "source": "TechCrunch",
+        "title": "Where was Nvidia’s security team?",
+        "desc": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig",
+        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+      },
       {
         "date": "14 Kas",
         "source": "TechCrunch",
@@ -44,16 +51,16 @@
         "title": "Amazon has a plan to index the world’s online shopping data",
         "desc": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, cal",
         "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
-      },
-      {
-        "date": "13 Kas",
-        "source": "TechCrunch",
-        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-        "desc": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
       }
     ],
     "kod": [
+      {
+        "date": "14 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-llm 0.1a11",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a11\">datasette-llm 0.1a11</a></p>\n        <p><code>datasette-llm</code> is the intermediate plugin for Datasette that suppo",
+        "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
+      },
       {
         "date": "13 Kas",
         "source": "Simon Willison",
@@ -95,16 +102,16 @@
         "title": "GitHub availability report: October 2026",
         "desc": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: October 2026 appeared first on The GitHub Blog.",
         "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/"
-      },
-      {
-        "date": "12 Kas",
-        "source": "Stack Overflow Blog",
-        "title": "How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter",
-        "desc": "Everybody's resume is perfect now, so how do you find the perfect teammate?",
-        "url": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/"
       }
     ],
     "arac": [
+      {
+        "date": "14 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-vega 0.7",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-vega/releases/tag/0.7\">datasette-vega 0.7</a></p>\n        <p>A new release of Datasette's longest untouched plugin, for rendering charts (using <a",
+        "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/"
+      },
       {
         "date": "13 Kas",
         "source": "Simon Willison",
@@ -146,13 +153,6 @@
         "title": "de:volt",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/de-volt"
-      },
-      {
-        "date": "13 Kas",
-        "source": "Product Hunt",
-        "title": "StockRip",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/stockrip"
       }
     ]
   }
