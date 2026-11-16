@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-11-15T22:09:45.715Z",
-  "generated_at_tr": "15 Kas 2026",
+  "generated_at": "2026-11-16T03:24:49.051Z",
+  "generated_at_tr": "16 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "16 Kas",
+        "source": "TechCrunch",
+        "title": "Apple launches new app to study how people use AI for health",
+        "desc": "Apple's new app for a study will answer everyday medical questions",
+        "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+      },
+      {
+        "date": "16 Kas",
+        "source": "The Verge",
+        "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+        "desc": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI U",
+        "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+      },
+      {
+        "date": "15 Kas",
+        "source": "TechCrunch",
+        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "desc": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+        "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+      },
+      {
+        "date": "15 Kas",
+        "source": "Simon Willison",
+        "title": "datasette 1.0a43",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a43\">datasette 1.0a43</a></p>\n        <p>I've been leaning hard into Claude Fable 5.2 to help knock things off the <a href=\"https:",
+        "url": "https://simonwillison.net/2026/Nov/15/datasette/"
+      },
       {
         "date": "15 Kas",
         "source": "TechCrunch",
@@ -23,37 +51,23 @@
         "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
         "desc": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
         "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
-      },
-      {
-        "date": "15 Kas",
-        "source": "The Verge",
-        "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-        "desc": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced supp",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
-      },
-      {
-        "date": "15 Kas",
-        "source": "The Verge",
-        "title": "An overview of Jensen Huang’s messy days",
-        "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepba",
-        "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
-      },
-      {
-        "date": "15 Kas",
-        "source": "Product Hunt",
-        "title": "Canvas by AgentGrid.io",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/agentgrid-io"
-      },
-      {
-        "date": "15 Kas",
-        "source": "TechCrunch",
-        "title": "Where was Nvidia’s security team?",
-        "desc": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig",
-        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
       }
     ],
     "kod": [
+      {
+        "date": "15 Kas",
+        "source": "Simon Willison",
+        "title": "datasette 0.65.6",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.6\">datasette 0.65.6</a></p>\n        <p>I backported a minor security fix from 1.0a43:</p>\n<blockquote>\n<p>Fixed a security issue",
+        "url": "https://simonwillison.net/2026/Nov/15/datasette-2/"
+      },
+      {
+        "date": "15 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-apps 0.4a0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.4a0\">datasette-apps 0.4a0</a></p>\n        <p>Datasette Apps are sandboxed HTML and JavaScript applications that live inside",
+        "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/"
+      },
       {
         "date": "14 Kas",
         "source": "Simon Willison",
@@ -88,23 +102,16 @@
         "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
         "desc": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for tr",
         "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
-      },
-      {
-        "date": "13 Kas",
-        "source": "Product Hunt",
-        "title": "CodeMesh",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/codemesh-2"
-      },
-      {
-        "date": "13 Kas",
-        "source": "GitHub Blog",
-        "title": "GitHub availability report: October 2026",
-        "desc": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: October 2026 appeared first on The GitHub Blog.",
-        "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/"
       }
     ],
     "arac": [
+      {
+        "date": "15 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-maplibre 0.1a0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0\">datasette-maplibre 0.1a0</a></p>\n        <p>The first new Datasette geospatial plugin in quite a while! This one c",
+        "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
+      },
       {
         "date": "15 Kas",
         "source": "Product Hunt",
@@ -113,11 +120,11 @@
         "url": "https://www.producthunt.com/products/perit-marketplace"
       },
       {
-        "date": "14 Kas",
-        "source": "Product Hunt",
-        "title": "GotEmail",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/gotemail"
+        "date": "15 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-agent 0.6a0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.6a0\">datasette-agent 0.6a0</a></p>\n        <p>Accumulated small fixes for Datasette Agent, my agent plugin for Datasette t",
+        "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/"
       },
       {
         "date": "14 Kas",
@@ -146,13 +153,6 @@
         "title": "Remindly",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/remindly-6"
-      },
-      {
-        "date": "13 Kas",
-        "source": "Simon Willison",
-        "title": "datasette-cluster-map 0.19",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-cluster-map/releases/tag/0.19\">datasette-cluster-map 0.19</a></p>\n        <p>One of the oldest Datasette plugins, and still one of my favorites. I",
-        "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
       }
     ]
   }
