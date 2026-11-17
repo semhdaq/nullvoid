@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-11-16T14:05:54.984Z",
-  "generated_at_tr": "16 Kas 2026",
+  "generated_at": "2026-11-17T01:10:26.123Z",
+  "generated_at_tr": "17 Kas 2026",
   "categories": {
     "ai": [
       {
         "date": "16 Kas",
-        "source": "The Verge",
-        "title": "The Nvidia scandal isn’t slowing down",
-        "desc": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI tech",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down"
-      },
-      {
-        "date": "16 Kas",
-        "source": "TechCrunch",
-        "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-        "desc": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-        "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
-      },
-      {
-        "date": "16 Kas",
-        "source": "TechCrunch",
-        "title": "Apple launches new app to study how people use AI for health",
-        "desc": "Apple's new app for a study will answer everyday medical questions",
-        "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
-      },
-      {
-        "date": "16 Kas",
-        "source": "The Verge",
-        "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-        "desc": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI U",
-        "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
-      },
-      {
-        "date": "15 Kas",
-        "source": "TechCrunch",
-        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-        "desc": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-        "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
-      },
-      {
-        "date": "15 Kas",
         "source": "Simon Willison",
-        "title": "datasette 1.0a43",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a43\">datasette 1.0a43</a></p>\n        <p>I've been leaning hard into Claude Fable 5.2 to help knock things off the <a href=\"https:",
-        "url": "https://simonwillison.net/2026/Nov/15/datasette/"
+        "title": "llm 0.37.3",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37.3\">llm 0.37.3</a></p>\n        <p>A bug fix release for <a href=\"https://llm.datasette.io\">LLM</a>, mainly to cover a problem with the ",
+        "url": "https://simonwillison.net/2026/Nov/16/llm/"
       },
       {
-        "date": "15 Kas",
+        "date": "16 Kas",
         "source": "TechCrunch",
-        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-        "desc": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-        "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
+        "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+        "desc": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+        "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+      },
+      {
+        "date": "16 Kas",
+        "source": "The Verge",
+        "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+        "desc": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board w",
+        "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+      },
+      {
+        "date": "16 Kas",
+        "source": "TechCrunch",
+        "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+        "desc": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number o",
+        "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+      },
+      {
+        "date": "16 Kas",
+        "source": "TechCrunch Apps",
+        "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+        "desc": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+        "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"
+      },
+      {
+        "date": "16 Kas",
+        "source": "The Verge",
+        "title": "California sues OpenAI over rogue AI hacking incidents",
+        "desc": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+      },
+      {
+        "date": "16 Kas",
+        "source": "The Verge",
+        "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+        "desc": "Sam… thank you. | Image: Getty Images\t\n\nOpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor"
       }
     ],
     "kod": [
+      {
+        "date": "16 Kas",
+        "source": "TechCrunch Apps",
+        "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+        "desc": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+        "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"
+      },
+      {
+        "date": "16 Kas",
+        "source": "The Verge",
+        "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+        "desc": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussion",
+        "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
+      },
       {
         "date": "16 Kas",
         "source": "MIT Tech Review",
@@ -88,23 +102,30 @@
         "title": "datasette-llm 0.1a11",
         "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a11\">datasette-llm 0.1a11</a></p>\n        <p><code>datasette-llm</code> is the intermediate plugin for Datasette that suppo",
         "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
-      },
-      {
-        "date": "13 Kas",
-        "source": "Simon Willison",
-        "title": "datasette-leaflet 0.3",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-leaflet/releases/tag/0.3\">datasette-leaflet 0.3</a></p>\n        <p>OpenStreetMap have a very reasonable policy that hits to their hosted tile serv",
-        "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/"
-      },
-      {
-        "date": "13 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-        "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
       }
     ],
     "arac": [
+      {
+        "date": "16 Kas",
+        "source": "The Verge",
+        "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+        "desc": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.",
+        "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+      },
+      {
+        "date": "16 Kas",
+        "source": "TechCrunch Apps",
+        "title": "Island is a new screen-time app that turns staying off your phone into a game",
+        "desc": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
+        "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/"
+      },
+      {
+        "date": "16 Kas",
+        "source": "TechCrunch Apps",
+        "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+        "desc": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
+        "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"
+      },
       {
         "date": "16 Kas",
         "source": "The Verge",
@@ -132,27 +153,6 @@
         "title": "ByteVoice",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/bytevoice"
-      },
-      {
-        "date": "16 Kas",
-        "source": "Product Hunt",
-        "title": "Notebook to Notes",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/notebook-to-notes"
-      },
-      {
-        "date": "15 Kas",
-        "source": "Simon Willison",
-        "title": "datasette-maplibre 0.1a0",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0\">datasette-maplibre 0.1a0</a></p>\n        <p>The first new Datasette geospatial plugin in quite a while! This one c",
-        "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
-      },
-      {
-        "date": "15 Kas",
-        "source": "Product Hunt",
-        "title": "LexiCAD",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/lexicad"
       }
     ]
   }
