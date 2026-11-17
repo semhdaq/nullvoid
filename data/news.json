@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-11-17T01:10:26.123Z",
+  "generated_at": "2026-11-17T14:59:14.912Z",
   "generated_at_tr": "17 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "17 Kas",
+        "source": "TechCrunch",
+        "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+        "desc": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+        "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+      },
+      {
+        "date": "17 Kas",
+        "source": "TechCrunch",
+        "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+        "desc": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+        "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+      },
+      {
+        "date": "17 Kas",
+        "source": "TechCrunch",
+        "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+        "desc": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+        "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/"
+      },
+      {
+        "date": "17 Kas",
+        "source": "Product Hunt",
+        "title": "GatherHQ Agent Research",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/gatherhq-agent-research"
+      },
+      {
+        "date": "17 Kas",
+        "source": "Product Hunt",
+        "title": "Agents API by Recall.ai",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/recall-ai"
+      },
       {
         "date": "16 Kas",
         "source": "Simon Willison",
@@ -16,44 +51,30 @@
         "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
         "desc": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
         "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
-      },
-      {
-        "date": "16 Kas",
-        "source": "The Verge",
-        "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-        "desc": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board w",
-        "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
-      },
-      {
-        "date": "16 Kas",
-        "source": "TechCrunch",
-        "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-        "desc": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number o",
-        "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
-      },
-      {
-        "date": "16 Kas",
-        "source": "TechCrunch Apps",
-        "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-        "desc": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-        "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"
-      },
-      {
-        "date": "16 Kas",
-        "source": "The Verge",
-        "title": "California sues OpenAI over rogue AI hacking incidents",
-        "desc": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
-      },
-      {
-        "date": "16 Kas",
-        "source": "The Verge",
-        "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-        "desc": "Sam… thank you. | Image: Getty Images\t\n\nOpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor"
       }
     ],
     "kod": [
+      {
+        "date": "17 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Hu",
+        "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
+      },
+      {
+        "date": "17 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "The pioneering coding tricks that built Doom and Quake",
+        "desc": "Ryan chats with John Romero, creator of the WAD file and the video game Doom, about the self-modifying code and blitting techniques that made Wolfenstein run so fast on early PCs, the mod-friendly architecture that turne",
+        "url": "https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/"
+      },
+      {
+        "date": "17 Kas",
+        "source": "Simon Willison",
+        "title": "Quoting Go Proverbs",
+        "desc": "<blockquote cite=\"https://go-proverbs.github.io\"><p>A little copying is better than a little dependency.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://go-proverbs.github.io\">Go Proverbs</a>, <a href=\"https://",
+        "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/"
+      },
       {
         "date": "16 Kas",
         "source": "TechCrunch Apps",
@@ -81,78 +102,57 @@
         "title": "datasette 0.65.6",
         "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.6\">datasette 0.65.6</a></p>\n        <p>I backported a minor security fix from 1.0a43:</p>\n<blockquote>\n<p>Fixed a security issue",
         "url": "https://simonwillison.net/2026/Nov/15/datasette-2/"
-      },
-      {
-        "date": "15 Kas",
-        "source": "Product Hunt",
-        "title": "UI SDK by Vercel",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ui-sdk"
-      },
-      {
-        "date": "15 Kas",
-        "source": "Simon Willison",
-        "title": "datasette-apps 0.4a0",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.4a0\">datasette-apps 0.4a0</a></p>\n        <p>Datasette Apps are sandboxed HTML and JavaScript applications that live inside",
-        "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/"
-      },
-      {
-        "date": "14 Kas",
-        "source": "Simon Willison",
-        "title": "datasette-llm 0.1a11",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a11\">datasette-llm 0.1a11</a></p>\n        <p><code>datasette-llm</code> is the intermediate plugin for Datasette that suppo",
-        "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
       }
     ],
     "arac": [
       {
-        "date": "16 Kas",
-        "source": "The Verge",
-        "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-        "desc": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.",
-        "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+        "date": "17 Kas",
+        "source": "TechCrunch",
+        "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+        "desc": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+        "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
       },
       {
-        "date": "16 Kas",
-        "source": "TechCrunch Apps",
-        "title": "Island is a new screen-time app that turns staying off your phone into a game",
-        "desc": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
-        "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/"
-      },
-      {
-        "date": "16 Kas",
-        "source": "TechCrunch Apps",
-        "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-        "desc": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
-        "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"
-      },
-      {
-        "date": "16 Kas",
-        "source": "The Verge",
-        "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-        "desc": "Here’s what the new audio discovery feature looks like in the Audible app. | Image: Audible\t\n\nAudible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiob",
-        "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability"
-      },
-      {
-        "date": "16 Kas",
-        "source": "The Verge",
-        "title": "Google Maps can now create trip itineraries for you",
-        "desc": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered A",
-        "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning"
+        "date": "17 Kas",
+        "source": "Product Hunt",
+        "title": "Retriever",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/retriever-4"
       },
       {
         "date": "16 Kas",
         "source": "Product Hunt",
-        "title": "LingoMic",
+        "title": "pushr",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/lingomic"
+        "url": "https://www.producthunt.com/products/pushr"
       },
       {
         "date": "16 Kas",
         "source": "Product Hunt",
-        "title": "ByteVoice",
+        "title": "Bezzle",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/bytevoice"
+        "url": "https://www.producthunt.com/products/bezzle"
+      },
+      {
+        "date": "16 Kas",
+        "source": "Product Hunt",
+        "title": "AWS Emulator",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/aws"
+      },
+      {
+        "date": "16 Kas",
+        "source": "Product Hunt",
+        "title": "Ballet",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/ballet"
+      },
+      {
+        "date": "16 Kas",
+        "source": "Product Hunt",
+        "title": "Clamor",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/clamor-2"
       }
     ]
   }
