@@ -1,59 +1,87 @@
 {
-  "generated_at": "2026-11-17T14:59:14.912Z",
-  "generated_at_tr": "17 Kas 2026",
+  "generated_at": "2026-11-18T00:05:50.010Z",
+  "generated_at_tr": "18 Kas 2026",
   "categories": {
     "ai": [
       {
         "date": "17 Kas",
-        "source": "TechCrunch",
-        "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-        "desc": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
-        "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+        "source": "The Verge",
+        "title": "Satya Nadella says he’s AGI-pilled now",
+        "desc": "Microsoft CEO Satya Nadella on stage at Microsoft Ignite. | Image: Microsoft / YouTube\t\n\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of",
+        "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
       },
       {
         "date": "17 Kas",
-        "source": "TechCrunch",
-        "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-        "desc": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
-        "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
-      },
-      {
-        "date": "17 Kas",
-        "source": "TechCrunch",
-        "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-        "desc": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-        "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/"
-      },
-      {
-        "date": "17 Kas",
-        "source": "Product Hunt",
-        "title": "GatherHQ Agent Research",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/gatherhq-agent-research"
-      },
-      {
-        "date": "17 Kas",
-        "source": "Product Hunt",
-        "title": "Agents API by Recall.ai",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/recall-ai"
-      },
-      {
-        "date": "16 Kas",
         "source": "Simon Willison",
-        "title": "llm 0.37.3",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37.3\">llm 0.37.3</a></p>\n        <p>A bug fix release for <a href=\"https://llm.datasette.io\">LLM</a>, mainly to cover a problem with the ",
-        "url": "https://simonwillison.net/2026/Nov/16/llm/"
+        "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+        "desc": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">GPT‑6.2 Astra and GPT‑6.2 Sol</a></strong></p>\nOpenAI:</p>\n<blockquote>\n<p>We’re introducing GPT‑6.2 Astra, our new frontier model for your har",
+        "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
       },
       {
-        "date": "16 Kas",
-        "source": "TechCrunch",
-        "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-        "desc": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-        "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+        "date": "17 Kas",
+        "source": "The Verge",
+        "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+        "desc": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call",
+        "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
+      },
+      {
+        "date": "17 Kas",
+        "source": "The Verge",
+        "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+        "desc": "Open AI CEO Sam Altman does a television interview | Getty Images\t\n\nInstagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives.\nEarlier in November, Al",
+        "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
+      },
+      {
+        "date": "17 Kas",
+        "source": "The Verge",
+        "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+        "desc": "You can now switch from the “Chat” toggle to “Tasks.” | Image: Google\t\n\nGoogle is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI mod",
+        "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+      },
+      {
+        "date": "17 Kas",
+        "source": "GitHub Blog",
+        "title": "Building the Agent Host Protocol for sessions that continue across devices",
+        "desc": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.\nThe post Building the Agent Host Protocol for sessions that continue across devices a",
+        "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/"
+      },
+      {
+        "date": "17 Kas",
+        "source": "MIT Tech Review",
+        "title": "Hydropower hit record lows in the US Southwest this summer",
+        "desc": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely",
+        "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/"
       }
     ],
     "kod": [
+      {
+        "date": "17 Kas",
+        "source": "Simon Willison",
+        "title": "External sandboxes for coding agents",
+        "desc": "<p><strong><a href=\"https://blog.primeradiant.com/external-sandboxes-for-coding-agents/\">External sandboxes for coding agents</a></strong></p>\nI've been exploring new ways to sandbox code that is executed by agents, with",
+        "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/"
+      },
+      {
+        "date": "17 Kas",
+        "source": "MIT Tech Review",
+        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+        "desc": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Grigg",
+        "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
+      },
+      {
+        "date": "17 Kas",
+        "source": "GitHub Blog",
+        "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+        "desc": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more th",
+        "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/"
+      },
+      {
+        "date": "17 Kas",
+        "source": "Simon Willison",
+        "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+        "desc": "<p><a href=\"https://lite.datasette.io/\">Datasette Lite</a> is my port of the <a href=\"https://datasette.io/\">Datasette</a> Python application to run directly in the browser using WebAssembly and <a href=\"https://pyodide.",
+        "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/"
+      },
       {
         "date": "17 Kas",
         "source": "MIT Tech Review",
@@ -74,44 +102,9 @@
         "title": "Quoting Go Proverbs",
         "desc": "<blockquote cite=\"https://go-proverbs.github.io\"><p>A little copying is better than a little dependency.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://go-proverbs.github.io\">Go Proverbs</a>, <a href=\"https://",
         "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/"
-      },
-      {
-        "date": "16 Kas",
-        "source": "TechCrunch Apps",
-        "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-        "desc": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
-        "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"
-      },
-      {
-        "date": "16 Kas",
-        "source": "The Verge",
-        "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-        "desc": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussion",
-        "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
-      },
-      {
-        "date": "16 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: testing tech promises and searching for cognitive immortality",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you me",
-        "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/"
-      },
-      {
-        "date": "15 Kas",
-        "source": "Simon Willison",
-        "title": "datasette 0.65.6",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.6\">datasette 0.65.6</a></p>\n        <p>I backported a minor security fix from 1.0a43:</p>\n<blockquote>\n<p>Fixed a security issue",
-        "url": "https://simonwillison.net/2026/Nov/15/datasette-2/"
       }
     ],
     "arac": [
-      {
-        "date": "17 Kas",
-        "source": "TechCrunch",
-        "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-        "desc": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-        "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
-      },
       {
         "date": "17 Kas",
         "source": "Product Hunt",
@@ -153,6 +146,13 @@
         "title": "Clamor",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/clamor-2"
+      },
+      {
+        "date": "16 Kas",
+        "source": "Product Hunt",
+        "title": "Lampa Camera",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/lampa-camera"
       }
     ]
   }
