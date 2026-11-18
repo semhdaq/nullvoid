@@ -1,13 +1,48 @@
 {
-  "generated_at": "2026-11-18T00:05:50.010Z",
+  "generated_at": "2026-11-18T14:40:19.795Z",
   "generated_at_tr": "18 Kas 2026",
   "categories": {
     "ai": [
       {
+        "date": "18 Kas",
+        "source": "The Verge",
+        "title": "Will Wright’s next game uses AI to map your memories",
+        "desc": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it s",
+        "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview"
+      },
+      {
+        "date": "18 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: AI learns to smell and hydropower struggles",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, r",
+        "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
+      },
+      {
+        "date": "18 Kas",
+        "source": "The Verge",
+        "title": "Nvidia isn’t selling any more AI chips to China",
+        "desc": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earn",
+        "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+      },
+      {
+        "date": "18 Kas",
+        "source": "The Verge",
+        "title": "Suno now lets you make AI videos for your AI music",
+        "desc": "Here are some of the examples that Suno provided to show what Visuals is capable of. | Image: Suno\t\n\nSuno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The ne",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature"
+      },
+      {
+        "date": "18 Kas",
+        "source": "MIT Tech Review",
+        "title": "This smell startup says its AI nose is as good as a human’s",
+        "desc": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced wi",
+        "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+      },
+      {
         "date": "17 Kas",
         "source": "The Verge",
         "title": "Satya Nadella says he’s AGI-pilled now",
-        "desc": "Microsoft CEO Satya Nadella on stage at Microsoft Ignite. | Image: Microsoft / YouTube\t\n\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of",
+        "desc": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube\t\n\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of ",
         "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
       },
       {
@@ -16,44 +51,23 @@
         "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
         "desc": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">GPT‑6.2 Astra and GPT‑6.2 Sol</a></strong></p>\nOpenAI:</p>\n<blockquote>\n<p>We’re introducing GPT‑6.2 Astra, our new frontier model for your har",
         "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
-      },
-      {
-        "date": "17 Kas",
-        "source": "The Verge",
-        "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-        "desc": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call",
-        "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
-      },
-      {
-        "date": "17 Kas",
-        "source": "The Verge",
-        "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-        "desc": "Open AI CEO Sam Altman does a television interview | Getty Images\t\n\nInstagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives.\nEarlier in November, Al",
-        "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
-      },
-      {
-        "date": "17 Kas",
-        "source": "The Verge",
-        "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-        "desc": "You can now switch from the “Chat” toggle to “Tasks.” | Image: Google\t\n\nGoogle is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI mod",
-        "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
-      },
-      {
-        "date": "17 Kas",
-        "source": "GitHub Blog",
-        "title": "Building the Agent Host Protocol for sessions that continue across devices",
-        "desc": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.\nThe post Building the Agent Host Protocol for sessions that continue across devices a",
-        "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/"
-      },
-      {
-        "date": "17 Kas",
-        "source": "MIT Tech Review",
-        "title": "Hydropower hit record lows in the US Southwest this summer",
-        "desc": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely",
-        "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/"
       }
     ],
     "kod": [
+      {
+        "date": "18 Kas",
+        "source": "Product Hunt",
+        "title": "SoreQen Code",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/soreqen-code"
+      },
+      {
+        "date": "17 Kas",
+        "source": "Product Hunt",
+        "title": "Confidential Cloud",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/confidential-cloud"
+      },
       {
         "date": "17 Kas",
         "source": "Simon Willison",
@@ -88,71 +102,57 @@
         "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
         "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Hu",
         "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
-      },
-      {
-        "date": "17 Kas",
-        "source": "Stack Overflow Blog",
-        "title": "The pioneering coding tricks that built Doom and Quake",
-        "desc": "Ryan chats with John Romero, creator of the WAD file and the video game Doom, about the self-modifying code and blitting techniques that made Wolfenstein run so fast on early PCs, the mod-friendly architecture that turne",
-        "url": "https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/"
-      },
-      {
-        "date": "17 Kas",
-        "source": "Simon Willison",
-        "title": "Quoting Go Proverbs",
-        "desc": "<blockquote cite=\"https://go-proverbs.github.io\"><p>A little copying is better than a little dependency.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://go-proverbs.github.io\">Go Proverbs</a>, <a href=\"https://",
-        "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/"
       }
     ],
     "arac": [
       {
+        "date": "18 Kas",
+        "source": "Product Hunt",
+        "title": "AssemblyAI-STT-3.7",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/assemblyai"
+      },
+      {
+        "date": "18 Kas",
+        "source": "Product Hunt",
+        "title": "worldinmotion",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/worldinmotion"
+      },
+      {
         "date": "17 Kas",
         "source": "Product Hunt",
-        "title": "Retriever",
+        "title": "Diagramly 2.0",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/retriever-4"
+        "url": "https://www.producthunt.com/products/diagramly-2"
       },
       {
-        "date": "16 Kas",
+        "date": "17 Kas",
         "source": "Product Hunt",
-        "title": "pushr",
+        "title": "UI Verify",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/pushr"
+        "url": "https://www.producthunt.com/products/ui-verify"
       },
       {
-        "date": "16 Kas",
+        "date": "17 Kas",
         "source": "Product Hunt",
-        "title": "Bezzle",
+        "title": "Introzy",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/bezzle"
+        "url": "https://www.producthunt.com/products/introzy"
       },
       {
-        "date": "16 Kas",
+        "date": "17 Kas",
         "source": "Product Hunt",
-        "title": "AWS Emulator",
+        "title": "Microsoft IQ",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/aws"
+        "url": "https://www.producthunt.com/products/microsoft-365"
       },
       {
-        "date": "16 Kas",
+        "date": "17 Kas",
         "source": "Product Hunt",
-        "title": "Ballet",
+        "title": "Arcade",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ballet"
-      },
-      {
-        "date": "16 Kas",
-        "source": "Product Hunt",
-        "title": "Clamor",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/clamor-2"
-      },
-      {
-        "date": "16 Kas",
-        "source": "Product Hunt",
-        "title": "Lampa Camera",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/lampa-camera"
+        "url": "https://www.producthunt.com/products/arcade"
       }
     ]
   }
