@@ -1,59 +1,73 @@
 {
-  "generated_at": "2026-11-19T04:42:55.949Z",
+  "generated_at": "2026-11-19T14:46:34.840Z",
   "generated_at_tr": "19 Kas 2026",
   "categories": {
     "ai": [
       {
-        "date": "18 Kas",
+        "date": "19 Kas",
         "source": "The Verge",
-        "title": "The nation’s largest school districts consider ditching Google Search",
-        "desc": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next yea",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
+        "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+        "desc": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
       },
       {
-        "date": "18 Kas",
-        "source": "The Verge",
-        "title": "Trump’s latest land grab is an AI hub in the Philippines",
-        "desc": "President Donald Trump is welcomed upon his arrival at Villamor Air Base on November 17th, 2026, in Manila, Philippines. | Photo: Getty Images\t\n\nPresident Donald Trump was greeted by no less than five beauty queens when ",
-        "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
+        "date": "19 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a reco",
+        "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/"
       },
       {
-        "date": "18 Kas",
+        "date": "19 Kas",
         "source": "The Verge",
-        "title": "Nvidia’s rise, visualized",
-        "desc": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change.\n(function(){f",
-        "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang"
+        "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+        "desc": "Siri Recap can be turned on or off manually from the wrist.\t\n\nWas it worth it?\nI've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Wat",
+        "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on"
       },
       {
-        "date": "18 Kas",
+        "date": "19 Kas",
         "source": "The Verge",
-        "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-        "desc": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits.\nOn ",
-        "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act"
+        "title": "Canva adds an AI ‘off’ button",
+        "desc": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button"
       },
       {
-        "date": "18 Kas",
-        "source": "The Verge",
-        "title": "What is Nvidia without AI’s sugar daddy in charge?",
-        "desc": "Building a successful company means that it can run smoothly without you. Did Jensen Huang actually build a successful company? | Image: The Verge; Getty Images; Adobe\t\n\nIf the glorious AI revolution rests entirely on th",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition"
+        "date": "19 Kas",
+        "source": "MIT Tech Review",
+        "title": "What a billion-dollar deal says about the US battery market",
+        "desc": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to",
+        "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
       },
       {
-        "date": "18 Kas",
-        "source": "The Verge",
-        "title": "Disney’s new Star Wars animatronics interact with guests using AI",
-        "desc": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appea",
-        "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai"
+        "date": "19 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "Chaos, then control: the maturity model most AI rollouts skip over",
+        "desc": "Every engineering org has rolled out AI coding tools by now, but far fewer have actually seen the outcomes they were hoping for.",
+        "url": "https://stackoverflow.blog/2026/11/19/chaos-then-control/"
       },
       {
-        "date": "18 Kas",
-        "source": "Simon Willison",
-        "title": "Quoting Daniel Stenberg",
-        "desc": "<blockquote cite=\"https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/\"><p>During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 co",
-        "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/"
+        "date": "19 Kas",
+        "source": "Product Hunt",
+        "title": "Gemini 4 Neon",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/gemini-6"
       }
     ],
     "kod": [
+      {
+        "date": "19 Kas",
+        "source": "MIT Tech Review",
+        "title": "A human liver has been kept alive outside the body for a record seven weeks",
+        "desc": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending ",
+        "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
+      },
+      {
+        "date": "19 Kas",
+        "source": "Product Hunt",
+        "title": "Adside",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/adside"
+      },
       {
         "date": "18 Kas",
         "source": "Simon Willison",
@@ -64,16 +78,9 @@
       {
         "date": "18 Kas",
         "source": "Product Hunt",
-        "title": "SoreQen Code",
+        "title": "Fieldwork Code",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/soreqen-code"
-      },
-      {
-        "date": "17 Kas",
-        "source": "Product Hunt",
-        "title": "Confidential Cloud",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/confidential-cloud"
+        "url": "https://www.producthunt.com/products/fieldwork-code"
       },
       {
         "date": "17 Kas",
@@ -95,64 +102,57 @@
         "title": "Maintainers don’t need more AI bug reports. They need fixes.",
         "desc": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more th",
         "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/"
-      },
-      {
-        "date": "17 Kas",
-        "source": "Simon Willison",
-        "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-        "desc": "<p><a href=\"https://lite.datasette.io/\">Datasette Lite</a> is my port of the <a href=\"https://datasette.io/\">Datasette</a> Python application to run directly in the browser using WebAssembly and <a href=\"https://pyodide.",
-        "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/"
       }
     ],
     "arac": [
       {
-        "date": "18 Kas",
-        "source": "Simon Willison",
-        "title": "The PSF end-of-year fundraiser",
-        "desc": "<p><strong><a href=\"https://donate.python.org\">The PSF end-of-year fundraiser</a></strong></p>\nWith my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that s",
-        "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/"
+        "date": "19 Kas",
+        "source": "Product Hunt",
+        "title": "Nuko",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/nuko"
+      },
+      {
+        "date": "19 Kas",
+        "source": "Product Hunt",
+        "title": "ToolJet",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/tooljet"
+      },
+      {
+        "date": "19 Kas",
+        "source": "Product Hunt",
+        "title": "Tecla",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/tecla-3"
       },
       {
         "date": "18 Kas",
         "source": "Product Hunt",
-        "title": "AssemblyAI-STT-3.7",
+        "title": "mio click",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/assemblyai"
+        "url": "https://www.producthunt.com/products/mio-click"
       },
       {
         "date": "18 Kas",
         "source": "Product Hunt",
-        "title": "worldinmotion",
+        "title": "Play That Back",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/worldinmotion"
+        "url": "https://www.producthunt.com/products/play-that-back"
       },
       {
-        "date": "17 Kas",
+        "date": "18 Kas",
         "source": "Product Hunt",
-        "title": "Diagramly 2.0",
+        "title": "Rezora IO",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/diagramly-2"
+        "url": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant"
       },
       {
-        "date": "17 Kas",
+        "date": "18 Kas",
         "source": "Product Hunt",
-        "title": "UI Verify",
+        "title": "Alfred 6",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ui-verify"
-      },
-      {
-        "date": "17 Kas",
-        "source": "Product Hunt",
-        "title": "Introzy",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/introzy"
-      },
-      {
-        "date": "17 Kas",
-        "source": "Product Hunt",
-        "title": "Microsoft IQ",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/microsoft-365"
+        "url": "https://www.producthunt.com/products/alfred"
       }
     ]
   }
