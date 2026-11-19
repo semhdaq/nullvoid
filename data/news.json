@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-11-18T14:40:19.795Z",
-  "generated_at_tr": "18 Kas 2026",
+  "generated_at": "2026-11-19T04:42:55.949Z",
+  "generated_at_tr": "19 Kas 2026",
   "categories": {
     "ai": [
       {
         "date": "18 Kas",
         "source": "The Verge",
-        "title": "Will Wright’s next game uses AI to map your memories",
-        "desc": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it s",
-        "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview"
-      },
-      {
-        "date": "18 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: AI learns to smell and hydropower struggles",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, r",
-        "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
+        "title": "The nation’s largest school districts consider ditching Google Search",
+        "desc": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next yea",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
       },
       {
         "date": "18 Kas",
         "source": "The Verge",
-        "title": "Nvidia isn’t selling any more AI chips to China",
-        "desc": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earn",
-        "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+        "title": "Trump’s latest land grab is an AI hub in the Philippines",
+        "desc": "President Donald Trump is welcomed upon his arrival at Villamor Air Base on November 17th, 2026, in Manila, Philippines. | Photo: Getty Images\t\n\nPresident Donald Trump was greeted by no less than five beauty queens when ",
+        "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
       },
       {
         "date": "18 Kas",
         "source": "The Verge",
-        "title": "Suno now lets you make AI videos for your AI music",
-        "desc": "Here are some of the examples that Suno provided to show what Visuals is capable of. | Image: Suno\t\n\nSuno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The ne",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature"
+        "title": "Nvidia’s rise, visualized",
+        "desc": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change.\n(function(){f",
+        "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang"
       },
       {
         "date": "18 Kas",
-        "source": "MIT Tech Review",
-        "title": "This smell startup says its AI nose is as good as a human’s",
-        "desc": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced wi",
-        "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
-      },
-      {
-        "date": "17 Kas",
         "source": "The Verge",
-        "title": "Satya Nadella says he’s AGI-pilled now",
-        "desc": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube\t\n\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of ",
-        "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
+        "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+        "desc": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits.\nOn ",
+        "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act"
       },
       {
-        "date": "17 Kas",
+        "date": "18 Kas",
+        "source": "The Verge",
+        "title": "What is Nvidia without AI’s sugar daddy in charge?",
+        "desc": "Building a successful company means that it can run smoothly without you. Did Jensen Huang actually build a successful company? | Image: The Verge; Getty Images; Adobe\t\n\nIf the glorious AI revolution rests entirely on th",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition"
+      },
+      {
+        "date": "18 Kas",
+        "source": "The Verge",
+        "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+        "desc": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appea",
+        "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai"
+      },
+      {
+        "date": "18 Kas",
         "source": "Simon Willison",
-        "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-        "desc": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">GPT‑6.2 Astra and GPT‑6.2 Sol</a></strong></p>\nOpenAI:</p>\n<blockquote>\n<p>We’re introducing GPT‑6.2 Astra, our new frontier model for your har",
-        "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
+        "title": "Quoting Daniel Stenberg",
+        "desc": "<blockquote cite=\"https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/\"><p>During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 co",
+        "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/"
       }
     ],
     "kod": [
+      {
+        "date": "18 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-arrows 0.1a0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-arrows/releases/tag/0.1a0\">datasette-arrows 0.1a0</a></p>\n        <p><a href=\"https://docs.datasette.io/en/latest/changelog.html#a43-2026-11-15",
+        "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/"
+      },
       {
         "date": "18 Kas",
         "source": "Product Hunt",
@@ -95,16 +102,16 @@
         "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
         "desc": "<p><a href=\"https://lite.datasette.io/\">Datasette Lite</a> is my port of the <a href=\"https://datasette.io/\">Datasette</a> Python application to run directly in the browser using WebAssembly and <a href=\"https://pyodide.",
         "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/"
-      },
-      {
-        "date": "17 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Hu",
-        "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
       }
     ],
     "arac": [
+      {
+        "date": "18 Kas",
+        "source": "Simon Willison",
+        "title": "The PSF end-of-year fundraiser",
+        "desc": "<p><strong><a href=\"https://donate.python.org\">The PSF end-of-year fundraiser</a></strong></p>\nWith my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that s",
+        "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/"
+      },
       {
         "date": "18 Kas",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "Microsoft IQ",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/microsoft-365"
-      },
-      {
-        "date": "17 Kas",
-        "source": "Product Hunt",
-        "title": "Arcade",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/arcade"
       }
     ]
   }
