@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-11-20T14:27:59.499Z",
+  "generated_at": "2026-11-20T23:26:04.984Z",
   "generated_at_tr": "20 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "20 Kas",
+        "source": "The Verge",
+        "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+        "desc": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.\n\"",
+        "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+      },
+      {
+        "date": "20 Kas",
+        "source": "MIT Tech Review",
+        "title": "The most misunderstood graph in AI just got a major update",
+        "desc": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require ju",
+        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+      },
+      {
+        "date": "20 Kas",
+        "source": "The Verge",
+        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+        "desc": "Anthropic went public on November 19th, 2026. | Photo: Getty Images\t\n\nAnthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+      },
+      {
+        "date": "20 Kas",
+        "source": "Simon Willison",
+        "title": "Quoting Levent Alpöge",
+        "desc": "<blockquote cite=\"https://alpo.ge/remark.pdf\"><p>I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized R",
+        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
+      },
       {
         "date": "20 Kas",
         "source": "The Verge",
@@ -19,41 +47,27 @@
       },
       {
         "date": "20 Kas",
-        "source": "Simon Willison",
-        "title": "Token fraud is here and it’s BAD (YouTube)",
-        "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=ZDpP7JXPlhc\">Token fraud is here and it’s BAD (YouTube)</a></strong></p>\nClaire Vo runs <a href=\"https://www.chatprd.ai\">ChatPRD</a>, an AI platform that helps product ",
-        "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/"
-      },
-      {
-        "date": "19 Kas",
-        "source": "The Verge",
-        "title": "Apple is hiring engineers to build its own AI agent",
-        "desc": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg,",
-        "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
-      },
-      {
-        "date": "19 Kas",
-        "source": "The Verge",
-        "title": "A brief history of Nvidia’s recent stock fluctuations",
-        "desc": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images\t\n\n\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
-      },
-      {
-        "date": "19 Kas",
-        "source": "The Verge",
-        "title": "Meta’s Muse Charm might cost $300",
-        "desc": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and sai",
-        "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
-      },
-      {
-        "date": "19 Kas",
-        "source": "The Verge",
-        "title": "Google is putting AI chats right on the homepage",
-        "desc": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.\nBased on the G",
-        "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+        "source": "Product Hunt",
+        "title": "greatai Review",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/greatai-review"
       }
     ],
     "kod": [
+      {
+        "date": "20 Kas",
+        "source": "Simon Willison",
+        "title": "Quoting Ravi Vakil",
+        "desc": "<blockquote cite=\"https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\"><p>Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking c",
+        "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/"
+      },
+      {
+        "date": "20 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "Dispatches from O'Reilly: Inside a software factory",
+        "desc": "Go from vibe coding to generating clean, maintainable code",
+        "url": "https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/"
+      },
       {
         "date": "20 Kas",
         "source": "The Verge",
@@ -88,23 +102,16 @@
         "title": "datasette-arrows 0.1a0",
         "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-arrows/releases/tag/0.1a0\">datasette-arrows 0.1a0</a></p>\n        <p><a href=\"https://docs.datasette.io/en/latest/changelog.html#a43-2026-11-15",
         "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/"
-      },
-      {
-        "date": "17 Kas",
-        "source": "Simon Willison",
-        "title": "External sandboxes for coding agents",
-        "desc": "<p><strong><a href=\"https://blog.primeradiant.com/external-sandboxes-for-coding-agents/\">External sandboxes for coding agents</a></strong></p>\nI've been exploring new ways to sandbox code that is executed by agents, with",
-        "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/"
-      },
-      {
-        "date": "17 Kas",
-        "source": "MIT Tech Review",
-        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-        "desc": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Grigg",
-        "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
       }
     ],
     "arac": [
+      {
+        "date": "20 Kas",
+        "source": "Product Hunt",
+        "title": "Lumyna Community Challenge",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/lumyna-community-challenge"
+      },
       {
         "date": "20 Kas",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "Docker",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/docker"
-      },
-      {
-        "date": "19 Kas",
-        "source": "Product Hunt",
-        "title": "Veryfi Thinking Mode",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/veryfi"
       }
     ]
   }
