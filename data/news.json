@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-11-20T05:07:20.762Z",
+  "generated_at": "2026-11-20T14:27:59.499Z",
   "generated_at_tr": "20 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "20 Kas",
+        "source": "The Verge",
+        "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+        "desc": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal\t\n\nSignal is restricting the ability to take screenshots on Android and iOS d",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+      },
+      {
+        "date": "20 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "Trying to get our Arms around AI efficiency",
+        "desc": "Ryan sits down with Alex Spinelli, Senior Vice President of AI and Developer Platforms at Arm, for a conversation about bringing ML capabilities to edge devices, adapting software tools to meet the unique demands of auto",
+        "url": "https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/"
+      },
       {
         "date": "20 Kas",
         "source": "Simon Willison",
@@ -37,23 +51,23 @@
         "title": "Google is putting AI chats right on the homepage",
         "desc": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.\nBased on the G",
         "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
-      },
-      {
-        "date": "19 Kas",
-        "source": "The Verge",
-        "title": "Anthropic starts trading on Wall Street",
-        "desc": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo: Michael Nagle / Bloomberg via Getty Images\t\n\nAnthropic has officially gone public. It began trading on the Nasdaq under the ti",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
-      },
-      {
-        "date": "19 Kas",
-        "source": "The Verge",
-        "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-        "desc": "ChatGPT can receive  audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
       }
     ],
     "kod": [
+      {
+        "date": "20 Kas",
+        "source": "The Verge",
+        "title": "The week everything fell apart",
+        "desc": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technologic",
+        "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
+      },
+      {
+        "date": "20 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: inside the quest to make our minds immortal",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To ",
+        "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
+      },
       {
         "date": "19 Kas",
         "source": "GitHub Blog",
@@ -69,25 +83,11 @@
         "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
       },
       {
-        "date": "19 Kas",
-        "source": "Product Hunt",
-        "title": "Adside",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/adside"
-      },
-      {
         "date": "18 Kas",
         "source": "Simon Willison",
         "title": "datasette-arrows 0.1a0",
         "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-arrows/releases/tag/0.1a0\">datasette-arrows 0.1a0</a></p>\n        <p><a href=\"https://docs.datasette.io/en/latest/changelog.html#a43-2026-11-15",
         "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/"
-      },
-      {
-        "date": "18 Kas",
-        "source": "Product Hunt",
-        "title": "Fieldwork Code",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/fieldwork-code"
       },
       {
         "date": "17 Kas",
@@ -106,53 +106,53 @@
     ],
     "arac": [
       {
-        "date": "19 Kas",
-        "source": "Simon Willison",
-        "title": "PostgreSQL 19 Released",
-        "desc": "<p><strong><a href=\"https://www.postgresql.org/about/news/postgresql-19-released-3449/\">PostgreSQL 19 Released</a></strong></p>\nMost years PostgreSQL ships a new release in September, but this year's release came two mon",
-        "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/"
+        "date": "20 Kas",
+        "source": "Product Hunt",
+        "title": "Samiksa",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/samiksa"
       },
       {
-        "date": "19 Kas",
-        "source": "The Verge",
-        "title": "Gemini on Mac can now use your computer",
-        "desc": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful fo",
-        "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+        "date": "20 Kas",
+        "source": "Product Hunt",
+        "title": "Mailpipe",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/mailpipe-2"
+      },
+      {
+        "date": "20 Kas",
+        "source": "Product Hunt",
+        "title": "Interview Coach",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/interview-coach-3"
+      },
+      {
+        "date": "20 Kas",
+        "source": "Product Hunt",
+        "title": "Fack’d",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/fack-d"
+      },
+      {
+        "date": "20 Kas",
+        "source": "Product Hunt",
+        "title": "ThreadLore",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/threadlore"
       },
       {
         "date": "19 Kas",
         "source": "Product Hunt",
-        "title": "Nuko",
+        "title": "Docker",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/nuko"
+        "url": "https://www.producthunt.com/products/docker"
       },
       {
         "date": "19 Kas",
         "source": "Product Hunt",
-        "title": "ToolJet",
+        "title": "Veryfi Thinking Mode",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tooljet"
-      },
-      {
-        "date": "19 Kas",
-        "source": "Product Hunt",
-        "title": "Tecla",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tecla-3"
-      },
-      {
-        "date": "18 Kas",
-        "source": "Product Hunt",
-        "title": "mio click",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/mio-click"
-      },
-      {
-        "date": "18 Kas",
-        "source": "Product Hunt",
-        "title": "Play That Back",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/play-that-back"
+        "url": "https://www.producthunt.com/products/veryfi"
       }
     ]
   }
