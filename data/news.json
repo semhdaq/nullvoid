@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-11-19T14:46:34.840Z",
+  "generated_at": "2026-11-19T23:57:06.914Z",
   "generated_at_tr": "19 Kas 2026",
   "categories": {
     "ai": [
       {
         "date": "19 Kas",
         "source": "The Verge",
+        "title": "Apple is hiring engineers to build its own AI agent",
+        "desc": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg,",
+        "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+      },
+      {
+        "date": "19 Kas",
+        "source": "The Verge",
+        "title": "A brief history of Nvidia’s recent stock fluctuations",
+        "desc": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images\t\n\n\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+      },
+      {
+        "date": "19 Kas",
+        "source": "The Verge",
+        "title": "Meta’s Muse Charm might cost $300",
+        "desc": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and sai",
+        "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+      },
+      {
+        "date": "19 Kas",
+        "source": "The Verge",
+        "title": "Google is putting AI chats right on the homepage",
+        "desc": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.\nBased on the G",
+        "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+      },
+      {
+        "date": "19 Kas",
+        "source": "The Verge",
+        "title": "Anthropic starts trading on Wall Street",
+        "desc": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo: Michael Nagle / Bloomberg via Getty Images\t\n\nAnthropic has officially gone public. It began trading on the Nasdaq under the ti",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+      },
+      {
+        "date": "19 Kas",
+        "source": "The Verge",
+        "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+        "desc": "ChatGPT can receive  audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+      },
+      {
+        "date": "19 Kas",
+        "source": "The Verge",
         "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
         "desc": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come.",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
-      },
-      {
-        "date": "19 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a reco",
-        "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/"
-      },
-      {
-        "date": "19 Kas",
-        "source": "The Verge",
-        "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-        "desc": "Siri Recap can be turned on or off manually from the wrist.\t\n\nWas it worth it?\nI've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Wat",
-        "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on"
-      },
-      {
-        "date": "19 Kas",
-        "source": "The Verge",
-        "title": "Canva adds an AI ‘off’ button",
-        "desc": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button"
-      },
-      {
-        "date": "19 Kas",
-        "source": "MIT Tech Review",
-        "title": "What a billion-dollar deal says about the US battery market",
-        "desc": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to",
-        "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
-      },
-      {
-        "date": "19 Kas",
-        "source": "Stack Overflow Blog",
-        "title": "Chaos, then control: the maturity model most AI rollouts skip over",
-        "desc": "Every engineering org has rolled out AI coding tools by now, but far fewer have actually seen the outcomes they were hoping for.",
-        "url": "https://stackoverflow.blog/2026/11/19/chaos-then-control/"
-      },
-      {
-        "date": "19 Kas",
-        "source": "Product Hunt",
-        "title": "Gemini 4 Neon",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/gemini-6"
       }
     ],
     "kod": [
+      {
+        "date": "19 Kas",
+        "source": "GitHub Blog",
+        "title": "The best things in open source are built together",
+        "desc": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion.\nThe post The best things in open source are built together appeared first on The GitHub Blog.",
+        "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/"
+      },
       {
         "date": "19 Kas",
         "source": "MIT Tech Review",
@@ -83,28 +90,35 @@
         "url": "https://www.producthunt.com/products/fieldwork-code"
       },
       {
+        "date": "18 Kas",
+        "source": "Product Hunt",
+        "title": "SoreQen Code",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/soreqen-code"
+      },
+      {
         "date": "17 Kas",
         "source": "Simon Willison",
         "title": "External sandboxes for coding agents",
         "desc": "<p><strong><a href=\"https://blog.primeradiant.com/external-sandboxes-for-coding-agents/\">External sandboxes for coding agents</a></strong></p>\nI've been exploring new ways to sandbox code that is executed by agents, with",
         "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/"
-      },
-      {
-        "date": "17 Kas",
-        "source": "MIT Tech Review",
-        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-        "desc": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Grigg",
-        "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
-      },
-      {
-        "date": "17 Kas",
-        "source": "GitHub Blog",
-        "title": "Maintainers don’t need more AI bug reports. They need fixes.",
-        "desc": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more th",
-        "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/"
       }
     ],
     "arac": [
+      {
+        "date": "19 Kas",
+        "source": "Simon Willison",
+        "title": "PostgreSQL 19 Released",
+        "desc": "<p><strong><a href=\"https://www.postgresql.org/about/news/postgresql-19-released-3449/\">PostgreSQL 19 Released</a></strong></p>\nMost years PostgreSQL ships a new release in September, but this year's release came two mon",
+        "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/"
+      },
+      {
+        "date": "19 Kas",
+        "source": "The Verge",
+        "title": "Gemini on Mac can now use your computer",
+        "desc": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful fo",
+        "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+      },
       {
         "date": "19 Kas",
         "source": "Product Hunt",
@@ -139,20 +153,6 @@
         "title": "Play That Back",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/play-that-back"
-      },
-      {
-        "date": "18 Kas",
-        "source": "Product Hunt",
-        "title": "Rezora IO",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant"
-      },
-      {
-        "date": "18 Kas",
-        "source": "Product Hunt",
-        "title": "Alfred 6",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/alfred"
       }
     ]
   }
