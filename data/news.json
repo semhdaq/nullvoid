@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-19T23:57:06.914Z",
-  "generated_at_tr": "19 Kas 2026",
+  "generated_at": "2026-11-20T05:07:20.762Z",
+  "generated_at_tr": "20 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "20 Kas",
+        "source": "Simon Willison",
+        "title": "Token fraud is here and it’s BAD (YouTube)",
+        "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=ZDpP7JXPlhc\">Token fraud is here and it’s BAD (YouTube)</a></strong></p>\nClaire Vo runs <a href=\"https://www.chatprd.ai\">ChatPRD</a>, an AI platform that helps product ",
+        "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/"
+      },
       {
         "date": "19 Kas",
         "source": "The Verge",
@@ -44,13 +51,6 @@
         "title": "ChatGPT can transcribe as you speak now with Live Dictation",
         "desc": "ChatGPT can receive  audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
-      },
-      {
-        "date": "19 Kas",
-        "source": "The Verge",
-        "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-        "desc": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come.",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
       }
     ],
     "kod": [
@@ -90,18 +90,18 @@
         "url": "https://www.producthunt.com/products/fieldwork-code"
       },
       {
-        "date": "18 Kas",
-        "source": "Product Hunt",
-        "title": "SoreQen Code",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/soreqen-code"
-      },
-      {
         "date": "17 Kas",
         "source": "Simon Willison",
         "title": "External sandboxes for coding agents",
         "desc": "<p><strong><a href=\"https://blog.primeradiant.com/external-sandboxes-for-coding-agents/\">External sandboxes for coding agents</a></strong></p>\nI've been exploring new ways to sandbox code that is executed by agents, with",
         "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/"
+      },
+      {
+        "date": "17 Kas",
+        "source": "MIT Tech Review",
+        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+        "desc": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Grigg",
+        "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
       }
     ],
     "arac": [
