@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T23:26:04.984Z",
-  "generated_at_tr": "20 Kas 2026",
+  "generated_at": "2026-11-21T13:47:16.080Z",
+  "generated_at_tr": "21 Kas 2026",
   "categories": {
     "ai": [
       {
@@ -47,10 +47,10 @@
       },
       {
         "date": "20 Kas",
-        "source": "Product Hunt",
-        "title": "greatai Review",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/greatai-review"
+        "source": "Simon Willison",
+        "title": "Token fraud is here and it’s BAD (YouTube)",
+        "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=ZDpP7JXPlhc\">Token fraud is here and it’s BAD (YouTube)</a></strong></p>\nClaire Vo runs <a href=\"https://www.chatprd.ai\">ChatPRD</a>, an AI platform that helps product ",
+        "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/"
       }
     ],
     "kod": [
@@ -108,6 +108,34 @@
       {
         "date": "20 Kas",
         "source": "Product Hunt",
+        "title": "WaitFeed",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/waitfeed-2"
+      },
+      {
+        "date": "20 Kas",
+        "source": "Product Hunt",
+        "title": "Stitch Loop",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/stitch-loop"
+      },
+      {
+        "date": "20 Kas",
+        "source": "Product Hunt",
+        "title": "Smorza",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/smorza"
+      },
+      {
+        "date": "20 Kas",
+        "source": "Product Hunt",
+        "title": "gitroots",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/gitroots"
+      },
+      {
+        "date": "20 Kas",
+        "source": "Product Hunt",
         "title": "Lumyna Community Challenge",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/lumyna-community-challenge"
@@ -122,37 +150,9 @@
       {
         "date": "20 Kas",
         "source": "Product Hunt",
-        "title": "Mailpipe",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/mailpipe-2"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Product Hunt",
         "title": "Interview Coach",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/interview-coach-3"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Product Hunt",
-        "title": "Fack’d",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/fack-d"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Product Hunt",
-        "title": "ThreadLore",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/threadlore"
-      },
-      {
-        "date": "19 Kas",
-        "source": "Product Hunt",
-        "title": "Docker",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/docker"
       }
     ]
   }
