@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-11-21T13:47:16.080Z",
+  "generated_at": "2026-11-21T22:30:06.138Z",
   "generated_at_tr": "21 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "21 Kas",
+        "source": "The Verge",
+        "title": "The UN fails to agree on rules regulating ‘killer robots’",
+        "desc": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings a",
+        "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+      },
+      {
+        "date": "21 Kas",
+        "source": "The Verge",
+        "title": "Can Anthropic afford to put safety first?",
+        "desc": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life.\nThe AI lab behind Claude went public on the Nasdaq last T",
+        "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+      },
       {
         "date": "20 Kas",
         "source": "The Verge",
@@ -37,20 +51,6 @@
         "title": "Signal is blocking Gemini and Siri AI from reading your screen",
         "desc": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal\t\n\nSignal is restricting the ability to take screenshots on Android and iOS d",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Stack Overflow Blog",
-        "title": "Trying to get our Arms around AI efficiency",
-        "desc": "Ryan sits down with Alex Spinelli, Senior Vice President of AI and Developer Platforms at Arm, for a conversation about bringing ML capabilities to edge devices, adapting software tools to meet the unique demands of auto",
-        "url": "https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Simon Willison",
-        "title": "Token fraud is here and it’s BAD (YouTube)",
-        "desc": "<p><strong><a href=\"https://www.youtube.com/watch?v=ZDpP7JXPlhc\">Token fraud is here and it’s BAD (YouTube)</a></strong></p>\nClaire Vo runs <a href=\"https://www.chatprd.ai\">ChatPRD</a>, an AI platform that helps product ",
-        "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/"
       }
     ],
     "kod": [
@@ -106,6 +106,13 @@
     ],
     "arac": [
       {
+        "date": "21 Kas",
+        "source": "The Verge",
+        "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+        "desc": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, ",
+        "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+      },
+      {
         "date": "20 Kas",
         "source": "Product Hunt",
         "title": "WaitFeed",
@@ -146,13 +153,6 @@
         "title": "Samiksa",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/samiksa"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Product Hunt",
-        "title": "Interview Coach",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/interview-coach-3"
       }
     ]
   }
