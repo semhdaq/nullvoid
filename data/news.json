@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T22:30:06.138Z",
-  "generated_at_tr": "21 Kas 2026",
+  "generated_at": "2026-11-22T03:42:01.929Z",
+  "generated_at_tr": "22 Kas 2026",
   "categories": {
     "ai": [
       {
@@ -55,6 +55,13 @@
     ],
     "kod": [
       {
+        "date": "21 Kas",
+        "source": "Simon Willison",
+        "title": "Muru",
+        "desc": "<p><strong><a href=\"https://github.com/muruhq/muru\">Muru</a></strong></p>\nGraham Dumpleton started <a href=\"https://modwsgi.readthedocs.io/\">mod_wsgi</a> 20 years ago, and has been thinking about the ideal way to serve P",
+        "url": "https://simonwillison.net/2026/Nov/21/muru/"
+      },
+      {
         "date": "20 Kas",
         "source": "Simon Willison",
         "title": "Quoting Ravi Vakil",
@@ -95,13 +102,6 @@
         "title": "A human liver has been kept alive outside the body for a record seven weeks",
         "desc": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending ",
         "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
-      },
-      {
-        "date": "18 Kas",
-        "source": "Simon Willison",
-        "title": "datasette-arrows 0.1a0",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-arrows/releases/tag/0.1a0\">datasette-arrows 0.1a0</a></p>\n        <p><a href=\"https://docs.datasette.io/en/latest/changelog.html#a43-2026-11-15",
-        "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/"
       }
     ],
     "arac": [
