@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:42:01.929Z",
+  "generated_at": "2026-11-22T13:40:47.032Z",
   "generated_at_tr": "22 Kas 2026",
   "categories": {
     "ai": [
@@ -55,6 +55,13 @@
     ],
     "kod": [
       {
+        "date": "22 Kas",
+        "source": "The Verge",
+        "title": "The vibe-coding revolution is coming to all the gadgets",
+        "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday",
+        "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+      },
+      {
         "date": "21 Kas",
         "source": "Simon Willison",
         "title": "Muru",
@@ -95,16 +102,23 @@
         "title": "The best things in open source are built together",
         "desc": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion.\nThe post The best things in open source are built together appeared first on The GitHub Blog.",
         "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/"
-      },
-      {
-        "date": "19 Kas",
-        "source": "MIT Tech Review",
-        "title": "A human liver has been kept alive outside the body for a record seven weeks",
-        "desc": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending ",
-        "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
       }
     ],
     "arac": [
+      {
+        "date": "21 Kas",
+        "source": "Product Hunt",
+        "title": "oovi",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/oovi"
+      },
+      {
+        "date": "21 Kas",
+        "source": "Product Hunt",
+        "title": "Resurf",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/resurf-2"
+      },
       {
         "date": "21 Kas",
         "source": "The Verge",
@@ -113,46 +127,32 @@
         "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
       },
       {
+        "date": "21 Kas",
+        "source": "Product Hunt",
+        "title": "Verge: Corner Controls",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/verge-corner-controls"
+      },
+      {
+        "date": "21 Kas",
+        "source": "Product Hunt",
+        "title": "Omi CLI",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/omi-cli"
+      },
+      {
+        "date": "20 Kas",
+        "source": "Product Hunt",
+        "title": "Creavit Studio 4.0",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/creavit-studio"
+      },
+      {
         "date": "20 Kas",
         "source": "Product Hunt",
         "title": "WaitFeed",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/waitfeed-2"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Product Hunt",
-        "title": "Stitch Loop",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/stitch-loop"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Product Hunt",
-        "title": "Smorza",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/smorza"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Product Hunt",
-        "title": "gitroots",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/gitroots"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Product Hunt",
-        "title": "Lumyna Community Challenge",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/lumyna-community-challenge"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Product Hunt",
-        "title": "Samiksa",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/samiksa"
       }
     ]
   }
