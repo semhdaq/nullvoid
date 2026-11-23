@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-11-23T04:17:37.260Z",
+  "generated_at": "2026-11-23T16:38:23.848Z",
   "generated_at_tr": "23 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "23 Kas",
+        "source": "The Verge",
+        "title": "Tech leaders are celebrating Jensen Huang’s return",
+        "desc": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indis",
+        "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
+      },
+      {
+        "date": "23 Kas",
+        "source": "The Verge",
+        "title": "Jensen Huang is back as Nvidia’s CEO",
+        "desc": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which t",
+        "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
+      },
+      {
+        "date": "23 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the A",
+        "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
+      },
+      {
+        "date": "23 Kas",
+        "source": "The Verge",
+        "title": "Meta Muse can do your Black Friday shopping at Walmart",
+        "desc": "Muse can find Walmart’s Black Friday deals so that you don’t have to. | Image: Walmart\t\n\nWalmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's S",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
+      },
       {
         "date": "22 Kas",
         "source": "The Verge",
@@ -11,46 +39,18 @@
         "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
       },
       {
+        "date": "22 Kas",
+        "source": "Product Hunt",
+        "title": "Mobile Agent Testers",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/mobile-agent-testers"
+      },
+      {
         "date": "21 Kas",
         "source": "The Verge",
         "title": "The UN fails to agree on rules regulating ‘killer robots’",
         "desc": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings a",
         "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
-      },
-      {
-        "date": "21 Kas",
-        "source": "The Verge",
-        "title": "Can Anthropic afford to put safety first?",
-        "desc": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life.\nThe AI lab behind Claude went public on the Nasdaq last T",
-        "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
-      },
-      {
-        "date": "20 Kas",
-        "source": "The Verge",
-        "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-        "desc": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.\n\"",
-        "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
-      },
-      {
-        "date": "20 Kas",
-        "source": "MIT Tech Review",
-        "title": "The most misunderstood graph in AI just got a major update",
-        "desc": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require ju",
-        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
-      },
-      {
-        "date": "20 Kas",
-        "source": "The Verge",
-        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-        "desc": "Anthropic went public on November 19th, 2026. | Photo: Getty Images\t\n\nAnthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Simon Willison",
-        "title": "Quoting Levent Alpöge",
-        "desc": "<blockquote cite=\"https://alpo.ge/remark.pdf\"><p>I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized R",
-        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
       }
     ],
     "kod": [
@@ -60,6 +60,13 @@
         "title": "We haven’t seen the last of the major tech outages",
         "desc": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are m",
         "url": "https://www.theverge.com/tech/1039851/major-tech-outages"
+      },
+      {
+        "date": "22 Kas",
+        "source": "Product Hunt",
+        "title": "Open Source Solana Wallet",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/open-source-solana-wallet"
       },
       {
         "date": "22 Kas",
@@ -95,64 +102,57 @@
         "title": "Dispatches from O'Reilly: Inside a software factory",
         "desc": "Go from vibe coding to generating clean, maintainable code",
         "url": "https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/"
-      },
-      {
-        "date": "20 Kas",
-        "source": "The Verge",
-        "title": "The week everything fell apart",
-        "desc": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technologic",
-        "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
       }
     ],
     "arac": [
       {
-        "date": "21 Kas",
-        "source": "Product Hunt",
-        "title": "oovi",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/oovi"
+        "date": "23 Kas",
+        "source": "MIT Tech Review",
+        "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+        "desc": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials a",
+        "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
       },
       {
-        "date": "21 Kas",
+        "date": "23 Kas",
         "source": "Product Hunt",
-        "title": "Resurf",
+        "title": "Inkling 2 Mini",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/resurf-2"
+        "url": "https://www.producthunt.com/products/tinker-2"
       },
       {
-        "date": "21 Kas",
-        "source": "The Verge",
-        "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-        "desc": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, ",
-        "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+        "date": "22 Kas",
+        "source": "Product Hunt",
+        "title": "FigmaMCP",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/figmamcp"
       },
       {
-        "date": "21 Kas",
+        "date": "22 Kas",
         "source": "Product Hunt",
-        "title": "Verge: Corner Controls",
+        "title": "Strict",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/verge-corner-controls"
+        "url": "https://www.producthunt.com/products/strict"
       },
       {
-        "date": "21 Kas",
+        "date": "22 Kas",
         "source": "Product Hunt",
-        "title": "Omi CLI",
+        "title": "Branchery",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/omi-cli"
+        "url": "https://www.producthunt.com/products/branchery"
       },
       {
-        "date": "20 Kas",
+        "date": "22 Kas",
         "source": "Product Hunt",
-        "title": "Creavit Studio 4.0",
+        "title": "Ashwa",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/creavit-studio"
+        "url": "https://www.producthunt.com/products/ashwa"
       },
       {
-        "date": "20 Kas",
+        "date": "22 Kas",
         "source": "Product Hunt",
-        "title": "WaitFeed",
+        "title": "Replit Missions",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/waitfeed-2"
+        "url": "https://www.producthunt.com/products/replit"
       }
     ]
   }
