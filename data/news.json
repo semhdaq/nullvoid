@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T22:53:19.353Z",
-  "generated_at_tr": "22 Kas 2026",
+  "generated_at": "2026-11-23T04:17:37.260Z",
+  "generated_at_tr": "23 Kas 2026",
   "categories": {
     "ai": [
       {
@@ -63,6 +63,13 @@
       },
       {
         "date": "22 Kas",
+        "source": "Simon Willison",
+        "title": "Select Styling Specimens",
+        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/select-styling\">Select Styling Specimens</a></p>\n        <p>I got frustrated at how HTML <code>&lt;select&gt;</code> boxes default to looking different i",
+        "url": "https://simonwillison.net/2026/Nov/22/select-styling/"
+      },
+      {
+        "date": "22 Kas",
         "source": "The Verge",
         "title": "The vibe-coding revolution is coming to all the gadgets",
         "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday",
@@ -95,13 +102,6 @@
         "title": "The week everything fell apart",
         "desc": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technologic",
         "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
-      },
-      {
-        "date": "20 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: inside the quest to make our minds immortal",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To ",
-        "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
       }
     ],
     "arac": [
