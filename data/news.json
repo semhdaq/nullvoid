@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-11-24T03:31:10.082Z",
+  "generated_at": "2026-11-24T16:34:15.717Z",
   "generated_at_tr": "24 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "24 Kas",
+        "source": "The Verge",
+        "title": "Jensen Huang deepfakes are the hot new AI slop",
+        "desc": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jack",
+        "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
+      },
+      {
+        "date": "24 Kas",
+        "source": "MIT Tech Review",
+        "title": "Raising the stakes for enterprise networks with AI modernization",
+        "desc": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tas",
+        "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
+      },
+      {
+        "date": "24 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: AI’s gas power boom and a consciousness reality check",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obs",
+        "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/"
+      },
+      {
+        "date": "24 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "Agent swarms need more than a message board",
+        "desc": "Agent swarms are really distributed systems problems in disguise.",
+        "url": "https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/"
+      },
+      {
+        "date": "24 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-agent 0.7a1",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.7a1\">datasette-agent 0.7a1</a></p>\n        <p>A small improvement to <a href=\"https://agent.datasette.io/\">Datasette Agent",
+        "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/"
+      },
       {
         "date": "23 Kas",
         "source": "Simon Willison",
@@ -16,44 +51,37 @@
         "title": "AI data centers throw another wrench into chaotic UN climate talks",
         "desc": "People protest outside the plenary ahead of the closing plenary session on the final day of the COP31 UNFCCC climate conference on November 20th in Antalya, Turkey. | Photo: Getty Images\t\n\nThe clean energy revolution hin",
         "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
-      },
-      {
-        "date": "23 Kas",
-        "source": "The Verge",
-        "title": "Claude AI can review pull requests and ship fixes on its own now",
-        "desc": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.\nEngineers have a",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
-      },
-      {
-        "date": "23 Kas",
-        "source": "The Verge",
-        "title": "How Jensen Huang ended up as Nvidia CEO again",
-        "desc": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over",
-        "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
-      },
-      {
-        "date": "23 Kas",
-        "source": "The Verge",
-        "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-        "desc": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-gen",
-        "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
-      },
-      {
-        "date": "23 Kas",
-        "source": "The Verge",
-        "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-        "desc": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safe",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
-      },
-      {
-        "date": "23 Kas",
-        "source": "MIT Tech Review",
-        "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-        "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be co",
-        "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
       }
     ],
     "kod": [
+      {
+        "date": "24 Kas",
+        "source": "GitHub Blog",
+        "title": "These are the gifts developers will actually want",
+        "desc": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long.\nThe post These are the gifts developers will actually want appear",
+        "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/"
+      },
+      {
+        "date": "24 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "A Reboot Is Still a Deployment",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment/"
+      },
+      {
+        "date": "24 Kas",
+        "source": "MIT Tech Review",
+        "title": "Data centers are getting their own natural gas power plants",
+        "desc": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to ",
+        "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
+      },
+      {
+        "date": "24 Kas",
+        "source": "Product Hunt",
+        "title": "Kodak SlideTag",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/kodak-slidetag"
+      },
       {
         "date": "23 Kas",
         "source": "The Verge",
@@ -74,85 +102,57 @@
         "title": "Welcome to elite impunity, Jensen Huang",
         "desc": "Too big to fail, the sequel. | Image: The Verge; Getty Images\t\n\nI suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
-      },
-      {
-        "date": "23 Kas",
-        "source": "The Verge",
-        "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-        "desc": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a g",
-        "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated"
-      },
-      {
-        "date": "23 Kas",
-        "source": "Simon Willison",
-        "title": "datasette-charts 0.1a0",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.1a0\">datasette-charts 0.1a0</a></p>\n        <p>I've been thinking about this problem for over a year now, but on Sunday I",
-        "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/"
-      },
-      {
-        "date": "22 Kas",
-        "source": "Product Hunt",
-        "title": "Open Source Solana Wallet",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/open-source-solana-wallet"
-      },
-      {
-        "date": "22 Kas",
-        "source": "Simon Willison",
-        "title": "Select Styling Specimens",
-        "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/select-styling\">Select Styling Specimens</a></p>\n        <p>I got frustrated at how HTML <code>&lt;select&gt;</code> boxes default to looking different i",
-        "url": "https://simonwillison.net/2026/Nov/22/select-styling/"
       }
     ],
     "arac": [
       {
-        "date": "23 Kas",
+        "date": "24 Kas",
+        "source": "The Verge",
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "desc": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+      },
+      {
+        "date": "24 Kas",
+        "source": "Product Hunt",
+        "title": "Willow iOS 2.0",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/willow-voice"
+      },
+      {
+        "date": "24 Kas",
+        "source": "Product Hunt",
+        "title": "Agenda Hero Magic Labs",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/agenda-hero-magic"
+      },
+      {
+        "date": "24 Kas",
+        "source": "Product Hunt",
+        "title": "Hourly Journal",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/hourly-journal"
+      },
+      {
+        "date": "24 Kas",
+        "source": "Product Hunt",
+        "title": "Finer Screenshot",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/finer-screenshot"
+      },
+      {
+        "date": "24 Kas",
         "source": "Simon Willison",
-        "title": "Ladybird's first alpha release",
-        "desc": "<p><a href=\"https://ladybird.org\">Ladybird</a> is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even",
-        "url": "https://simonwillison.net/2026/Nov/23/ladybird/"
+        "title": "datasette-charts 0.2a0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.2a0\">datasette-charts 0.2a0</a></p>\n        <p>I introduced this new charting plugin for Datasette <a href=\"https://simon",
+        "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/"
       },
       {
-        "date": "23 Kas",
-        "source": "MIT Tech Review",
-        "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-        "desc": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials a",
-        "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
-      },
-      {
-        "date": "23 Kas",
+        "date": "24 Kas",
         "source": "Product Hunt",
-        "title": "Inkling 2 Mini",
+        "title": "Juncts",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/tinker-2"
-      },
-      {
-        "date": "22 Kas",
-        "source": "Product Hunt",
-        "title": "FigmaMCP",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/figmamcp"
-      },
-      {
-        "date": "22 Kas",
-        "source": "Product Hunt",
-        "title": "Strict",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/strict"
-      },
-      {
-        "date": "22 Kas",
-        "source": "Product Hunt",
-        "title": "Branchery",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/branchery"
-      },
-      {
-        "date": "22 Kas",
-        "source": "Product Hunt",
-        "title": "Ashwa",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/ashwa"
+        "url": "https://www.producthunt.com/products/juncts"
       }
     ]
   }
