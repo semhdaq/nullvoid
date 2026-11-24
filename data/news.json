@@ -1,65 +1,93 @@
 {
-  "generated_at": "2026-11-23T16:38:23.848Z",
-  "generated_at_tr": "23 Kas 2026",
+  "generated_at": "2026-11-24T03:31:10.082Z",
+  "generated_at_tr": "24 Kas 2026",
   "categories": {
     "ai": [
       {
         "date": "23 Kas",
-        "source": "The Verge",
-        "title": "Tech leaders are celebrating Jensen Huang’s return",
-        "desc": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indis",
-        "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
+        "source": "Simon Willison",
+        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "desc": "<p><strong><a href=\"https://z.ai/blog/glm-5.4\">GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</a></strong></p>\nGLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped",
+        "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
       },
       {
         "date": "23 Kas",
         "source": "The Verge",
-        "title": "Jensen Huang is back as Nvidia’s CEO",
-        "desc": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which t",
-        "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
+        "title": "AI data centers throw another wrench into chaotic UN climate talks",
+        "desc": "People protest outside the plenary ahead of the closing plenary session on the final day of the COP31 UNFCCC climate conference on November 20th in Antalya, Turkey. | Photo: Getty Images\t\n\nThe clean energy revolution hin",
+        "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
+      },
+      {
+        "date": "23 Kas",
+        "source": "The Verge",
+        "title": "Claude AI can review pull requests and ship fixes on its own now",
+        "desc": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.\nEngineers have a",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+      },
+      {
+        "date": "23 Kas",
+        "source": "The Verge",
+        "title": "How Jensen Huang ended up as Nvidia CEO again",
+        "desc": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over",
+        "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+      },
+      {
+        "date": "23 Kas",
+        "source": "The Verge",
+        "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+        "desc": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-gen",
+        "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
+      },
+      {
+        "date": "23 Kas",
+        "source": "The Verge",
+        "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+        "desc": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safe",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
       },
       {
         "date": "23 Kas",
         "source": "MIT Tech Review",
-        "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the A",
-        "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
-      },
-      {
-        "date": "23 Kas",
-        "source": "The Verge",
-        "title": "Meta Muse can do your Black Friday shopping at Walmart",
-        "desc": "Muse can find Walmart’s Black Friday deals so that you don’t have to. | Image: Walmart\t\n\nWalmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's S",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
-      },
-      {
-        "date": "22 Kas",
-        "source": "The Verge",
-        "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-        "desc": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs ",
-        "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
-      },
-      {
-        "date": "22 Kas",
-        "source": "Product Hunt",
-        "title": "Mobile Agent Testers",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/mobile-agent-testers"
-      },
-      {
-        "date": "21 Kas",
-        "source": "The Verge",
-        "title": "The UN fails to agree on rules regulating ‘killer robots’",
-        "desc": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings a",
-        "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+        "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+        "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be co",
+        "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
       }
     ],
     "kod": [
       {
-        "date": "22 Kas",
+        "date": "23 Kas",
         "source": "The Verge",
-        "title": "We haven’t seen the last of the major tech outages",
-        "desc": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are m",
-        "url": "https://www.theverge.com/tech/1039851/major-tech-outages"
+        "title": "Trump engineered a risky comeback for Jensen Huang",
+        "desc": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on St",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+      },
+      {
+        "date": "23 Kas",
+        "source": "The Verge",
+        "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+        "desc": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Tim",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+      },
+      {
+        "date": "23 Kas",
+        "source": "The Verge",
+        "title": "Welcome to elite impunity, Jensen Huang",
+        "desc": "Too big to fail, the sequel. | Image: The Verge; Getty Images\t\n\nI suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
+      },
+      {
+        "date": "23 Kas",
+        "source": "The Verge",
+        "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+        "desc": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a g",
+        "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated"
+      },
+      {
+        "date": "23 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-charts 0.1a0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.1a0\">datasette-charts 0.1a0</a></p>\n        <p>I've been thinking about this problem for over a year now, but on Sunday I",
+        "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/"
       },
       {
         "date": "22 Kas",
@@ -74,37 +102,16 @@
         "title": "Select Styling Specimens",
         "desc": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/select-styling\">Select Styling Specimens</a></p>\n        <p>I got frustrated at how HTML <code>&lt;select&gt;</code> boxes default to looking different i",
         "url": "https://simonwillison.net/2026/Nov/22/select-styling/"
-      },
-      {
-        "date": "22 Kas",
-        "source": "The Verge",
-        "title": "The vibe-coding revolution is coming to all the gadgets",
-        "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday",
-        "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
-      },
-      {
-        "date": "21 Kas",
-        "source": "Simon Willison",
-        "title": "Muru",
-        "desc": "<p><strong><a href=\"https://github.com/muruhq/muru\">Muru</a></strong></p>\nGraham Dumpleton started <a href=\"https://modwsgi.readthedocs.io/\">mod_wsgi</a> 20 years ago, and has been thinking about the ideal way to serve P",
-        "url": "https://simonwillison.net/2026/Nov/21/muru/"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Simon Willison",
-        "title": "Quoting Ravi Vakil",
-        "desc": "<blockquote cite=\"https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\"><p>Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking c",
-        "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/"
-      },
-      {
-        "date": "20 Kas",
-        "source": "Stack Overflow Blog",
-        "title": "Dispatches from O'Reilly: Inside a software factory",
-        "desc": "Go from vibe coding to generating clean, maintainable code",
-        "url": "https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/"
       }
     ],
     "arac": [
+      {
+        "date": "23 Kas",
+        "source": "Simon Willison",
+        "title": "Ladybird's first alpha release",
+        "desc": "<p><a href=\"https://ladybird.org\">Ladybird</a> is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even",
+        "url": "https://simonwillison.net/2026/Nov/23/ladybird/"
+      },
       {
         "date": "23 Kas",
         "source": "MIT Tech Review",
@@ -146,13 +153,6 @@
         "title": "Ashwa",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/ashwa"
-      },
-      {
-        "date": "22 Kas",
-        "source": "Product Hunt",
-        "title": "Replit Missions",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/replit"
       }
     ]
   }
