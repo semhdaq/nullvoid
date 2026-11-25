@@ -1,59 +1,80 @@
 {
-  "generated_at": "2026-11-24T16:34:15.717Z",
-  "generated_at_tr": "24 Kas 2026",
+  "generated_at": "2026-11-25T16:17:16.172Z",
+  "generated_at_tr": "25 Kas 2026",
   "categories": {
     "ai": [
       {
-        "date": "24 Kas",
+        "date": "25 Kas",
         "source": "The Verge",
-        "title": "Jensen Huang deepfakes are the hot new AI slop",
-        "desc": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jack",
-        "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
+        "title": "Nothing offers a full look at its AI earbuds and charging case",
+        "desc": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize yo",
+        "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+      },
+      {
+        "date": "25 Kas",
+        "source": "GitHub Blog",
+        "title": "Art of play in the age of AI",
+        "desc": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers.\nThe post Art of play in the age of AI appeared first on T",
+        "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/"
+      },
+      {
+        "date": "25 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "When AI Writes the Code, What Counts as Evidence?",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/"
+      },
+      {
+        "date": "25 Kas",
+        "source": "The Verge",
+        "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+        "desc": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of prod",
+        "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+      },
+      {
+        "date": "25 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: AI swamping open records, and firefighting for permafrost",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ inter",
+        "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/"
+      },
+      {
+        "date": "25 Kas",
+        "source": "MIT Tech Review",
+        "title": "AI is straining America’s open records systems",
+        "desc": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During mor",
+        "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
       },
       {
         "date": "24 Kas",
-        "source": "MIT Tech Review",
-        "title": "Raising the stakes for enterprise networks with AI modernization",
-        "desc": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tas",
-        "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
-      },
+        "source": "Simon Willison",
+        "title": "Three LLM inflection points in twelve months",
+        "desc": "<p>I gave a keynote at the <a href=\"https://ai.engineer/code/2026\">AI Engineer Code Summit</a> a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities ",
+        "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+      }
+    ],
+    "kod": [
       {
-        "date": "24 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: AI’s gas power boom and a consciousness reality check",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obs",
-        "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/"
+        "date": "25 Kas",
+        "source": "The Verge",
+        "title": "Has vibe coding made open source the new normal for synths?",
+        "desc": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have rem",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
       },
       {
         "date": "24 Kas",
         "source": "Stack Overflow Blog",
-        "title": "Agent swarms need more than a message board",
-        "desc": "Agent swarms are really distributed systems problems in disguise.",
-        "url": "https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/"
+        "title": "Idempotency when you don't control the other end",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/11/24/idempotency-when-you-don-t-control-the-other-end/"
       },
       {
         "date": "24 Kas",
-        "source": "Simon Willison",
-        "title": "datasette-agent 0.7a1",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.7a1\">datasette-agent 0.7a1</a></p>\n        <p>A small improvement to <a href=\"https://agent.datasette.io/\">Datasette Agent",
-        "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/"
+        "source": "Stack Overflow Blog",
+        "title": "Prompt Injection Fixes Need Regression Tests",
+        "desc": "",
+        "url": "https://stackoverflow.blog/2026/11/24/prompt-injection-fixes-need-regression-tests/"
       },
-      {
-        "date": "23 Kas",
-        "source": "Simon Willison",
-        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-        "desc": "<p><strong><a href=\"https://z.ai/blog/glm-5.4\">GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</a></strong></p>\nGLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped",
-        "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
-      },
-      {
-        "date": "23 Kas",
-        "source": "The Verge",
-        "title": "AI data centers throw another wrench into chaotic UN climate talks",
-        "desc": "People protest outside the plenary ahead of the closing plenary session on the final day of the COP31 UNFCCC climate conference on November 20th in Antalya, Turkey. | Photo: Getty Images\t\n\nThe clean energy revolution hin",
-        "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
-      }
-    ],
-    "kod": [
       {
         "date": "24 Kas",
         "source": "GitHub Blog",
@@ -76,83 +97,62 @@
         "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
       },
       {
-        "date": "24 Kas",
-        "source": "Product Hunt",
-        "title": "Kodak SlideTag",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/kodak-slidetag"
-      },
-      {
         "date": "23 Kas",
         "source": "The Verge",
         "title": "Trump engineered a risky comeback for Jensen Huang",
         "desc": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on St",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
-      },
-      {
-        "date": "23 Kas",
-        "source": "The Verge",
-        "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-        "desc": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Tim",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
-      },
-      {
-        "date": "23 Kas",
-        "source": "The Verge",
-        "title": "Welcome to elite impunity, Jensen Huang",
-        "desc": "Too big to fail, the sequel. | Image: The Verge; Getty Images\t\n\nI suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
       }
     ],
     "arac": [
       {
-        "date": "24 Kas",
-        "source": "The Verge",
-        "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "desc": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge ",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
-      },
-      {
-        "date": "24 Kas",
+        "date": "25 Kas",
         "source": "Product Hunt",
-        "title": "Willow iOS 2.0",
+        "title": "OpenEight",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/willow-voice"
+        "url": "https://www.producthunt.com/products/openeight"
       },
       {
-        "date": "24 Kas",
+        "date": "25 Kas",
         "source": "Product Hunt",
-        "title": "Agenda Hero Magic Labs",
+        "title": "MAGI-2",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/agenda-hero-magic"
+        "url": "https://www.producthunt.com/products/magi-1"
       },
       {
-        "date": "24 Kas",
+        "date": "25 Kas",
         "source": "Product Hunt",
-        "title": "Hourly Journal",
+        "title": "GibHub",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/hourly-journal"
+        "url": "https://www.producthunt.com/products/gibhub-git-file-history"
       },
       {
-        "date": "24 Kas",
+        "date": "25 Kas",
         "source": "Product Hunt",
-        "title": "Finer Screenshot",
+        "title": "Hiring Right Now",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/finer-screenshot"
+        "url": "https://www.producthunt.com/products/hiring-right-now"
       },
       {
-        "date": "24 Kas",
-        "source": "Simon Willison",
-        "title": "datasette-charts 0.2a0",
-        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.2a0\">datasette-charts 0.2a0</a></p>\n        <p>I introduced this new charting plugin for Datasette <a href=\"https://simon",
-        "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/"
-      },
-      {
-        "date": "24 Kas",
+        "date": "25 Kas",
         "source": "Product Hunt",
-        "title": "Juncts",
+        "title": "Omi X 2.0",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/juncts"
+        "url": "https://www.producthunt.com/products/omi-x"
+      },
+      {
+        "date": "25 Kas",
+        "source": "Product Hunt",
+        "title": "Statefold",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/statefold-2"
+      },
+      {
+        "date": "25 Kas",
+        "source": "Product Hunt",
+        "title": "Sen Việt (VieLotus-IM)",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/sen-vi-t-vielotus-im"
       }
     ]
   }
