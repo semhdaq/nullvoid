@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-11-25T16:17:16.172Z",
-  "generated_at_tr": "25 Kas 2026",
+  "generated_at": "2026-11-26T01:13:19.604Z",
+  "generated_at_tr": "26 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "25 Kas",
+        "source": "The Verge",
+        "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+        "desc": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The",
+        "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+      },
+      {
+        "date": "25 Kas",
+        "source": "The Verge",
+        "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+        "desc": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing t",
+        "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+      },
+      {
+        "date": "25 Kas",
+        "source": "MIT Tech Review",
+        "title": "How data centers are driving a US natural-gas boom",
+        "desc": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s te",
+        "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
+      },
       {
         "date": "25 Kas",
         "source": "The Verge",
@@ -26,34 +47,20 @@
       },
       {
         "date": "25 Kas",
-        "source": "The Verge",
-        "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-        "desc": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of prod",
-        "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
-      },
-      {
-        "date": "25 Kas",
-        "source": "MIT Tech Review",
-        "title": "The Download: AI swamping open records, and firefighting for permafrost",
-        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ inter",
-        "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/"
-      },
-      {
-        "date": "25 Kas",
-        "source": "MIT Tech Review",
-        "title": "AI is straining America’s open records systems",
-        "desc": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During mor",
-        "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
-      },
-      {
-        "date": "24 Kas",
-        "source": "Simon Willison",
-        "title": "Three LLM inflection points in twelve months",
-        "desc": "<p>I gave a keynote at the <a href=\"https://ai.engineer/code/2026\">AI Engineer Code Summit</a> a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities ",
-        "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+        "source": "GitHub Blog",
+        "title": "How to choose the next safe step in application modernization",
+        "desc": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill.\nThe post How to choose the next safe step in application modernization appeared first",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/"
       }
     ],
     "kod": [
+      {
+        "date": "25 Kas",
+        "source": "Simon Willison",
+        "title": "Quoting Scott Aaronson",
+        "desc": "<blockquote cite=\"https://scottaaronson.blog/?p=10379\"><p>It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d ",
+        "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/"
+      },
       {
         "date": "25 Kas",
         "source": "The Verge",
@@ -95,13 +102,6 @@
         "title": "Data centers are getting their own natural gas power plants",
         "desc": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to ",
         "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
-      },
-      {
-        "date": "23 Kas",
-        "source": "The Verge",
-        "title": "Trump engineered a risky comeback for Jensen Huang",
-        "desc": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on St",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
       }
     ],
     "arac": [
