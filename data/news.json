@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-11-27T01:11:41.313Z",
+  "generated_at": "2026-11-27T15:41:55.472Z",
   "generated_at_tr": "27 Kas 2026",
   "categories": {
     "ai": [
+      {
+        "date": "27 Kas",
+        "source": "The Verge",
+        "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+        "desc": "Widgets, your way. | Photo: Allison Johnson / The Verge\t\n\nAside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus.\nWhat I need is a widget. It needs to tell me real-ti",
+        "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
+      },
+      {
+        "date": "27 Kas",
+        "source": "MIT Tech Review",
+        "title": "Our 2027 Innovators Under 35 competition is now open",
+        "desc": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition i",
+        "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/"
+      },
+      {
+        "date": "27 Kas",
+        "source": "MIT Tech Review",
+        "title": "How cutting-edge prosthetics can help probe the human mind",
+        "desc": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Toda",
+        "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/"
+      },
+      {
+        "date": "27 Kas",
+        "source": "Stack Overflow Blog",
+        "title": "Sandboxes, secure inference, and keeping agents from going rogue",
+        "desc": "At We Are Developers, Ryan talks with Daytona CEO and cofounder Ivan Burazin about agent sandboxes and Blackbox AI CTO and cofounder Richard Risk about encrypted inference.",
+        "url": "https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/"
+      },
+      {
+        "date": "27 Kas",
+        "source": "Product Hunt",
+        "title": "Depost AI",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/depost-ai"
+      },
       {
         "date": "26 Kas",
         "source": "Simon Willison",
@@ -16,44 +51,16 @@
         "title": "The Download: Better bionic hands and AI’s natural-gas boom",
         "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost hi",
         "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
-      },
-      {
-        "date": "26 Kas",
-        "source": "MIT Tech Review",
-        "title": "The next generation of bionic hands is here—and they can feel",
-        "desc": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For ",
-        "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/"
-      },
-      {
-        "date": "26 Kas",
-        "source": "The Verge",
-        "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-        "desc": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs ac",
-        "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
-      },
-      {
-        "date": "26 Kas",
-        "source": "Product Hunt",
-        "title": "Claude-Mem Cloud Sync",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/claude-mem"
-      },
-      {
-        "date": "26 Kas",
-        "source": "Simon Willison",
-        "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "desc": "<p><a href=\"https://news.ycombinator.com/item?id=50647673#50651685\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50647673\">The New York Times warns photographers not to update Photoshop over AI feature",
-        "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/"
-      },
-      {
-        "date": "26 Kas",
-        "source": "Product Hunt",
-        "title": "AgentDE",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/agentde"
       }
     ],
     "kod": [
+      {
+        "date": "27 Kas",
+        "source": "MIT Tech Review",
+        "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+        "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Re",
+        "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
+      },
       {
         "date": "25 Kas",
         "source": "Simon Willison",
@@ -95,64 +102,57 @@
         "title": "These are the gifts developers will actually want",
         "desc": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long.\nThe post These are the gifts developers will actually want appear",
         "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/"
-      },
-      {
-        "date": "24 Kas",
-        "source": "Stack Overflow Blog",
-        "title": "A Reboot Is Still a Deployment",
-        "desc": "",
-        "url": "https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment/"
       }
     ],
     "arac": [
       {
-        "date": "26 Kas",
+        "date": "27 Kas",
         "source": "Product Hunt",
-        "title": "Fairwind",
+        "title": "Woomool",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/fairwind"
-      },
-      {
-        "date": "26 Kas",
-        "source": "Simon Willison",
-        "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
-        "desc": "<p><strong><a href=\"https://www.sqlite.org/rsync.html\">sqlite3_rsync: Database Remote-Copy Tool For SQLite</a></strong></p>\nThis additional SQLite tool has been around for a while now - it was added as \"experimental\" <a ",
-        "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/"
+        "url": "https://www.producthunt.com/products/woomool"
       },
       {
         "date": "26 Kas",
         "source": "Product Hunt",
-        "title": "Superframes",
+        "title": "RightFont 2026",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/superframes-ai-video-editor"
+        "url": "https://www.producthunt.com/products/rightfont"
       },
       {
         "date": "26 Kas",
         "source": "Product Hunt",
-        "title": "Pax by Pydantic",
+        "title": "Ploid",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/pydantic"
+        "url": "https://www.producthunt.com/products/ploid"
       },
       {
-        "date": "25 Kas",
+        "date": "26 Kas",
         "source": "Product Hunt",
-        "title": "SuperLoupe",
+        "title": "Form Action Store",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/superloupe"
+        "url": "https://www.producthunt.com/products/form-action-store"
       },
       {
-        "date": "25 Kas",
+        "date": "26 Kas",
         "source": "Product Hunt",
-        "title": "Doodle",
+        "title": "Onset",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/doodle-5"
+        "url": "https://www.producthunt.com/products/onset"
       },
       {
-        "date": "25 Kas",
+        "date": "26 Kas",
         "source": "Product Hunt",
-        "title": "Upsolve Harness 2.0",
+        "title": "Contral",
         "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/upsolve-ai"
+        "url": "https://www.producthunt.com/products/contral"
+      },
+      {
+        "date": "26 Kas",
+        "source": "Product Hunt",
+        "title": "slay",
+        "desc": "Discussion\n            |\n            Link",
+        "url": "https://www.producthunt.com/products/slay-3"
       }
     ]
   }
