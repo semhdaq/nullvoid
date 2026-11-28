@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T15:41:55.472Z",
-  "generated_at_tr": "27 Kas 2026",
+  "generated_at": "2026-11-28T00:44:41.664Z",
+  "generated_at_tr": "28 Kas 2026",
   "categories": {
     "ai": [
       {
@@ -62,6 +62,13 @@
         "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
       },
       {
+        "date": "27 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-mcp 0.4",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.4\">datasette-mcp 0.4</a></p>\n        <p>Fixed for compatibility with <a href=\"https://docs.datasette.io/en/latest/changelog.",
+        "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/"
+      },
+      {
         "date": "25 Kas",
         "source": "Simon Willison",
         "title": "Quoting Scott Aaronson",
@@ -95,16 +102,16 @@
         "title": "Prompt Injection Fixes Need Regression Tests",
         "desc": "",
         "url": "https://stackoverflow.blog/2026/11/24/prompt-injection-fixes-need-regression-tests/"
-      },
-      {
-        "date": "24 Kas",
-        "source": "GitHub Blog",
-        "title": "These are the gifts developers will actually want",
-        "desc": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long.\nThe post These are the gifts developers will actually want appear",
-        "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/"
       }
     ],
     "arac": [
+      {
+        "date": "27 Kas",
+        "source": "Simon Willison",
+        "title": "datasette-charts 0.4a0",
+        "desc": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.4a0\">datasette-charts 0.4a0</a></p>\n        <p>The new datasette-charts plugin has its own plugin hook to allow other plu",
+        "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/"
+      },
       {
         "date": "27 Kas",
         "source": "Product Hunt",
@@ -146,13 +153,6 @@
         "title": "Contral",
         "desc": "Discussion\n            |\n            Link",
         "url": "https://www.producthunt.com/products/contral"
-      },
-      {
-        "date": "26 Kas",
-        "source": "Product Hunt",
-        "title": "slay",
-        "desc": "Discussion\n            |\n            Link",
-        "url": "https://www.producthunt.com/products/slay-3"
       }
     ]
   }
